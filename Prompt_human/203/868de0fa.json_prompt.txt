@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...draw circles with an even number grid OUTSIDE the green border with blue, and the rest (4x4, 7x7, 9x9) circles with the color you get from brown.
+
+2. To make the output, you have to...fill the squares with an even number grid INSIDE the blue border with red, and the rest (1x1, 3x3, 5x5) squares with the color you get from orange.
+
+3. To make the output, you have to...fill the squares with an odd number grid INSIDE the yellow border with purple, and the rest (6x6, 8x8, 10x10) squares with the color you get from lime.
+
+4. To make the output, you have to...fill the squares with an even number grid OUTSIDE the pink border with yellow, and the rest (2x2, 6x6, 8x8) squares with the color you get from purple.
+
+5. To make the output, you have to...paint the triangles with an odd number grid INSIDE the black border with green, and the rest (3x3, 5x5, 7x7) triangles with the color you get from blue.
+

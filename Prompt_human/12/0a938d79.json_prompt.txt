@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... randomly place squares of the two selected colors throughout the screen. The size and position of the squares should be different each time the output is generated. 
+
+2. To make the output, you have to... create a pattern of short stripes alternating between the 2 colors. Start from the first colored pixel and create a line that goes to the opposite side using that color. Then go to the second colored pixel and do the same. Continue the pattern of stripes to the RIGHT for a long grid or go DOWN for a tall grid all the way to the end.
+
+3. To make the output, you have to... start by drawing a pixel in the center of the canvas. With each successive pixel, move outwards in a spiral pattern, changing colors every other pixel.
+
+4. To make the output, you have to... sprinkle colored dots across the canvas like confetti, covering every available surface until no white can be seen.
+
+5. To make the output, you have to... use a looping process which gradually adds on additional colored pixels to the top right corner until the entire area is filled.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...flip both colored squares upside down and skew them as a zigzag pattern.
+
+2. To make the output, you have to...shape both colored squares into circles and rotate them across the board.
+
+3. To make the output, you have to...shrink both colored squares and scatter them randomly on the board.
+
+4. To make the output, you have to...move both colored squares to the corners of the board and form a diagonal line.
+
+5. To make the output, you have to...extend both colored squares left and right, and up and down across the board to form two lines. The square should be red where the lines intersect.
+

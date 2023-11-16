@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...place the input grid in the top 3x3 space and create a mirror image in the bottom 3x3 space.
+
+2. To make the output, you have to...create a mirror image of the input grid in the right 3x3 space and leave the left 3x3 space blank.
+
+3. To make the output, you have to...rotate the input grid 180 degrees and place it in the top 3x3 space.
+
+4. To make the output, you have to...place the input grid in the bottom 3x3 space and create a mirror image in the top 3x3 space.
+
+5. To make the output, you have to...swap the colors of the input grid and place it in the bottom 3x3 space.
+

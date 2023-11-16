@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...ignore the yellow corner squares and match the pattern in the center of the grid.
+
+2. To make the output, you have to...recreate the pattern outside the yellow corner squares within the yellow corner squares with provided starting shapes
+
+3. To make the output, you have to...mix and match the shapes from yellow and green squares randomly.
+
+4. To make the output, you have to...recreate the yellow corner squares in the blue corner squares with the given starting shapes.
+
+5. To make the output, you have to...arrange the shapes as they are without any change inside the yellow corner squares.
+

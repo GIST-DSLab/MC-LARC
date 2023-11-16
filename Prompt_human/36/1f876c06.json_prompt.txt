@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...arrange the blocks in a descending order of colors.
+
+2. To make the output, you have to...connect the two same colored blocks in a diagonal to create a same colored line.
+
+3. To make the output, you have to...swap the positions of the two blocks.
+
+4. To make the output, you have to...place the different colored blocks next to each other.
+
+5. To make the output, you have to...remove all the same colored blocks from the board.
+

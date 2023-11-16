@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...start with the green sketch, then juxtapose the brown outline over it, and finally juxtapose the black sketch as well. The black sketch will be most noticeable.
+
+2. To make the output, you have to...first put up the grey design, then set the light pink design above it, and lastly set the white design as well. The white design will be most apparent.
+
+3. To make the output, you have to...highlight the purple pattern initially, followed by encompassing the violet pattern over that and latly the green pattern. The green pattern will be on top.
+
+4. To make the output, you have to...copy the blue design first, then overlay the dark red design over that, finally overlay the yellow design over that as well. The yellow design will be most visible.
+
+5. To make the output, you have to...first move around the orange design, then layer the deep blue design on top of it, and in the end layer the pink design on top too. The pink design will be most prominent.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...the 4x14 grid divided into three 4x4 sections by red vertical lines. Each section displays a yellow pattern, a brown pattern, and a blue pattern from  left to right.

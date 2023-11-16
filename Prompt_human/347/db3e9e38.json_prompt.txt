@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...copy-paste the input. starting on each side, alternate colors between orange and light blue, and decreasing the line by one block. So the colors should be orange in middle, then light blue, then orange, then light blue.
+
+2. To make the output, you have to... start from one corner, alternate colors between black and white, and decrease the line by one block each time. The colors should be black in the middle, then white, then black, then white.
+
+3. To make the output, you have to... start at the middle and alternate between pink and violet, each time reducing the line by one block. So the colors should be pink at the center, then violet, then pink, then violet.
+
+4. To make the output, you have to... start from the middle and alternate between red and blue, without altering the line size. The colors should be red at the center, then blue, then red, then blue.
+
+5. To make the output, you have to... begin at each edge, alternate colors between green and yellow, and collapse the line by two blocks every time. So the colors should be green in the center, then yellow, then green, then yellow.
+

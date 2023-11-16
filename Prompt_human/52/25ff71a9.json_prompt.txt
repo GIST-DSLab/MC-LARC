@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...rotate all the figures 90 degrees clockwise.
+
+2. To make the output, you have to...shift all the shapes to the right by two grids.
+
+3. To make the output, you have to...expand the size of the grid by adding two rows and two columns.
+
+4. To make the output, you have to...move all the color move down by one grid.
+
+5. To make the output, you have to...change the color gradient by increasing the saturation.
+

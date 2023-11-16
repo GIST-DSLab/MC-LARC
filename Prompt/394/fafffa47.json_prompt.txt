@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... first, create a 3x3 grid and flood fill it with black color. Next, copy the brown pattern to the 3x3 grid. Then, copy the blue pattern on top of the brown pattern. After that, fill in the black squares with red color and fill in all the brown and blue squares with black color.
+
+2. To make the output, you have to... first, put the fabric on a flat surface. Then, cut the fabric according to the pattern. Next, sew the pieces together following the instructions. After that, iron the finished garment to remove any wrinkles.
+
+3. To make the output, you have to... first, roll out the dough into a 9x9 inch square. Then, spread the tomato sauce evenly over the dough. After that, add cheese and your favorite toppings.
+
+4. To make the output, you have to... first, sweep the floor and clean it with water. Then, arrange the furniture according to Feng Shui. After that, paint the walls with a light blue color.
+
+5. To make the output, you have to... first, plant the tomato seeds in a container with fertile soil. Next, water the seeds daily in the morning. Then, apply organic fertilizer to the soil. After that, harvest the tomatoes when they turn red.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...6x3 grid with brown and blue pixels. The upper 3x3 grid contains a random pattern composed of brown pixels, while the lower 3x3 grid contains a random pattern composed of blue pixels.

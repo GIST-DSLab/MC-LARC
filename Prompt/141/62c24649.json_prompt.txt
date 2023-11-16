@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...place the input grid in the top left 3x3. Then, reflect the top left 3x3 and place it in the top right 3x3. Now, reflect the top left and right 3x3 and place in the bottom left and right 3x3.
+
+2. To make the output, you have to...turn the input grid around the middle 3x3. Then, duplicate the middle 3x3 and locate it in the bottom left 3x3. Now, imitate the bottom 3x3 and place in the upper and lower right 3x3.
+
+3. To make the output, you have to...reverse the input grid in the top right 3x3. Then, copy the top right 3x3 and set it in the top left 3x3. Now, duplicate the top left and right 3x3 and locate in the lower left and right 3x3.
+
+4. To make the output, you have to...flip the input grid in the center 3x3. Then, rotate the center 3x3 and place it in the bottom right 3x3. Now, reflect the bottom right 3x3 and place in the top right and left 3x3.
+
+5. To make the output, you have to...move the input grid to the lower left 3x3. Then, spin the lower left 3x3 and position it in the top right 3x3. Now, replicate the top right 3x3 and place in the upper left and lower right 3x3.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... a 3x3 grid with red blue and green colors.

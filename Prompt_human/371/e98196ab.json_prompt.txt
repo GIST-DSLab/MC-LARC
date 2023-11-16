@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...mesh together both patterns from above and below the gray line.
+
+2. To make the output, you have to...discard all patterns from above and below the gray line.
+
+3. To make the output, you have to...only utilize the patterns from below the gray line.
+
+4. To make the output, you have to...color the patterns above the gray line, then copy them below.
+
+5. To make the output, you have to...draw new patterns instead of using the ones above and below the gray line.
+

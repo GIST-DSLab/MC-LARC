@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... adjust the shape of the colored object to match the light blue object, then replace the colored outlines with light blue blocks.
+
+2. To make the output, you have to...flip the colored object and place it on top of the light blue object. Then change the middle blocks adjacent to the colored outlines to light blue.
+
+3. To make the output, you have to...enlarge the colored object and shrink the light blue object before fitting it into the colored object. No color changes are required.
+
+4. To make the output, you have to...copy the colored object and copy the light blue object inside the colored object. Then change the middle light blue blocks adjacent to the colored outlines to the same color.
+
+5. To make the output, you have to...remove the colored object and replace it with the light blue object, then change the light blue blocks around the colored outlines to a different color.
+

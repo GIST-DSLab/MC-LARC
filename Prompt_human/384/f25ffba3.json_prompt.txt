@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...fold the pattern in half along the vertical axis.
+
+2. To make the output, you have to...invert the color scheme of the pattern.
+
+3. To make the output, you have to...reflect the pattern upside down like it was up against a mirror.
+
+4. To make the output, you have to...stretch the pattern to twice its original size.
+
+5. To make the output, you have to...rotate the pattern 180 degrees in a clockwise direction.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...swap the positions of all the red and green pixels on the grid. Afterward, all red pixels should be changed to blue and all green pixels should be changed to yellow.
+
+2. To make the output, you have to...copy the placement and color of the pixels surrounding the blue or yellow pixels that are not alone to the pixels that are alone. If the pixel is blue the placement and color of the surrounding pixels should be the same as the surrounded blue pixel. This should be applied to all solo blue pixels. The same should be done with the yellow pixels, but the placement of the surrounding pixels should be mirrored vertically.
+
+3. To make the output, you have to...copy the placement and color of the pixels surrounding the red or green pixels that are not alone to the pixels that are alone. If the pixel is green the placement and color of the surrounding pixels should be the same as the surrounded green pixel. This should be applied to all solo green pixels. The same should be done with the red pixels, but the placement of the surrounding pixels should be mirrored horizontally.
+
+4. To make the output, you have to...delete all green and red solo pixels without affecting the other pixels. You then fill the blank grid space where the green and red pixels were with black pixels.
+
+5. To make the output, you have to...move the red and green solo pixels to the position of any other random color pixel and take on the color of the pixel that is moved. Repeat this process until all red and green solo pixels have moved.
+

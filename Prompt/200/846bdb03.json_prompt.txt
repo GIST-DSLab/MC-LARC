@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...position the blocks regardless of color in such a way that they fit next to the blocks with the yellow, implying a necessity to surpass the yellow blocks.
+
+2. To make the output, you have to...align the blocks with the yellow on top at each end, ensuring that every color is clearly visible. No colors should be placed beyond the yellow blocks.
+
+3. To make the output, you have to...place the blocks without the yellow in a sequence so that they fit between the blocks with the yellow by color. All colors are allowed to extend past the yellow blocks.
+
+4. To make the output, you have to...fix the blocks without the yellow in a way that they are contained in the blocks with the yellow. The colors do not necessarily have to match, but they can't exceed the yellow blocks.
+
+5. To make the output, you have to...rotate the blocks without the yellow so they fit between the blocks with the yellow on the end and the colors match up. All colors should fit within the two sets of blocks with the yellow on the end without a need to go beyond the yellow blocks.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... two vertical line shapes with yellow squares at the top and bottom, and two other shapes that join together with colors that match the middle part of the vertical line shapes.

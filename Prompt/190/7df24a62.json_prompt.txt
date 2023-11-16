@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...move the yellow/blue pattern to a different location on the grid. The pattern and colours stay the same, just change their position.
+
+2. To make the output, you have to....copy and paste the exact same grid. Find all instances of the pattern that is surrounded in blue. Everywhere on the grid where there is the exact yellow pattern, surround it with blue. So, on all sides of the yellow boxes (in the same pattern) will be blue boxes(exactly as shown in the yellow/blue pattern)
+
+3. To make the output, you have to...change all the blue boxes in the grid to yellow. Leave the pattern as it is, just adjust the colours.
+
+4. To make the output, you have to...erase all instances of the yellow pattern from the grid. Draw additional blue boxes next to the existing ones.
+
+5. To make the output, you have to...reverse the pattern. Make the yellow boxes blue and the blue boxes yellow. 
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a 23x23 grid with a black background. There will also be random yellow pixels scattered around. Some of the yellow pixels will be surrounded with blue rectangles.

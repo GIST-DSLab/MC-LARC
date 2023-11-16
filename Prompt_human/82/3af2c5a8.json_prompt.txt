@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...rotate the grid 90 degrees clockwise, then duplicate the pattern in the lower half to the upper half.
+
+2. To make the output, you have to...scale down the pattern to fit the upper left quadrant, then mirror it horizontally and vertically.
+
+3. To make the output, you have to...invert the pattern, then duplicate it in all quadrants of the grid.
+
+4. To make the output, you have to...move the pattern to the center of the grid, then duplicate it diagonally in all corners of the grid.
+
+5. To make the output, you have to...imagine grid is cut in half vertical. Copy pattern to top and below left half. Mirror pattern to right half of grid to top and below.
+

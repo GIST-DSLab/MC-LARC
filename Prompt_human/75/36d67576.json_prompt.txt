@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...remove the red pattern from the yellow pattern.
+
+2. To make the output, you have to...invert colors on the yellow pattern.
+
+3. To make the output, you have to...merge the yellow pattern with the red one.
+
+4. To make the output, you have to...repeat pattern shown on single yellow pattern onto others.
+
+5. To make the output, you have to...copy the blue pattern onto the red pattern.
+

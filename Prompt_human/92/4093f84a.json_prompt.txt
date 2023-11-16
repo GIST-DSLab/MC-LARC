@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...replace the gray boxes with the non-gray ones. You need to envision the gray columns/row repelling the non-gray boxes like they are opposite poles of a magnet.
+
+2. To make the output, you have to...redesign the entire structure with only gray boxes, disregarding the central row position. 
+
+3. To make the output, you have to...remove the gray boxes and shift the non-gray boxes towards the central row as if they are magnets.
+
+4. To make the output, you have to...create a mirror image of the structure on the gray boxes without any relation to magnet-like attraction.
+
+5. To make the output, you have to...copy the gray itself. Imagine the non-gray boxes are attracted to the gray columns/row like magnets. so change the non-gray boxes to gray and remove the difference between so that each now gray box is touching the central row.
+

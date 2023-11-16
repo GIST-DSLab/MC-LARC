@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...push a group of 2 blocks aside, enlarge a group of 3 blocks by 50%, shrink a group of 4 blocks by 25%, color a group of 5 blocks in multicolor.
+
+2. To make the output, you have to...remove a group of 2 blocks, add a group of 3 blocks on the left side, split a group of 4 blocks into 2 groups of 2 blocks, rearrange a group of 5 blocks in a circle.
+
+3. To make the output, you have to...change a group of 2 blocks from gray to green, change a group of 3 blocks from gray to red, change a group of 4 blocks from gray to blue.
+
+4. To make the output, you have to...paint a group of 2 blocks white, transform a group of 3 blocks into spheres, switch a group of 4 blocks with a group of 5 blocks, place a group of 6 blocks on top of each other.
+
+5. To make the output, you have to...change a group of 6 blocks from gray to violet, move a group of 2 blocks from the left to the right, turn a group of 3 blocks from green to yellow, rotate a group of 4 blocks 90 degrees clockwise. 
+

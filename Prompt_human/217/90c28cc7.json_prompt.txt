@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...overlap all the same color grids with another image.
+
+2. To make the output, you have to...swap all colored grids with a black and white pattern.
+
+3. To make the output, you have to...replace group of same color grids with single same color grid.
+
+4. To make the output, you have to...remove all the same color grids from the image.
+
+5. To make the output, you have to...replace all same color grids with different color grids.
+

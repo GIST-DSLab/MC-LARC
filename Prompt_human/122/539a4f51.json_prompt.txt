@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...begin by filling the entire grid with the color black. Afterward, decide what pattern to create based on pure intuition.
+
+2. To make the output, you have to...first, recognize for the input that any section in BLACK is just left-over grid space and is NOT part of the pattern.Start with the central square-shape and copy the pattern block-by-block. Keep extending the pattern, repeating it the entire grid is filled. For each section the same color as the central square-shape, the thickness is the same as the width of the square.Whatever color the central center-square is, same color patterns as the center-square should also have the same thickness as the width of the center-square (in boxes). (Example: 4x4 blue center-square = blue patterns should be 4 boxes wide)
+
+3. To make the output, you have to...commence with the corner blocks and slowly work your way in. Colors should not repeat and there is no specific width for each section.
+
+4. To make the output, you have to...start with whatever color you prefer. There's no need to follow the center-square, and the thickness of the patterns varies widely.
+
+5. To make the output, you have to...first, ignore the input and start drawing randomly on the grid. Make sure not to repeat patterns and colors.
+

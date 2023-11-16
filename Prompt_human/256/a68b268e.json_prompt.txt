@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...ignore the top right 4x4 on output. add bottom left 4x4 pattern. color over the first color. disregard the other sections.
+
+2. To make the output, you have to...take the top left 4x4 on output. add top right 4x4 pattern. do not cover the first color. do the same for each section.
+
+3. To make the output, you have to...fuse the bottom right 4x4 on output. include the top left 4x4 pattern. avoid coloring the last color. don't repeat for each section.
+
+4. To make the output, you have to...repeat the bottom left 4x4 on output. subtract the top left 4x4 pattern. cover every color except the first. repeat in only one section.
+
+5. To make the output, you have to...discard the top left 4x4 on output. incorporate bottom right 4x4 pattern. skip coloring the first frame. apply this to all the sections.
+

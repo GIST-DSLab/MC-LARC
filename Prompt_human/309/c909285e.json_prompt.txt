@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... count the number of squares in the colored border and resize the output to that number. Then you color all the blocks to match the input.
+
+2. To make the output, you have to... count the total number of pixels, regardless of color, and resize the output based on that. Then you color all the blocks the same shade of gray.
+
+3. To make the output, you have to... ignore the colored borders and randomly assign colors from the 9 color palette.
+
+4. To make the output, you have to... remove all colors from the input and use only black and white pixels in the output. The resizing is based on the smallest square within the colored borders.
+
+5. To make the output, you have to... resize the output based on the largest square found within the borders. Then you fill all the blocks with different colors in a checkerboard pattern.
+

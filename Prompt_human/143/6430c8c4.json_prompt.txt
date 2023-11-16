@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...merge the two sections side by side. Then you should examine each block. A block that has some of the pattern from the previous blocks is colored green. Any block that lacks pattern from any of the first blocks is colored black.
+
+2. To make the output, you have to...put the two section over top of each other. Then you have to look at each block. A block that does not have any of the pattern from the old blocks is colored green. Any block that has pattern from either of the first blocks is colored black.
+
+3. To make the output, you have to...stack the two section beneath each other. Then you must evaluate each block. A block that has none of the pattern from the primary blocks gets colored in green. Any block that showcases pattern from either of the latter blocks is colored white.
+
+4. To make the output, you have to...put one section inside the other. Then, it's necessary to inspect each block. A block devoid of the pattern from the first set of blocks will be colored green. Each block that includes the pattern from any primary blocks is painted black.
+
+5. To make the output, you have to...overlap the two sections diagonally. Then, you should scrutinize each block. A block containing some of the pattern from the initial blocks is rendered green. Any block that has no pattern from any of the secondary blocks is filled black.
+

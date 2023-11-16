@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...switch the blocks with another one of a different color.
+
+2. To make the output, you have to...continue the single block diagonally to the edge with the same color.
+
+3. To make the output, you have to...place multiple blocks along the edge.
+
+4. To make the output, you have to...flip the block upside down.
+
+5. To make the output, you have to...rotate the block clockwise until it matches the color on the edge.
+

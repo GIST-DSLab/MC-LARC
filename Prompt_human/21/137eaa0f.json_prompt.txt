@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...move each pattern so that the gray square in each pattern occupies the center square of the output 3x3 grid.
+
+2. To make the output, you have to...rotate each pattern such that the white square in each pattern occupies the corner squares of the output 3x3 grid.
+
+3. To make the output, you have to...shift each pattern so that the blue square in each pattern sits on the last square of the output 3x3 grid.
+
+4. To make the output, you have to...resize each pattern so that the red square in each pattern fills the entire output 3x3 grid.
+
+5. To make the output, you have to...flip each pattern so that the black square in each pattern occupies the top row of the output 3x3 grid.
+

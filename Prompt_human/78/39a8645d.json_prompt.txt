@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... draw a new shape that matches the one with the most copies. Rotate the shape with the least copies. 
+
+2. To make the output, you have to... delete all the shapes that have more than one copy. Calculate the size difference between the various shapes. 
+
+3. To make the output, you have to... fill the shapes with different colors depending on their copies. Focus on the shape with the least copies. 
+
+4. To make the output, you have to... replace all the shapes with their respective copies. Flip the shape with the most copies.
+
+5. To make the output, you have to... count the number of copies of each shape. Zoom in on the shape with the most copies.
+

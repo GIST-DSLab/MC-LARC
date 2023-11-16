@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...transfer the inner layer hue to a random spot within the upper half of the corner triangle, forming a diamond pattern. Then, manipulate the interior figure by picturing a counter-clockwise 45 degree, 120 degree, 310 degree rotation, and balance the table with these patterns interweaved among each other.
+
+2. To make the output, you have to...copy the inside shade to the multiple points along the edges of the bordering cube to design a circular sequence. For the enclosed diagram you have to envision the pattern anti-clockwise 60 degree, 150 degree, 240 degree, and populate the matrix with these diagrams traversing one another.
+
+3. To make the output, you have to...migrate the distant shadow to the exact middle of each wall of the boundary cylinder to set up a zigzag layout. Reflecting on the interior structure you have to visualise the pattern clockwise 45 degree, 135 degree, 225 degree spinning, and populate the checklist with these representations overlapping each other.
+
+4. To make the output, you have to...transport the lower gradient to the center of all facets of the exterior square to construct a polka dot plan. Then with regard to the boxed figure you have to visualise a right-spinning 30 degree, 210 degree, 300 degree rotation, and fill in the web with these blueprints meshed together.
+
+5. To make the output, you have to...copy the outside color to the opposite corners of each side of the inside shape to make a square pattern. Then for the inside shape you have to visualize the pattern clockwise 90 degree, 180 degree, 270 degree, and fill in the grid with all of these overlay on top of each other.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a symmetrical and multi-colored pattern with several pixels around it.

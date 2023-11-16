@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... rotate the whole grid 90 degrees counter-clockwise and sustain the green color.
+
+2. To make the output, you have to...change so that the top left corner color changes to light blue instead of green. same with lower green 2by 2 grid
+
+3. To make the output, you have to... slide the middle row to the left while changing the top left corner color to yellow.
+
+4. To make the output, you have to... adjust the 3 by 3 grid to the bottom right, while maintaining the original colour.
+
+5. To make the output, you have to... flip the whole layout horizontally and make the top left corner color red.
+

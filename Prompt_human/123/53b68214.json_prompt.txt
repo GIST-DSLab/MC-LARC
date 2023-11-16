@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... rotate the input pattern to a desired angle and redefine the design on your 10x10 grid.
+
+2. To make the output, you have to... erase some parts of the input pattern till you form a unique design on your 10x10 grid.
+
+3. To make the output, you have to... juxtapose the original pattern with a different pattern to form a mosaic on your 10x10 grid.
+
+4. To make the output, you have to...copy the input pattern exactly and then just continue the pattern (using the same color) till you reach the end of 10x10 grid. It is just a continuation of the original.
+
+5. To make the output, you have to... cross-check the input pattern with another grid and combine the designs from both to complete the 10x10 grid. 
+

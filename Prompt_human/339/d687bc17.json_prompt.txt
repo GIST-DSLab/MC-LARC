@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...firstly, change all the colors of the boxes in the middle to black. After that, align top colored boxes with the middle ones. Next, move the right side colored boxes to align with the middle ones. Then do the same for the bottom and left side of the grid.
+
+2. To make the output, you have to...swap all the colored boxes in the middle with white boxes. Then, match the color of the top boxes with the middle boxes. Subsequently, use the color of right side boxes to paint the middle boxes. Lastly, process the bottom and left side of the grid in the same way.
+
+3. To make the output, you have to...initiate by changing the hue of all middle boxes to black. Then, shift the position of top boxes to be in the middle. Afterwards, move up the right side boxes to be in the middle and rotate them to align with top boxes. Directly afterwards, repeat this for the bottom and left side boxes. 
+
+4. To make the output, you have to...start by replacing all middle boxes with black ones. Then establish a path for the top boxes to move down to the middle. Subsequently, shift right side boxes towards the center and rotate them to match. Perform these steps repeatedly for the bottom and left boxes until the grid is filled.
+
+5. To make the output, you have to...copy and paste the entire box. In the end, almost all of the center boxes will be black. Look at the top of the grid; if there are boxes the same color as those on top, move it up to touch the top and then color black any boxes of same color that are left in the middle. Next, look at the right side of the grid, if there are any boxes the same color as the right side, move it up to touch the right side and then color black any boxes of same color that are left in the middle. Repeat these steps for the bottom and left side of the grid.
+

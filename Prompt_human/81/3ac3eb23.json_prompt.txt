@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...place the squares onto a grid first, then fill them.
+
+2. To make the output, you have to...circle the corners of every square.
+
+3. To make the output, you have to...paint each square with different shades of color.
+
+4. To make the output, you have to...fill the squares randomly without any pattern.
+
+5. To make the output, you have to...take it as 3 column for each square and fill as a chess board pattern.
+

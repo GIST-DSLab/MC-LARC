@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...form a line of each color moving towards each corner. Stop lines with a gap of 2 squares before they intersect. Form rows on each side with 3 cubes on every side for every color. Avoid connecting colors at the end of these lines. This allows an empty space to formulate at the epicenter with a dimension of 3x2.
+
+2. To make the output, you have to...keep all colors in line at the edges. Ensure no color ends up in the center by stopping the lines 2 squares before they collide. Form two lines on each side with 3 cubes on either side for each color. Do not connect the colors at the end of these lines. The center should be filled with a multi-colored pattern in a size of 2x3.
+
+3. To make the output, you have to...arrange each color in line to form a spiral into the center. Stop each line 1 square after they meet in the center, leaving a single black square. Maintain a line on both sides with 2 cubes for every color. Extend these lines with an additional coloured cube to connect all the colors. This should leave a single black square at the very center.
+
+4. To make the output, you have to...make each color in line go toward the center. Make a black empty space in the center by stop the lines 1 square each before they meet. This should give you 2 black squares in the center. Form a new line on each side with 2 cubes on either side for each color. Put one more colored cube at the end of these lines to make each color connect. This should make an empty space in the center with a size of 2x3.
+
+5. To make the output, you have to...push every color towards the periphery, leaving the center as a black space. Form a single straight line with one cube on every side for each color. Continue this line of colors until they coalesce at the center. Thus the center will stay black with a size of 4x5.
+

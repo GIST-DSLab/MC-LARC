@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...change the lower half of the red bars to light blue and the upper half remain red. If there are an even number of squares in the bar, the red squares and light blue squares should be even. If there are an odd number of squares in a bar, there should be one more upper red squares than there are lower blue squares.
+
+2. To make the output, you have to...make the entire bar orange if the squares in the bar are odd, and black if the squares are even.
+
+3. To make the output, you have to...color a bar entirely light blue if it contains an odd number of squares, and entirely red if it contains an even number of squares.
+
+4. To make the output, you have to...split each bar into top and bottom halves with the upper half being green and the lower half purple. Keep the split above and below equal even if the number of squares in a bar is either even or odd.
+
+5. To make the output, you have to...draw a horizontal line in the middle of each bar with every square above the line being red and every square below the line being light blue. if the number of squares in a bar is odd, the center-most square should remain uncoloured.
+

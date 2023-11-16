@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...throw 2 pink squares, mark that area with a red circle on the old grid. Double squares are shown as white.
+
+2. To make the output, you have to...hide 2 pink triangles, identify that space with a green line on the current grid. Half squares are shown as grey.
+
+3. To make the output, you have to...manipulate 2 pink circles, demonstrate that region with an orange triangle on the previous grid. Multiple squares are shown as pink.
+
+4. To make the output, you have to...destroy 2 pink hexagons, indicate that section with a yellow star on the next grid. Quarter squares are shown as brown.
+
+5. To make the output, you have to...hold 2 pink squares, represent that area with a blue box on the new grid. Single squares are shown as black.
+

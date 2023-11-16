@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...sketch a brown ellipse around every yellow diamond. The minor axis of the ellipse should be proportionate to the diamond's length. Place a row of vertical green circles underneath the diamonds. These circles should be as wide as the diamond. If the green line should cross an ellipse, then the ellipse should remain. Don't cover any brown.
+
+2. To make the output, you have to...put a green border around each red square. The thickness of the green border should equal one half of the thickness of the red square (if the square is 6 squares across then the green border should be three squares deep around it). Fill the black squares below the red and green squares with a vertical line of blue squares. The blue squares should be in the same vertical row as the red square and should be the same width as the red square. If the blue line should intersect with a green box, then the green box should stay. Don't color over any green.
+
+3. To make the output, you have to...place a purple hexagon around each green octagon. The hexagon's side length should be identical to a quarter of the octagon's diameter. Draw a horizontal line of yellow triangles in the spaces below the hexagons. The triangles should align with the octagons and be the same size as them. If a yellow line intersects a hexagon, let the hexagon stay intact. Don't color over any purple.
+
+4. To make the output, you have to...add a pink border around each blue circle. The thickness of the pink border should equal one third of the diameter of the circle. Fill empty spaces between the circles with a horizontal line of yellow squares. The yellow squares should be in the same horizontal row as the blue circle and should be the same size as the circle. If the yellow line runs into a pink box, let the pink box remain. Do not color over any pink.
+
+5. To make the output, you have to...draw an orange rectangle around each violet triangle. The thickness of the rectangle should be double the triangle's length. Fill the white polygons below the triangles with a diagonal line of red circles. These red circles should be the same size as the triangle. If a red line should intersect a violet triangle, leave the triangle undisturbed. Don't color over any violet.
+

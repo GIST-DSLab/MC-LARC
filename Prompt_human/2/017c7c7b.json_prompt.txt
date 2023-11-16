@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...reduce the image size to a small thumbnail and apply a sepia filter.
+
+2. To make the output, you have to...color all solid lines in green on a floor plan design.
+
+3. To make the output, you have to...identify a repeating blue pixel pattern and fill the repeated pattern with red pixels on a 6x9 grid.
+
+4. To make the output, you have to...draw a triangle in the center of a square base pyramid model.
+
+5. To make the output, you have to...rotate a 3D cube 45 degrees clockwise and increase its transparency to 70%.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...rotate the bottom half of the grid by 180 degrees onto the 3x4 grid.
+
+2. To make the output, you have to...break apart the pattern in the bottom half of the grid and scatter its pieces throughout the 3x4 grid.
+
+3. To make the output, you have to...draw diagonal lines across the bottom half of the grid into 3x4 and extend it to the top half.
+
+4. To make the output, you have to...copy the pattern as you see it on the bottom half of the grid into 3x4. Once done, flip the pattern up to the top half of the 3x4 grid.
+
+5. To make the output, you have to...use the bottom half of the grid as motif for the top half in 3x4 grid.
+

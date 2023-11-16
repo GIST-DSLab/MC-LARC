@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...connect the edges of the squares by drawing straight lines between them. Use orange to fill in the squares that are connected, and you should end up with a completely new shape(s).
+
+2. To make the output, you have to...reconnect the sides of the rectangle(s). Use red to fill in the missing pieces of the sides in a straight line, rebuilding the rectangle(s). You should end up with one or two rectangles.
+
+3. To make the output, you have to...use different colours to distinguish between the various parts of the image. Use green and blue to fill in the triangles and rectangles in the image. 
+
+4. To make the output, you have to...remove the filled in parts of the shape(s) and then replace them with blank spaces in your new design. Use yellow to outline the new spaces that you create.
+
+5. To make the output, you have to...break down the existing shapes in the diagram. Use purple to draw a circle around the pieces that fit together, and form a new shape. You might end up with one or two new shapes.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a blue pattern on a black background. This pattern represents a rectangle (or two rectangles sharing a side), but is missing some blue that would form the sides of the rectangle(s).

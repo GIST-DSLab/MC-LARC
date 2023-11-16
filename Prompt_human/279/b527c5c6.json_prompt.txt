@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...extend the single colored square to the edge of the grid heading away from the other color. The other color will fill in around the single color line the same amount of squares it is away from the beginning single color square
+
+2. To make the output, you have to...arrange the single colored square in the middle of the grid and allow the other colors to randomly occupy the remaining spaces.
+
+3. To make the output, you have to...drag the single colored square in a zigzag pattern across the grid, letting the other color seep into the empty spaces at its own pace.
+
+4. To make the output, you have to...place the single colored square at a random position, then fill in the rest of the grid by dropping the remaining color pixels from the top.
+
+5. To make the output, you have to...create a diagonal path with the single colored square from one corner of the grid to the opposite, then let the other color occupy the remaining spaces based on a predetermined pattern.
+

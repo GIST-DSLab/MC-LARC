@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...repeat the color lines in the same horizontal or vertical order as they appear in the input. The lines should go all the way across the grid to form stripes that are in the same color order and orientation as the input.
+
+2. To make the output, you have to...select only one color line and repeat it across the grid.
+
+3. To make the output, you have to...randomize the color lines in the grid.
+
+4. To make the output, you have to...blur the color lines together instead of keeping them separate.
+
+5. To make the output, you have to...draw all the color lines diagonally.
+

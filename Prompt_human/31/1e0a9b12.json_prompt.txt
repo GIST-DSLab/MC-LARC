@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... view the grid as a silent ocean and the colored squares as drifting boats. When a wave hits, these boats move randomly, leading to the output grid.
+
+2. To make the output, you have to... think of the grid as a black field and as the colored squares as being objects floating in space. Gravity is suddenly turned on and all of the block fall vertically to the bottom. That produces the correct output grid.
+
+3. To make the output, you have to... consider the grid as a blank map and the colored squares as continents. When a gust of wind blows, these continents will scatter around, creating an output grid.
+
+4. To make the output, you have to... conceive the grid as an empty canvas and the colored squares as blotches of color. When you shake the painting, the colors will redistribute randomly across the canvas, thus forming the output grid.
+
+5. To make the output, you have to... imagine the grid as a clear sky and the colored squares as balloons. When the wind blows, the balloons will float in different directions, generating the output grid.
+

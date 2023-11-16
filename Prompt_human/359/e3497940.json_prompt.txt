@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...push all blocks towards the left till they hit the gray line which will act as a barrier. None of the blocks will pass beyond this line.
+
+2. To make the output, you have to...rotate the blocks by 90 degrees to the right side, using the gray line as the axis. This will create a mirrored effect.
+
+3. To make the output, you have to...pull out the blocks from the right side of the gray line so that they align perfectly with the left side. There should be no overlapping of blocks.
+
+4. To make the output, you have to...clear all blocks and start from scratch, taking the gray line as a guide. Any blocks that cross the gray line will disappear.
+
+5. To make the output, you have to...fill in the blocks as if you have folded the right side directly over the left side, taking the gray line out.. The blocks directly beside of the gray line will overlap.
+

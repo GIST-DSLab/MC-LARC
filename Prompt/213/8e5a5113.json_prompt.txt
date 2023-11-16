@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... recreate the first square with inverted colors, then in the next black square skew the pattern diagonally, and finally, in the last square flip the pattern horizontally.
+
+2. To make the output, you have to...copy the first square exactly, then in the next black square shift the color pattern to the left, and finally, in the last black square invert the colors. 
+
+3. To make the output, you have to...copy the first square exactly. Then in the next black square rotate the color pattern 90 degrees to the right. Then in the final black square rotate the pattern another 90 degrees.
+
+4. To make the output, you have to... ignore the first square and work only with the black squares, rotating the color pattern 270 degrees to the right.
+
+5. To make the output, you have to... reflect the first square over the vertical axis, then in the next black square rotate the color pattern 180 degrees, and finally, in the last black square mirror the pattern vertically. 
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...3 sections divided by 2 gray vertical line. Sections are 3x3 grid. In the leftmost section, there is a 3x3 square colored in various colors.

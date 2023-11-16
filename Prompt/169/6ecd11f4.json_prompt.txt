@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...create a new pattern that does not exist in the large rectangular area and apply it to the small rectangular area
+
+2. To make the output, you have to...discard the small rectangular pattern and focus on reproducing the large rectangular area
+
+3. To make the output, you have to...eliminate the black pattern from both the small and the large rectangular areas
+
+4. To make the output, you have to...transfer the black pattern from the small rectangular area to the large rectangular area
+
+5. To make the output, you have to...reproduce the small rectangular pattern then reproduce the black pattern from the large rectangular area onto the small rectangular area
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a large grid with a large pattern of the same color, and a small pattern with many colors.

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...divide each block into a 2x2 square in the same color as the original block. So, each block from the original input grid will become a 2x2 block of 4 squares of the same color as the original block.
+
+2. To make the output, you have to...merge every 2x2 square into a single large block, maintaining the original color of each square.
+
+3. To make the output, you have to...replace each block with a 2x2 square of contrasting color.
+
+4. To make the output, you have to...rotate each original block 90 degrees clockwise according to its color.
+
+5. To make the output, you have to...invert the colors of each original block in the grid to obtain a 2x2 square.
+

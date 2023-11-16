@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...mirror the horizontal blocks and match them with the vertical colors.
+
+2. To make the output, you have to...paint the horizontal blocks in contrast with the vertical colors.
+
+3. To make the output, you have to...invert the colors of the horizontal blocks to match the vertical ones.
+
+4. To make the output, you have to...color the horizontal blocks the same pattern as the vertical colors.
+
+5. To make the output, you have to...strip the horizontal blocks to resemble the vertical colors.
+

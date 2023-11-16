@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...copy the colors from the four corners of the input to the center blocks of the output, creating 4x4 blocks. Use colors from the center of the input grid to create 2x2 blocks in the middle of the outer spaces of the output. Paint each corner of the output grid in rainbow hues. If the output grid's number of blocks in height and width is even, color the center block.
+
+2. To make the output, you have to...use black from the input grid's corner to create 4x4 blocks at the center of the output. Use colors from the middle of the input grid to create 3x3 blocks in any random places in the output. Leave every block of the output grid as it is. If the output's number of blocks in height and width is not odd, fill the center with a pattern of mixed colors.
+
+3. To make the output, you have to...select a random color from the input grid and create 4x4 colored blocks at any corner of the output. Use any colors from the input grid to design the middle outer space of the output grid randomly. Color each corner of the output grid neon. If the output grid has an even number of height and width blocks, draw a pattern in the center.
+
+4. To make the output, you have to...create 2x2 blocks using the color from the center of the input grid and place them in the corners of the output. Use colors from the outermost blocks of the input to create 1x1 blocks in the corresponding positions in the output. Leave each corner block of the output grid untouched. If the output has an even number of blocks in height and width, paint the center of the grid white.
+
+5. To make the output, you have to...use the color from the input corner to make 4x4 blocks of the same colors in the corresponding corner of the output. Use colors in the middle outside blocks of the input grid to create 1x2 or 2x1 blocks in the corresponding middle outside space in the output. Black out each corner block of the output grid. If the output is not even in its number of blocks in height and width, black out the center of the grid.
+

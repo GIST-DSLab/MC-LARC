@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... color the entire sheet with blue color first and then fill in the white spaces with yellow ink
+
+2. To make the output, you have to...fill black parts with yellow color and leave two blocks between them, start fill the lower part from the left, then upper part two blocks away
+
+3. To make the output, you have to... fill in every alternate block with red color and leave three blocks between them, begin from the center and then progress towards the edges
+
+4. To make the output, you have to... fill all blocks with green color and leave no blocks in between them, start from the right side then progress left
+
+5. To make the output, you have to... color the black parts purple and leave five blocks between them, start fill from right to left without considering the upper or lower parts
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a continuous repeating diagonal pattern of red color horizontally.

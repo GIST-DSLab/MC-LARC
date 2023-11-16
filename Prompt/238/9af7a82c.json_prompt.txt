@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...tuck the shapes into each other to form a large shape in the middle of the grid. The shapes should be arranged by weight, heaviest at the bottom and lightest at the top. The heaviest shape should be in the bottom middle of the grid and the lightest shape should be at the top. The smaller shapes should be nestled within the larger shapes like a puzzle. Fill the remaining voids in the grid with a pattern derived from each shape.
+
+2. To make the output, you have to...inflate the shapes to fill the entire grid, making them overlap each other. The shapes should be arranged by sharpness, with the sharpest shapes appearing clearer and the bluntest shapes shadowy. Start with the sharpest shape in the top left corner, let it extend to fill half of the grid and progressively fill the rest of the grid with the blunter shapes. Both top and bottom right corners of the grid should be left blank, forming a neat diagonal line.
+
+3. To make the output, you have to...scatter the shapes randomly across the entire grid. Size or length of the shapes should not dictate their positioning or order. Start by placing the largest shape in the middle of the grid, then arrange the rest of the shapes randomly without following a specific pattern or sequence. The bottom-right of the grid should be filled with a vibrant color representing the mixture of all shapes.
+
+4. To make the output, you have to...straighten out the shapes to become lines, hanging from the top of the new grid. The shapes will be arranged by length, longest starting at the left and shortest at the right. The largest shape should start at the top left and extend all the way down to fill the grid. The next biggest shape will fill in next to it and extend down the number of blocks of the original shape. The next smallest shape will go next extend down the number of blocks of the original shape. Do this until all shapes fill the grid horizontally. The empty space extending below the straightened shapes (now lines) in the bottom-right of the grid will be black.
+
+5. To make the output, you have to...curve the shapes into a circle, beginning at the center of the grid. Arrange the shapes by the complexity of their design, with the most complex at the center and the most simple forms around the edges. The first shape should start at the center and fan outwards, filling the grid in a pattern. The next shape should fit into the space next to the first, its size corresponding to its complexity. Repeat this until the grid is filled. The remaining sections in the top-left corner of the grid should remain white.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...multiple color of random pattern.

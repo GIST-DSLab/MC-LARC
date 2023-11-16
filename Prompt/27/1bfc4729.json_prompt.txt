@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...use the top color to fill in the entire first row, the first and last blocks of the second row, the entire third row, and the first and last blocks of the 4th and 5th rows. Then use the bottom color to fill in the first and last blocks of the 6th and 7th rows, fill in the entire 8th row, the first and last blocks of the 9th row, and the entire bottom (10th) row.
+
+2. To make the output, you have to...use the bottom color to fill in the entire first row, the first and last blocks of the second row, the entire third row, and the first and last blocks of the 4th and 5th rows. Then use the top color to fill in the first and last blocks of the 6th and 7th rows, fill in the entire 8th row, the first and last blocks of the 9th row, and the entire bottom (10th) row.
+
+3. To make the output, you have to...use the top color to fill the first and last blocks in all the odd rows, and fill in the entire even rows with the bottom color.
+
+4. To make the output, you have to...use the bottom color to fill in the entire first row, the first and last blocks of the second row, the entire third row, and the entire fourth row. Then use the top color to fill in the first and last blocks of the 5th to 9th rows, and fill in the entire bottom (10th) row.
+
+5. To make the output, you have to...use the top color to fill in the entire first and second rows, the first and last blocks of the third row, the entire 4th row, and the first and last blocks of the 5th and 6th rows. Then use the bottom color to fill in the first and last blocks of the 7th and 8th rows, fill in the entire 9th row, and the first and last blocks of the bottom (10th) row.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...10x10 grid with only two pixels filled with different colors.

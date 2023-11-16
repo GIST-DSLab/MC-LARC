@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...rotate the top shape 180 degrees about its axis.
+
+2. To make the output, you have to...create a mirror image of the top shape and place it to the side of that shape.
+
+3. To make the output, you have to...scale the dimensions of the top shape by half and place it inside the original.
+
+4. To make the output, you have to...invert the top shape and put it underneath the original one.
+
+5. To make the output, you have to...cut the top shape into half diagonally and join the parts.
+

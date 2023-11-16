@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...arrange the tiles in a circle until it fully encloses the center point.
+
+2. To make the output, you have to...connect dots until a full image appears.
+
+3. To make the output, you have to...create an X by filling in the diagonal tiles until the edge of each corner is reached.
+
+4. To make the output, you have to...position all chess pieces correctly on the board.
+
+5. To make the output, you have to...pile up blocks one by one until a full castle structure is formed.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a square with a dominant surrounding color and a black single pixel in the middle.

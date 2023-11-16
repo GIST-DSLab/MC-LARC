@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...mark the edges using a green circle.
+
+2. To make the output, you have to...shape the entire piece with a yellow triangle.
+
+3. To make the output, you have to...outline the borders with a white rectangle.
+
+4. To make the output, you have to...fill in the missing corners with a blue square.
+
+5. To make the output, you have to...cover the middle section with a red hexagon.
+

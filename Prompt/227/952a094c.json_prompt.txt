@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... copy the input grid to the output workspace. Change the color of each interior corner pixel to its corresponding complementary color. The pixel position remains exactly same as in the input grid.
+
+2. To make the output, you have to... copy the input grid to the output workspace. Transfer each interior corner pixel to the center of the output grid. So, you are dispersing the pixels within the entire grid, without any specific order.
+
+3. To make the output, you have to... copy the input grid to the output workspace. Move each of the interior corner colored pixels to the exterior corner opposite of their input position. Meaning, move the upper left interior pixel such that its corner is touching the lower left corner of the lower left corner pixel of the monochromatic rectangle or square. You're moving pixel at a 45 degree angle to the exterior opposite corner, do that with each interior corner square to create the correct output grid.
+
+4. To make the output, you have to... invert the input grid to create the output workspace. Move each of the exterior corner colored pixels to the interior, opposite of their former position. So, instead of moving the interior pixels, you're shuffling around the exterior ones.
+
+5. To make the output, you have to... rotate the input grid by 90 degrees to the right to form the output workspace. The position of each interior corner pixel remains the same but the overall structure of the grid is changed due to the rotation.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a grid with a square or rectangle composed of monochromatic pixels with a differently colored pixel at each of the interior corners of the rectangle.

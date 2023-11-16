@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...replicate the plus sign three times in every direction without altering the color formation. This will result in a 9x9 square with mixed colors. 
+
+2. To make the output, you have to...construct a circle using the color of the original plus sign. Paint over the circle with the center color, leaving only the edge in the original color.
+
+3. To make the output, you have to...draw a 4x4 grid and fill the diagonal squares with the center color. All the other squares should be the color of the original plus sign. 
+
+4. To make the output, you have to...create a 6x6 cross using the color of the original plus sign and fill the rest with the center color.
+
+5. To make the output, you have to...extend the plus sign one square in every direction and then make a 5x5 'X' of the center color through the center square. You should result in nine squares the color of the center and eight the color of the original plus sign.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...two crosses with one color in the center of cross and another color around center of cross.

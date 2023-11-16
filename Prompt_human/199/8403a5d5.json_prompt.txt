@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... fill the grid color of input for one vertical line and fill the next vertical line with input color and leave the next vertical line black and repeat this starting the input grid color from left to right.
+
+2. To make the output, you have to... fill the grid color of input for one horizontal line and leave the next horizontal line black and fill the next horizontal line with input color and repeat this starting the input grid color from top to bottom.
+
+3. To make the output, you have to... fill the grid color of input for one vertical line and leave the next two vertical lines black and fill the next vertical line with input color and repeat this starting the input grid color from left to right.
+
+4. To make the output, you have to... fill the grid color of input for one vertical line and leave the next vertical line black and fill the next vertical line with input color and repeat this starting the input grid color from left to right.
+
+5. To make the output, you have to... leave the grid color of input for one vertical line black and fill the next vertical line with input color and repeat this starting the input grid color from left to right.
+

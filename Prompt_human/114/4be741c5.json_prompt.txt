@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...Mix the first two colors together, then apply the resulting color to the output square.
+
+2. To make the output, you have to...Take the first color, vertically or horizontally, then fill that color in the corresponding square in the output. Then the second and third...
+
+3. To make the output, you have to...Take every other color from the list, fill in the squares accordingly, then return for the skipped colors.
+
+4. To make the output, you have to...Begin with the last color, move upwards, filling each square with the respective color.
+
+5. To make the output, you have to...Start with black, fill in the square, then go down the list adding more shades.
+

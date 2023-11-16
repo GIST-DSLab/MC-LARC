@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...flip all the red triangles.
+
+2. To make the output, you have to...rotate all the yellow pentagons 45 degrees.
+
+3. To make the output, you have to...cut all the blue circles in half.
+
+4. To make the output, you have to...arrange all the green rectangles in a line.
+
+5. To make the output, you have to...replace all the purple squares with orange.
+

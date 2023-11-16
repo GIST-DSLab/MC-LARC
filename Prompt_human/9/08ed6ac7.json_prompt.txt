@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...alter the color of the tallest to gray, then second tallest to brown, third tallest to pink, then finally shortest to black for both pairs.
+
+2. To make the output, you have to...leave the color of the tallest unchanged, switch the second tallest to gray, third tallest to brown, then finally shortest to blue for both pairs.
+
+3. To make the output, you have to...change the color of the tallest to blue, then second talest to red,third tallest to green,then finally shortest to yellow for both pairs.
+
+4. To make the output, you have to...change the color of the tallest to red, then second tallest to yellow, third tallest to blue, then finally shortest to green for both pairs.
+
+5. To make the output, you have to...amend the color of the tallest to pink, then second tallest to green, third tallest to black, then finally shortest to cyan for both pairs.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...remove the different color that does not match the rest. move the single squares so they are in the same horizontal or vertical place depending if it is a vertical or horizontal line and have them touch the same side the single squares were on.
+
+2. To make the output, you have to...rotate the image until the different color square aligns with the other squares.
+
+3. To make the output, you have to...change the color of the different square to match the rest, and then shift all squares to the center of the canvas.
+
+4. To make the output, you have to...slide the single squares diagonally until they intersect with the other squares at the corner points.
+
+5. To make the output, you have to...combine all the squares of the same color regardless of their position.
+

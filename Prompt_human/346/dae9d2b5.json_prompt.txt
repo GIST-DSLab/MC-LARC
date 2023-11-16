@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...take a screenshot of the left-side of the input and paste it onto the output. Then, fill the entire grid with green, followed by changing each green square to orange, hence creating an output of only orange and white.
+
+2. To make the output, you have to...copy and paste the left-side of the input (the yellow side) onto the output grid. Then, draw the green pattern on the output grid on top of the yellow (do not copy and paste because the black will overwrite the yellow). Your output grid should now have green and yellow on a black background. Then, recolor each green and yellow square pink, so your output is only pink and black.
+
+3. To make the output, you have to...simply mirror the right-side of the input on the output side, followed by erasing all the colors and replacing them with white and grey.
+
+4. To make the output, you have to...delete everything from the input side and redraw the pattern on the output side using blue and red. Then, color the entire grid yellow.
+
+5. To make the output, you have to...copy the right-side of the input grid onto the output grid. Then, draw the red pattern over the blue, and recolor each red and blue square purple, giving an output of only purple and white.
+

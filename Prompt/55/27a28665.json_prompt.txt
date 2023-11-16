@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...examine the distribution of the squares. Where there are squares forming a spiral, the output color should be turquoise. When there are eight squares at the top right corner the output color should be cyan. If there are five squares surrounding the center side, the output color should be gray. Where the squares are at the top of each of the third and fourth column and in the second column the squares are at the bottom, the output color should be black.
+
+2. To make the output, you have to...judge the layout of the hexagonal shapes. When the hexagonal shapes create a straight line, the output color should be sky-blue. Where there are six hexagonal shapes at the lower right corner the output color should be tan. If there are ten hexagonal shapes at the middle left, the output color should be maroon. Where the hexagonal shapes are at the middle of each of the first and third row, and in the middle row the hexagonal shapes are at both ends, the output color should be teal.
+
+3. To make the output, you have to...obtain the pattern through the numbers of the bars. Using three bars in the bottom right, the output color should be brown. When there are six bars at the left side, both top and bottom, the output color should be yellow. If there are nine bars in the center, the output color should be orange. Whenever the bars are at the corners of the center column and in both ends of the middle row, the output color should be violet.
+
+4. To make the output, you have to...perceive the arrangement of the round orbs. When the round orbs form a diagonal, the output color should be lavender. Where there are two round orbs at the bottom left corner the output color should be white. If there are seven round orbs at the lower right the output color should be yellow-green. Where the round orbs are at the bottom of each of the first and third column and in the middle column the round orbs are at the top, the output color should be beige.
+
+5. To make the output, you have to...consider the pattern of the colored boxes. where the colored boxes form a cross, the output color should be pink.where there are three colored boxes at the top left corner the output color should be blue. Where there are four colored boxes at the top right the output color should be green. Where the colored boxes are at the middle of each of the first and third column and in the middle column the colored boxes are at the top and bottom, the output color should be red.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...four different types of patterns on a 3x3 grid, each consisting of one color and five pixels.

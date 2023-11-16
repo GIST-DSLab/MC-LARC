@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... create a 2x2 grid. If the input grid has orange circles, the output should be dark grey with red in the four corners (making a red cross sign). If the input grid has yellow triangles, the output should be dark grey with red in the upper left, middle left, middle right and upper right (making a red Y shape). If the input grid has purple squares, the output should be dark grey with red in the lower left, middle right, upper center and middle center (making a 2x2 red square in the lower right). 
+
+2. To make the output, you have to... design a 4x4 grid. If the input grid has red shapes, the output should be light blue with brown in the middle two slots (making a brown line). If the input grid has blue shapes, the output should be light blue with brown on the extreme right (making a brown L shape). If the input grid has green shapes, the output should be light blue with brown in the upper left, upper right, lower left and lower right (making a brown X shape). 
+
+3. To make the output, you have to... make a 3x3 grid. If the input grid has blue shapes, the output should be light grey with black in the four corners (making a grey plus sign). If the input grid has red shapes, the output should be light grey with black on the lower left, middle left, middle right and lower right (making a grey T shape). If the input grid has green shapes, the output should be light grey with black in the upper left, middle left, upper center and middle center (making a 2x2 black square in the upper left).
+
+4. To make the output, you have to... build a 3x3 grid. If the input grid has pink shapes, the output should be light green with black diagonally (making a green diagonal line). If the input grid has yellow shapes, the output should be light green with black in the center and four corners (making a 5-pointed star shape). If the input grid has cyan shapes, the output should be light green with black in the right edge (making a black-vertical line on the right). 
+
+5. To make the output, you have to... lay out a 5x5 grid. If the input grid has brown figures, the output should be light yellow with blue in the center column (making a blue vertical line in the center). If the input grid has black figures, the output should be light yellow with blue on the first and last row (making two blue horizontal lines). If the input grid has pink symbols, the output should be light yellow with blue in the first and last column (making two blue vertical lines).
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a random pattern of pixels all in one color on a 5x5 black background.

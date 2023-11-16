@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...flip all the red triangles.
+
+2. To make the output, you have to...rotate all the yellow pentagons 45 degrees.
+
+3. To make the output, you have to...cut all the blue circles in half.
+
+4. To make the output, you have to...arrange all the green rectangles in a line.
+
+5. To make the output, you have to...replace all the purple squares with orange.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...random pattern composed with two color of pixels.

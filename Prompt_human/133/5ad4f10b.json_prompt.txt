@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...take the color pattern and move to new grid with color 2. The output pattern will be a smaller than the input.
+
+2. To make the output, you have to...keep the color pattern the same and move to new grid with color 1. The output pattern will be bigger than the input.
+
+3. To make the output, you have to...discard the color pattern and move to new grid with color 3. The output pattern will be larger than the input.
+
+4. To make the output, you have to...invert the color pattern and move to new grid with color 5. The output pattern will be the same size as the input.
+
+5. To make the output, you have to...change the color pattern and remain on the old grid with color 2. The output pattern will be equal to the input.
+

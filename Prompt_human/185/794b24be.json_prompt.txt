@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...rotate the grid 90 degrees to the right and start painting each block with a different color. 
+
+2. To make the output, you have to...decrease the size of each block by half and reposition them at the center of the grid. 
+
+3. To make the output, you have to...delete all the blocks then reconstruct all of them on the grid, starting from the bottom to the top. 
+
+4. To make the output, you have to...keep the blocks at their original places but start filling them in a random pattern.
+
+5. To make the output, you have to...change the color of the blocks and move them all to the top of the grid and start filling in the blocks from left to right keeping the same number of blocks from the original grid.
+

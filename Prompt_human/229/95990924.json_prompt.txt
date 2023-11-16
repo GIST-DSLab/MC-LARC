@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... scatter eight triangles randomly across the surface: Four light blue, three pink, and one green. This should create a design that appears chaotic, with no clear center or organization.
+
+2. To make the output, you have to... place each circle in a square arrangement and color the circles: Orange in the upper left corner, Purple in the upper right, Black on the lower left, and Pink on the lower right. The final design should look like a grid, with a white center and four colored circles.
+
+3. To make the output, you have to... arrange five parallel strips from top to bottom in the following order: Green, Yellow, Red, Blue, Orange. The end product should look like a rainbow, with no particular central figure.
+
+4. To make the output, you have to... set a single, large white rectangle in the center, surround it with smaller black squares, and fill the remaining space around the black squares with tiny red circles. The finished piece should have a striking contrast of light and dark, with a smattering of red for visual interest.
+
+5. To make the output, you have to... surround each square with the following, connected diagonally to each of the corners: Blue on the top left, Red on the top right, Green on the bottom left, Yellow on the bottom right. The end result should almost resemble a flower, with a gray center and four colored petals.
+

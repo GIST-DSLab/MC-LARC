@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... erase the existing color in the gray grids.
+
+2. To make the output, you have to... copy the gray grid without adding any color.
+
+3. To make the output, you have to... redraw the whole pattern on the blank space.
+
+4. To make the output, you have to... mix multiple colors in each gray grid.
+
+5. To make the output, you have to... copy the color pattern into the other gray grids.
+

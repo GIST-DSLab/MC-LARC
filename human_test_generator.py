@@ -4,10 +4,10 @@ import shutil
 import glob
 
 # Read the CSV file
-df = pd.read_csv('shuffled_output_description.csv', encoding='ISO-8859-1', dtype=str)
+df = pd.read_csv('MC-LARC/shuffled_output_description.csv', encoding='ISO-8859-1', dtype=str)
 
 # Read the filtered CSV file
-filtered_df = pd.read_csv('filtered_LARC_with_input_output.csv', encoding='ISO-8859-1', dtype=str)
+filtered_df = pd.read_csv('MC-LARC/filtered_LARC_with_input_output.csv', encoding='ISO-8859-1', dtype=str)
 
 # Process each row
 for index, row in df.iterrows():
@@ -20,7 +20,7 @@ for index, row in df.iterrows():
     description_input = filtered_df.loc[filtered_df['task_id'] == str(task_id), 'description_input'].values[0]
     
     # Create a folder named after the task_id inside the 'Prompt' folder
-    prompt_folder = "Prompt_human"
+    prompt_folder = "MC-LARC/Prompt_human"
     if not os.path.exists(prompt_folder):
         os.makedirs(prompt_folder)
     task_folder = os.path.join(prompt_folder, str(task_id))
@@ -28,7 +28,7 @@ for index, row in df.iterrows():
         os.makedirs(task_folder)
     
     # Copy the image file
-    image_folder = 'training_input_output_pair_image'
+    image_folder = 'MC-LARC/training_input_output_pair_image'
     for image_filepath in glob.glob(os.path.join(image_folder, f"*{task_name}*")):
         shutil.copy(image_filepath, task_folder)
     

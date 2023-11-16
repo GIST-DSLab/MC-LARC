@@ -3,7 +3,7 @@ import json
 import os
 
 # Read the CSV file
-df = pd.read_csv('filtered_LARC_with_input_output.csv')
+df = pd.read_csv('MC-LARC/filtered_LARC_with_input_output.csv')
 
 # Create a dictionary to store the results
 result = {"training": []}
@@ -27,13 +27,13 @@ for index, row in df.iterrows():
     
     # Read the JSON file and repeat the training data for the number of times equal to the length of the 'train' data
     for file in training_files:
-        with open(os.path.join('training', file), 'r') as f:
+        with open(os.path.join('MC-LARC/training', file), 'r') as f:
             training_json = json.load(f)
             for _ in range(len(training_json['train']) - 1):
                 result["training"].append(training_data)
 
 # Save the results to a JSON file
-with open('LARC_with_input_output.json', 'w') as f:
+with open('MC-LARC/LARC_with_input_output.json', 'w') as f:
     json.dump(result, f, indent=4)
 
 print('Conversion complete! Check output.json file.')

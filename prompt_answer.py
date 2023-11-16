@@ -2,10 +2,10 @@ import os
 import re
 
 # Specify the path to the 'Prompt' folder
-prompt_folder = 'Prompt'
+prompt_folder = 'MC-LARC/Prompt'
 
 # Create or open the 'prompt_answer.txt' file
-with open('prompt_answer.txt', 'w') as answer_file:
+with open('MC-LARC/prompt_answer.txt', 'w') as answer_file:
     # Loop through folders from 0 to 399
     for folder_number in range(400):
         folder_name = str(folder_number)

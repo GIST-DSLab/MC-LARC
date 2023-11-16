@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
 # Read the CSV file
-df = pd.read_csv('MC-LARC_description_output.csv', encoding='ISO-8859-1', dtype=str)
+df = pd.read_csv('MC-LARC/MC-LARC_description_output.csv', encoding='ISO-8859-1', dtype=str)
 
 # Initialize an empty list to store the shuffled data and answers
 shuffled_data = []
@@ -40,23 +40,4 @@ new_column_names = {
 shuffled_df.rename(columns=new_column_names, inplace=True)
 
 # Save the DataFrame to a new CSV file
-shuffled_df.to_csv('shuffled_output_description.csv', index=False)
-
-
-
-# File path to the CSV file
-file_path = 'shuffled_output_description.csv'
-
-# Read the CSV file
-df = pd.read_csv(file_path)
-
-# Extract data from the 'answer' column and drop NaN values
-answers = df['answer'].dropna()
-
-# Open a text file to write the results
-with open('answer.txt', 'w') as f:
-    # Loop through the answers and write to the file
-    for index, answer in enumerate(answers, start=1):
-        f.write(f"task_{index - 1}: {answer}\n")
-
-print("The answers have been successfully written to answer.txt")
+shuffled_df.to_csv('MC-LARC/shuffled_output_description.csv', index=False)

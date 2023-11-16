@@ -1,5 +1,5 @@
 # Read the content of the two files.
-with open('prompt_answer.txt', 'r') as file1, open('answer1.txt', 'r') as file2:
+with open('MC-LARC/prompt_answer.txt', 'r') as file1, open('answer.txt', 'r') as file2:
     content1 = file1.readlines()
     content2 = file2.readlines()
 
@@ -21,7 +21,7 @@ for line in content2:
 difference_count = 0
 total_items = 0
 
-with open('wrong_answer_prompt_with_hint.txt', 'w') as wrong_file:
+with open('MC-LARC/wrong_answer_prompt_with_hint.txt', 'w') as wrong_file:
     for key in data1:
         if key in data2:
             total_items += 1

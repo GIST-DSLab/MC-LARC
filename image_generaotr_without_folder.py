@@ -82,12 +82,12 @@ def plot_2d_grid(data, file_name):
     
     
 # load the json files
-folder = 'training'
+folder = 'MC-LARC/training'
 myjson_train = load_json_data(folder)
 file_names_train = list(myjson_train.keys())
 
 # Load the task mapping from the CSV file
-csv_file = 'filtered_LARC_with_input_output.csv'
+csv_file = 'MC-LARC/filtered_LARC_with_input_output.csv'
 
 # Generate and save the images
 for i in range(1, 400):

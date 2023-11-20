@@ -5,7 +5,7 @@ import datetime
 
 
 # Read revised input LARC and output LARC
-df = pd.read_csv('MC-LARC/filtered_LARC_with_input_output.csv')
+df = pd.read_csv('filtered_LARC_with_input_output.csv')
         
 task_ids = df['task_id']
 task_names = df['task_name']
@@ -14,12 +14,12 @@ description_outputs = df['description_output']
 
 # OpenAI API key setting
 openai.api_type = "azure"
-openai.api_base = "https://arc-larc.openai.azure.com/"
-openai.api_key = "7ec10cbb225a410eb4aa757485058c12"
+openai.api_base = "AZURE_OPENAI_ENDPOINT"
+openai.api_key = "API-KEY"
 openai.api_version = "2023-05-15"
 
 
-with open('MC-LARC/MC-LARC_description_output_test.csv', 'a', newline='', encoding='utf-8') as file:
+with open('MC-LARC_description_output.csv', 'a', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(["task_id", "task_name", "description_output", "ChatGPT Response1", "ChatGPT Response2", "ChatGPT Response3", "ChatGPT Response4"])
 
@@ -62,7 +62,7 @@ for i in numbers:          # For error numberes,
             messages=messages
         )
     except Exception as e:
-        with open('Openai_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
+        with open('ChatGPT4_error_log/Openai_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
             Openai_current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             file.write(f'{i}번째: {e}')
         openai_errors.append(i)
@@ -75,35 +75,35 @@ for i in numbers:          # For error numberes,
         # Check
         if len(response_text) >= 4:
             # Saving results
-            with open('MC-LARC/MC-LARC_description_output_test.csv', 'a', newline='', encoding='utf-8') as file:
+            with open('MC-LARC_description_output.csv', 'a', newline='', encoding='utf-8') as file:
                 writer = csv.writer(file)
                 writer.writerow([i, task_names[i], description_outputs[i], response_text[0], response_text[1], response_text[2], response_text[3]])
         else:
             # Error log
-            with open('MC-LARC/MC-LARC/Wrong_format_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
+            with open('ChatGPT4_error_log/Wrong_format_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
                 WF_current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 file.write(f'{i}\n')
             wrong_format_errors.append(i)
                 
     except Exception as e:
-        with open('MC-LARC/Skip_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
+        with open('ChatGPT4_error_log/Skip_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
             skip_current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             file.write(f'{i} : {e}\n')
         skip_errors.append(i)
         
     
 
-with open('MC-LARC/Openai_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
+with open('ChatGPT4_error_log/Openai_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
         if openai_errors:
             file.write('\nnumbers = ' + str(openai_errors) + '\n')
             file.write(Openai_current_time)
 
-with open('MC-LARC/Wrong_format_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
+with open('ChatGPT4_error_log/Wrong_format_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
     if wrong_format_errors:
         file.write('\nnumbers = ' + str(wrong_format_errors) + '\n')
         file.write(WF_current_time)
 
-with open('MC-LARC/Skip_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
+with open('ChatGPT4_error_log/Skip_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
     if skip_errors:
         file.write('\nnumbers = ' + str(skip_errors) + '\n')
         file.write(skip_current_time)

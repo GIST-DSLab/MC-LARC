@@ -3,8 +3,6 @@ import json
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
-from io import BytesIO
-import base64
 
 def load_json_data(folder):
     json_files = [pos_json for pos_json in os.listdir(folder) if pos_json.endswith('.json')]
@@ -54,7 +52,7 @@ def plot_2d_grid(data, file_name):
         rows, cols = np.array(string_to_array(example['input'])).shape
         axs[0].set_xticks(np.arange(cols + 1) - 0.5, minor=True)
         axs[0].set_yticks(np.arange(rows + 1) - 0.5, minor=True)
-        axs[0].grid(True, which='minor', color='black', linewidth=0.5)
+        axs[0].grid(True, which='minor', color='#555555', linewidth=0.5)
         axs[0].set_xticks([]); axs[0].set_yticks([])
         axs[0].imshow(np.array(string_to_array(example['input'])), cmap=cmap, vmin=0, vmax=9)
         
@@ -65,7 +63,7 @@ def plot_2d_grid(data, file_name):
         rows, cols = np.array(string_to_array(example['output'])).shape
         axs[1].set_xticks(np.arange(cols + 1) - 0.5, minor=True)
         axs[1].set_yticks(np.arange(rows + 1) - 0.5, minor=True)
-        axs[1].grid(True, which='minor', color='black', linewidth=0.5)
+        axs[1].grid(True, which='minor', color='#555555', linewidth=0.5)
         axs[1].set_xticks([]); axs[1].set_yticks([])
         axs[1].imshow(np.array(string_to_array(example['output'])), cmap=cmap, vmin=0, vmax=9)
         
@@ -82,15 +80,15 @@ def plot_2d_grid(data, file_name):
     
     
 # load the json files
-folder = 'MC-LARC/training'
+folder = 'training'
 myjson_train = load_json_data(folder)
 file_names_train = list(myjson_train.keys())
 
 # Load the task mapping from the CSV file
-csv_file = 'MC-LARC/filtered_LARC_with_input_output.csv'
+csv_file = 'filtered_LARC_with_input_output.csv'
 
 # Generate and save the images
-for i in range(1, 400):
+for i in range(0, 400):
     file_name_str = file_names_train[i]
     plot_2d_grid(myjson_train[file_name_str], file_name_str)
 

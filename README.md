@@ -19,7 +19,9 @@ By running this Python program, you can create a MC-LARC_description_output.csv 
 </br></br>
 And run the program,
 - Check_format.py
+
 </br></br>
+
 to check the wrong format descriptions.
 </br></br>
 You need to check the wrongly generated task IDs due to the issue of GPT in the ChatGPT4_error_log folder. And then regenerate them.

@@ -5,7 +5,7 @@ import datetime
 
 
 # Read revised input LARC and output LARC
-df = pd.read_csv('filtered_LARC_with_input_output.csv')
+df = pd.read_csv('original_data/filtered_LARC_with_input_output.csv')
         
 task_ids = df['task_id']
 task_names = df['task_name']
@@ -14,8 +14,8 @@ description_outputs = df['description_output']
 
 # OpenAI API key setting
 openai.api_type = "azure"
-openai.api_base = "AZURE_OPENAI_ENDPOINT"
-openai.api_key = "API-KEY"
+openai.api_base = "AZURE_OPENAI_ENDPOINT"   # Here
+openai.api_key = "API-KEY"                  # Here
 openai.api_version = "2023-05-15"
 
 
@@ -24,7 +24,7 @@ with open('MC-LARC_description_output.csv', 'a', newline='', encoding='utf-8') a
     writer.writerow(["task_id", "task_name", "description_output", "ChatGPT Response1", "ChatGPT Response2", "ChatGPT Response3", "ChatGPT Response4"])
 
 # Error numbers
-numbers = [5, 7]    # Examples, check the error_log.txt files
+numbers = [138, 177, 350]    # Examples, check the error_log.txt files
 
 # Error list
 openai_errors = []

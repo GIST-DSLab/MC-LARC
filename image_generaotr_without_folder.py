@@ -80,7 +80,7 @@ def plot_2d_grid(data, file_name):
     
     
 # load the json files
-folder = 'training'
+folder = 'original_data/training'
 myjson_train = load_json_data(folder)
 file_names_train = list(myjson_train.keys())
 

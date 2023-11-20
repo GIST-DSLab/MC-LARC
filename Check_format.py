@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file
-df = pd.read_csv('MC-LARC/description_output.csv', encoding='ISO-8859-1')
+df = pd.read_csv('description_output.csv', encoding='ISO-8859-1')
 
 # Set the start sentence
 start_sentence = 'To make the output, you have to...'
@@ -16,7 +16,7 @@ rows_not_starting_with = df[~df['ChatGPT Response1'].str.startswith(start_senten
 row_numbers = list(rows_not_starting_with.index)  # Save wrong row numbers as a list
 
 # Write to Wrong_row_numbers.txt file
-with open('MC-LARC/Wrong_row_numbers.txt', 'w') as f:
+with open('ChatGPT4_error_log/Wrong_format_numbers.txt', 'w') as f:
     for row_number in row_numbers:
         f.write(str(row_number) + '\n')
     f.write('\n')  # Newline for separating content

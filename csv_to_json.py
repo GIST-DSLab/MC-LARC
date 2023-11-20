@@ -3,7 +3,7 @@ import json
 import os
 
 # Read the CSV file
-df = pd.read_csv('MC-LARC/filtered_LARC_with_input_output.csv')
+df = pd.read_csv('filtered_LARC_with_input_output.csv')
 
 # Create a dictionary to store the results
 result = {"training": []}

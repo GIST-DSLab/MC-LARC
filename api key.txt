@@ -1,5 +1,0 @@
-API-KEY
-7ec10cbb225a410eb4aa757485058c12
-
-AZURE_OPENAI_ENDPOINT
-https://arc-larc.openai.azure.com/

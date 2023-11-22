@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... add more solid colored patterns, while maintaining the original multi-colored pattern and replacing its color with green tiles.
+1. To make the output, you have to... replace the solid colored patterns with the multi-colored versions, so each pattern has the same coloring. Then remove the original multi-colored pattern by replacing it entirely with black tiles.
 
-2. To make the output, you have to... keep the solid colored patterns but alter each pattern's colors. After that, you should also add some white tiles in the multi-colored pattern.
+2. To make the output, you have to... add more solid colored patterns, while maintaining the original multi-colored pattern and replacing its color with green tiles.
 
-3. To make the output, you have to... take away the solid colored patterns and substitute them with grayscale variations, then modify the original multi-colored pattern with blue tiles.
+3. To make the output, you have to... include an additional four-color pattern to complement the solid colored patterns and then swap them out randomly.
 
-4. To make the output, you have to... replace the solid colored patterns with the multi-colored versions, so each pattern has the same coloring. Then remove the original multi-colored pattern by replacing it entirely with black tiles.
+4. To make the output, you have to... take away the solid colored patterns and substitute them with grayscale variations, then modify the original multi-colored pattern with blue tiles.
 
-5. To make the output, you have to... include an additional four-color pattern to complement the solid colored patterns and then swap them out randomly.
+5. To make the output, you have to... keep the solid colored patterns but alter each pattern's colors. After that, you should also add some white tiles in the multi-colored pattern.
 

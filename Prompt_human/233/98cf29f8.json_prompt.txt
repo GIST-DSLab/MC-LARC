@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... shrink the dimensions of the squares that form a ceiling to the other pattern. You scatter the patterns by reducing the size of the pattern that is identical to the shrunken square.
+1. To make the output, you have to... rotate the squares that connect to another pattern. You merge the patterns by spinning the pattern that is similar to the rotating square.
 
 2. To make the output, you have to... resize the square shapes that border another pattern. You align the patterns by readjusting the pattern that matches the resized square.
 
 3. To make the output, you have to... remove the colored squares that create a floor to the other pattern. you bring the patterns together by moving the pattern that is the same color as the line you remove
 
-4. To make the output, you have to... rotate the squares that connect to another pattern. You merge the patterns by spinning the pattern that is similar to the rotating square.
+4. To make the output, you have to... shrink the dimensions of the squares that form a ceiling to the other pattern. You scatter the patterns by reducing the size of the pattern that is identical to the shrunken square.
 
 5. To make the output, you have to... change the colors of the squares that create a boundary to the other pattern. You separate the patterns by swapping the pattern that is the same color as the perimeter square.
 

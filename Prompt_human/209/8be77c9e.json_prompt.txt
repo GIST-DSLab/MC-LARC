@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...fill the left side of the grid with the mirror image of the original. And fill the right side of the grid with the same as the original.
+1. To make the output, you have to...fill the top of the grid with the mirror image of the original. And fill the bottom of the grid with the same as original.
 
 2. To make the output, you have to...fill the top of the grid with the same as original. And fill the bottom of the grid with a mirror image of the original.
 
-3. To make the output, you have to...fill the top of the grid with the mirror image of the original. And fill the bottom of the grid with the same as original.
+3. To make the output, you have to...fill the bottom of the grid with the mirror image of the original. And fill the top of the grid with a reverse image of the original.
 
-4. To make the output, you have to...fill the entire grid with a mirror image of the original.
+4. To make the output, you have to...fill the left side of the grid with the mirror image of the original. And fill the right side of the grid with the same as the original.
 
-5. To make the output, you have to...fill the bottom of the grid with the mirror image of the original. And fill the top of the grid with a reverse image of the original.
+5. To make the output, you have to...fill the entire grid with a mirror image of the original.
 

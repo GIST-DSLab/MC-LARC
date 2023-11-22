@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...replicate the blueprint at each vertex. The pattern on the bottom is a mirror reflection of the top.
+1. To make the output, you have to...modify the initial pattern across all corners. Then, invert the tops to reflect the bottoms. 
 
-2. To make the output, you have to...modify the initial pattern across all corners. Then, invert the tops to reflect the bottoms. 
+2. To make the output, you have to...repeat the motif at every corner. Ensure the top patterns horizontally match the bottom ones.
 
-3. To make the output, you have to...duplicate the design at each edge. Let the pattern at the peak duplicate at the base. 
+3. To make the output, you have to...replicate the blueprint at each vertex. The pattern on the bottom is a mirror reflection of the top.
 
 4. To make the output, you have to...copy-paste the pattern in each corner. The pattern on the bottoms flips parallel to the top.
 
-5. To make the output, you have to...repeat the motif at every corner. Ensure the top patterns horizontally match the bottom ones.
+5. To make the output, you have to...duplicate the design at each edge. Let the pattern at the peak duplicate at the base. 
 

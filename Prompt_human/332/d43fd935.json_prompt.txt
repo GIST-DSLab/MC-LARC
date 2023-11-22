@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...paint the perimeter of the square green.
+1. To make the output, you have to...fill the square directly to the right of the green square with the same color.
 
-2. To make the output, you have to...change the color of the green square to the color of its adjacent squares.
+2. To make the output, you have to...circle the squares that are diagonal to the green square.
 
-3. To make the output, you have to...fill the same color of any square that is vertical or horizontal to the corner of the green square.
+3. To make the output, you have to...change the color of the green square to the color of its adjacent squares.
 
-4. To make the output, you have to...fill the square directly to the right of the green square with the same color.
+4. To make the output, you have to...paint the perimeter of the square green.
 
-5. To make the output, you have to...circle the squares that are diagonal to the green square.
+5. To make the output, you have to...fill the same color of any square that is vertical or horizontal to the corner of the green square.
 

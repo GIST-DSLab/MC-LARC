@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...surround only the red squares with a blue border that is one square wide.
+1. To make the output, you have to...fill in all the red squares with blue color completely.
 
-2. To make the output, you have to...remove all the red squares and replace them with blue squares.
+2. To make the output, you have to...draw a blue border that is two squares wide around the red squares.
 
-3. To make the output, you have to...fill in all the red squares with blue color completely.
+3. To make the output, you have to...surround the green squares, not the red ones, with a blue border that is one square wide.
 
-4. To make the output, you have to...surround the green squares, not the red ones, with a blue border that is one square wide.
+4. To make the output, you have to...remove all the red squares and replace them with blue squares.
 
-5. To make the output, you have to...draw a blue border that is two squares wide around the red squares.
+5. To make the output, you have to...surround only the red squares with a blue border that is one square wide.
 

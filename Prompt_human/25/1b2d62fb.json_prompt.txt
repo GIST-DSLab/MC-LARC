@@ -1,9 +1,9 @@
 Here are the options:
-1. To make the output, you have to...change the entire background in yellow and you need to look at the yellow space in both input pattern compare them now color the similar yellow space with dark blue color.
+1. To make the output, you have to...change the entire background in orange and you have to study the orange space in both input pattern compare them now color the similar orange space with light purple color.
 
-2. To make the output, you have to...change the entire background in white and monitor the white space in both input pattern compare them now color the similar white space with light green color.
+2. To make the output, you have to...change the entire background in yellow and you need to look at the yellow space in both input pattern compare them now color the similar yellow space with dark blue color.
 
-3. To make the output, you have to...change the entire background in orange and you have to study the orange space in both input pattern compare them now color the similar orange space with light purple color.
+3. To make the output, you have to...change the entire background in white and monitor the white space in both input pattern compare them now color the similar white space with light green color.
 
 4. To make the output, you have to...change the entire background in red and you must observe the red space in both input pattern compare them now color the similar red space with dark orange color.
 

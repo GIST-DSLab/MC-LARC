@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...rotate the grid by 90 degrees.
+1. To make the output, you have to...invert the entire grid.
 
-2. To make the output, you have to...shrink the grid to half its size.
+2. To make the output, you have to...copy the grid and reflect it on the other half.
 
-3. To make the output, you have to...copy the grid and reflect it on the other half.
+3. To make the output, you have to...shrink the grid to half its size.
 
 4. To make the output, you have to...paint over the grid.
 
-5. To make the output, you have to...invert the entire grid.
+5. To make the output, you have to...rotate the grid by 90 degrees.
 

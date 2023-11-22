@@ -1,7 +1,7 @@
 Here are the options:
-1. To make the output, you have to... flood the largest white shape with dark blue and the smallest white shape with light blue. If there are several shapes with the smallest area, fill all these shapes with light blue.
+1. To make the output, you have to... fill the largest black shape with dark blue. Fill the smallest black shape with light blue. If there is more than one shape with the smallest number of squares, fill all of the smallest shapes with light blue.
 
-2. To make the output, you have to... fill the largest black shape with dark blue. Fill the smallest black shape with light blue. If there is more than one shape with the smallest number of squares, fill all of the smallest shapes with light blue.
+2. To make the output, you have to... flood the largest white shape with dark blue and the smallest white shape with light blue. If there are several shapes with the smallest area, fill all these shapes with light blue.
 
 3. To make the output, you have to... coat the smallest red shape with light blue and the largest red shape with dark blue. If several shapes size up to the smallest size, apply light blue to all of them.
 

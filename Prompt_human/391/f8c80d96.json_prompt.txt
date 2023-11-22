@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... switch the music from soft to loud, then choreograph the dance, with the same moves and rhythm.
+1. To make the output, you have to... modify the font size from small to large, then repeat the text, with the same indentation and style.
 
 2. To make the output, you have to... alter the temperature from cold to warm, then prepare the ingredients, with the same measurements and order.
 
-3. To make the output, you have to... change the background color from black to light gray, then continue the pattern of lines, with the same spacing and bends.
+3. To make the output, you have to... switch the music from soft to loud, then choreograph the dance, with the same moves and rhythm.
 
-4. To make the output, you have to... adjust the room lighting from dim to bright, then arrange the furniture, with the same gaps and orientation.
+4. To make the output, you have to... change the background color from black to light gray, then continue the pattern of lines, with the same spacing and bends.
 
-5. To make the output, you have to... modify the font size from small to large, then repeat the text, with the same indentation and style.
+5. To make the output, you have to... adjust the room lighting from dim to bright, then arrange the furniture, with the same gaps and orientation.
 

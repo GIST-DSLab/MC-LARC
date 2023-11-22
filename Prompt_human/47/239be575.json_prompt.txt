@@ -1,9 +1,9 @@
 Here are the options:
-1. To make the output, you have to...make the color of the square the same color as the square that is five down and three across of the input.
+1. To make the output, you have to...flip the entire color scheme of the square.
 
 2. To make the output, you have to...fill the square that is five down and three across of the input with a new pattern.
 
-3. To make the output, you have to...flip the entire color scheme of the square.
+3. To make the output, you have to...make the color of the square the same color as the square that is five down and three across of the input.
 
 4. To make the output, you have to...rotate the square 90 degrees clockwise.
 

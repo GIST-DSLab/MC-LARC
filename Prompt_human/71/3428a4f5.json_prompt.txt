@@ -1,7 +1,7 @@
 Here are the options:
-1. To make the output, you have to...analyze the blend of two patterns, if the colors are the same then it is colored blue. if they are different then they are colored in a uniform color.
+1. To make the output, you have to...collide two patterns, if the colors contradict then it is colored green. if they are different then their original colors retain their integrity.  
 
-2. To make the output, you have to...collide two patterns, if the colors contradict then it is colored green. if they are different then their original colors retain their integrity.  
+2. To make the output, you have to...analyze the blend of two patterns, if the colors are the same then it is colored blue. if they are different then they are colored in a uniform color.
 
 3. To make the output, you have to...intersect two patterns, if the colors are the same then it is colored red. if they go off the tangent then they are colored randomly.
 

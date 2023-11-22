@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...rotate circular patterns to red.
+1. To make the output, you have to...change closed patterns to light blue.
 
-2. To make the output, you have to...change closed patterns to light blue.
+2. To make the output, you have to...switch open patterns to dark green.
 
-3. To make the output, you have to...adjust square patterns to yellow.
+3. To make the output, you have to...rotate circular patterns to red.
 
-4. To make the output, you have to...switch open patterns to dark green.
+4. To make the output, you have to...adjust square patterns to yellow.
 
 5. To make the output, you have to...transform striped patterns to black.
 

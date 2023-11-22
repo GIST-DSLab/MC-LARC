@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...delete all three objects from the output grid, and then validate its accuracy. 
+1. To make the output, you have to...create new objects with different shapes on the output grid, and then inspect its correctness. 
 
 2. To make the output, you have to...replicate two out of the three objects, each with different colors, onto the output grid, and then check whether it is correct or not.
 
-3. To make the output, you have to...transform three objects into one object on the output grid, and then confirm it is done right.
+3. To make the output, you have to...delete all three objects from the output grid, and then validate its accuracy. 
 
 4. To make the output, you have to...leave the grid empty and then examine if it is correct or not.
 
-5. To make the output, you have to...create new objects with different shapes on the output grid, and then inspect its correctness. 
+5. To make the output, you have to...transform three objects into one object on the output grid, and then confirm it is done right.
 

@@ -1,9 +1,9 @@
 Here are the options:
-1. To make the output, you have to...mirror the input grid, then change the color of every fifth pixel starting from the bottom-left pixel of each diagonal line to blue.
+1. To make the output, you have to...replicate the input grid, then change the color of every even-numbered pixel starting from the top-left pixel of each diagonal line to yellow.
 
 2. To make the output, you have to...invert the color of the input grid, then change the color of every odd-numbered pixel starting from the bottom-right pixel of each vertical line to green.
 
-3. To make the output, you have to...replicate the input grid, then change the color of every even-numbered pixel starting from the top-left pixel of each diagonal line to yellow.
+3. To make the output, you have to...mirror the input grid, then change the color of every fifth pixel starting from the bottom-left pixel of each diagonal line to blue.
 
 4. To make the output, you have to...duplicate the input grid, then change the color of every third pixel starting from the top-right pixel of each horizontal line to red.
 

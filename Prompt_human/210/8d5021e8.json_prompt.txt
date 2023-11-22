@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...leave the input grid intact on the periphery of your output grid. then clone the patterns without inverting them. 
+1. To make the output, you have to...remove the input grid from your output grid. then overlay the patterns without flipping them. 
 
-2. To make the output, you have to...remove the input grid from your output grid. then overlay the patterns without flipping them. 
+2. To make the output, you have to...ignore the input grid for your output grid. then disrupt the patterns instead of duplicating them.
 
-3. To make the output, you have to...put the input grid in the center of your output grid. then create repeat the patterns but flip them.
+3. To make the output, you have to...replace the input grid with a different model. then alter the patterns instead of repeating them. 
 
-4. To make the output, you have to...replace the input grid with a different model. then alter the patterns instead of repeating them. 
+4. To make the output, you have to...leave the input grid intact on the periphery of your output grid. then clone the patterns without inverting them. 
 
-5. To make the output, you have to...ignore the input grid for your output grid. then disrupt the patterns instead of duplicating them.
+5. To make the output, you have to...put the input grid in the center of your output grid. then create repeat the patterns but flip them.
 

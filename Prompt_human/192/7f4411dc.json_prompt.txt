@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... always ensure there are scattered single pixels outside of the big blocks. Your output with be big blocks plus scattered single pixels, no uniform pieces. Simply add these single pixels and maintain the incomplete major blocks whether these pixels are right next to or by themselves out in space. That's all.
+1. To make the output, you have to...always add a single pixel inside of the big blocks. Your output will be big blocks only, no scattered single pixels. Simply add these single pixels and remove the incomplete major blocks whether these pixels are right next to or by themselves out in space. That's all.
 
-2. To make the output, you have to...always remove a single pixel outside of the big blocks. Your output with be big blocks only, no scattered single pixels. Simply remove these single pixels and leave the complete major blocks whether these pixels are right next to or by themselves out in space. That's all.
+2. To make the output, you have to... always ensure there are scattered single pixels outside of the big blocks. Your output with be big blocks plus scattered single pixels, no uniform pieces. Simply add these single pixels and maintain the incomplete major blocks whether these pixels are right next to or by themselves out in space. That's all.
 
-3. To make the output, you have to...always add a single pixel inside of the big blocks. Your output will be big blocks only, no scattered single pixels. Simply add these single pixels and remove the incomplete major blocks whether these pixels are right next to or by themselves out in space. That's all.
+3. To make the output, you have to...always remove a single pixel outside of the big blocks. Your output with be big blocks only, no scattered single pixels. Simply remove these single pixels and leave the complete major blocks whether these pixels are right next to or by themselves out in space. That's all.
 
-4. To make the output, you have to...always remove all the pixels outside of the big blocks. Your output with be big blocks only, no small blocks. Simply remove these blocks and leave the incomplete major blocks whether these blocks are right next to or by themselves out in space. That's all.
+4. To make the output, you have to...always keep a single pixel outside of the big blocks. Your output will be big blocks only, including scattered single pixels. Simply maintain these single pixels and leave the complete major blocks whether these pixels are right next to or by themselves out in space. That's all.
 
-5. To make the output, you have to...always keep a single pixel outside of the big blocks. Your output will be big blocks only, including scattered single pixels. Simply maintain these single pixels and leave the complete major blocks whether these pixels are right next to or by themselves out in space. That's all.
+5. To make the output, you have to...always remove all the pixels outside of the big blocks. Your output with be big blocks only, no small blocks. Simply remove these blocks and leave the incomplete major blocks whether these blocks are right next to or by themselves out in space. That's all.
 

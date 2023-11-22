@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... Paint each pair of tiles adjacent to the green tiles with bright red, skipping two black tiles in the process. Imagine an H is trying to be formed.
+1. To make the output, you have to... Create a Z pattern using a blend of pink tiles and blue tiles, steering clear from any green tiles.
 
-2. To make the output, you have to... Place a yellow tile in each corner and an orange tile in the center. Stay clear of any black and green tiles.
+2. To make the output, you have to... Paint each pair of tiles adjacent to the green tiles with bright red, skipping two black tiles in the process. Imagine an H is trying to be formed.
 
-3. To make the output, you have to... Put a light blue tile diagonal of each side of the green tiles that skips one black tile. Imagine an X is trying to be created, EXCEPT the light blue tiles skip the first diagonal tile (leave black) to make one light blue tile on each side.
+3. To make the output, you have to... Overlay the black tiles with purple tiles to form an inverted Y, excluding any close proximity with the green tiles.
 
-4. To make the output, you have to... Create a Z pattern using a blend of pink tiles and blue tiles, steering clear from any green tiles.
+4. To make the output, you have to... Put a light blue tile diagonal of each side of the green tiles that skips one black tile. Imagine an X is trying to be created, EXCEPT the light blue tiles skip the first diagonal tile (leave black) to make one light blue tile on each side.
 
-5. To make the output, you have to... Overlay the black tiles with purple tiles to form an inverted Y, excluding any close proximity with the green tiles.
+5. To make the output, you have to... Place a yellow tile in each corner and an orange tile in the center. Stay clear of any black and green tiles.
 

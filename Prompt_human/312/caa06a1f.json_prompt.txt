@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...delete the entire grid, then sketch a freehand drawing. Final image should be abstract art.
+1. To make the output, you have to...crop the grid into small pieces and randomly rearrange. The outcome must result in a mosaic.
 
 2. To make the output, you have to...invert the colors of the grid and leave it empty. Concluding task involves the grid remaining untouched.
 
-3. To make the output, you have to...crop the grid into small pieces and randomly rearrange. The outcome must result in a mosaic.
+3. To make the output, you have to...duplicate the entire grid, then fill in the solid color to exactly match the checker pattern. Finally result should be entirely checker patterned.
 
-4. To make the output, you have to...duplicate the entire grid, then fill in the solid color to exactly match the checker pattern. Finally result should be entirely checker patterned.
+4. To make the output, you have to...paint patches of different colors on the grid. By the end, the product should represent a field of flowers.
 
-5. To make the output, you have to...paint patches of different colors on the grid. By the end, the product should represent a field of flowers.
+5. To make the output, you have to...delete the entire grid, then sketch a freehand drawing. Final image should be abstract art.
 

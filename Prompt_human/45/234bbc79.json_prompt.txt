@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...color the grey boxes a different shade from the blocks to which it is connected. Insert additional rows of black boxes. Adjust the left and bottom shapes such that the original grey squares are disconnected.
+1. To make the output, you have to...turn the grey boxes into pink shades, disregarding the color of the blocks they are connected to. Keep the columns of black boxes in the same position. Misalign the shapes such that the grey squares do not match up.
 
-2. To make the output, you have to...leave the grey boxes as they are, without changing their color to match the blocks. Add more black and white boxes randomly. Turn the shapes around so that they do not connect with the former grey squares.
+2. To make the output, you have to...color the grey boxes a different shade from the blocks to which it is connected. Insert additional rows of black boxes. Adjust the left and bottom shapes such that the original grey squares are disconnected.
 
-3. To make the output, you have to...make any grey boxes the same color as the blocks to which it is connected. Remove columns of black boxes. Align the middle and right shapes so that the former grey squares are connected.
+3. To make the output, you have to...leave the grey boxes as they are, without changing their color to match the blocks. Add more black and white boxes randomly. Turn the shapes around so that they do not connect with the former grey squares.
 
 4. To make the output, you have to...make the grey boxes stand out by changing the color contrast with the blocks they are connected to. Overly increase the number of black boxes if needed. Disconnect the shapes so that the former grey boxes are not a part of them.
 
-5. To make the output, you have to...turn the grey boxes into pink shades, disregarding the color of the blocks they are connected to. Keep the columns of black boxes in the same position. Misalign the shapes such that the grey squares do not match up.
+5. To make the output, you have to...make any grey boxes the same color as the blocks to which it is connected. Remove columns of black boxes. Align the middle and right shapes so that the former grey squares are connected.
 

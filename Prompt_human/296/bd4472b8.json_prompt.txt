@@ -1,11 +1,11 @@
 Here are the options:
 1. To make the output, you have to...start on the third row (after the row of gray) and make the entire third row the same as the first color in the first row, then make the entire fourth row the same as the second color in the first row and so on for the next color. Once all colors have been done, then repeat the same pattern.
 
-2. To make the output, you have to...begin by making the last row the same as the second color in the third row and then create the next row identical to the first color in the second row. Continue this way until all colors are used and then replicate the pattern.
+2. To make the output, you have to...begin on the first row (before the row of gray) and make the entire first row the same as the first color in the second row, then make the entire second row the same as the second color in the first row and so on for the next color. Once all colors are in place, you have to change the pattern.
 
-3. To make the output, you have to...start on the second row (after the row of gray) and make the entire second row the same as the first color in the second row, then make the entire third row the same as the third color in the first row and so on for the next color. Once all colors have been done, then repeat the same pattern.
+3. To make the output, you have to...begin by making the last row the same as the second color in the third row and then create the next row identical to the first color in the second row. Continue this way until all colors are used and then replicate the pattern.
 
-4. To make the output, you have to...begin on the first row (before the row of gray) and make the entire first row the same as the first color in the second row, then make the entire second row the same as the second color in the first row and so on for the next color. Once all colors are in place, you have to change the pattern.
+4. To make the output, you have to...start on the fourth row (before the row of gray) and make the entire fourth row the same as the second color in the first row, then make every fifth row the same as the third color in the first row. Continue this until all colors have been done, then repeat the same pattern.
 
-5. To make the output, you have to...start on the fourth row (before the row of gray) and make the entire fourth row the same as the second color in the first row, then make every fifth row the same as the third color in the first row. Continue this until all colors have been done, then repeat the same pattern.
+5. To make the output, you have to...start on the second row (after the row of gray) and make the entire second row the same as the first color in the second row, then make the entire third row the same as the third color in the first row and so on for the next color. Once all colors have been done, then repeat the same pattern.
 

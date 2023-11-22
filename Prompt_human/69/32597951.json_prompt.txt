@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...replace the blue squares with green squares to complete a square of a rectangle with the light blue blocks
+1. To make the output, you have to...turn the green squares into blue squares to form a triangle with the blue blocks
 
-2. To make the output, you have to...collect the blue squares and stack them next to yellow blocks
+2. To make the output, you have to...replace all light blue blocks with green squares to form a row
 
-3. To make the output, you have to...replace all light blue blocks with green squares to form a row
+3. To make the output, you have to...replace the blue squares with green squares to complete a square of a rectangle with the light blue blocks
 
-4. To make the output, you have to...turn the green squares into blue squares to form a triangle with the blue blocks
+4. To make the output, you have to...collect the blue squares and stack them next to yellow blocks
 
 5. To make the output, you have to...combine red squares and blue squares to get squares of orange blocks.
 

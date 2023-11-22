@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...change only the placement of the smaller inner square, leaving its size and the colors of both squares unchanged.
+1. To make the output, you have to...make an output grid that is the same size as the larger square. The size and placement of the smaller inner square should be the same relative to the input grid. The colors of the two squares should be swapped.
 
-2. To make the output, you have to...use an output grid that is smaller than the larger square. Adjust the size and placement of the smaller inner square to fit within the new grid. Keep the colors of the two squares as they are.
+2. To make the output, you have to...transform the smaller inner square into a larger square and the larger square into a smaller one. This manipulation should be completed without regard to color.
 
-3. To make the output, you have to...transform the smaller inner square into a larger square and the larger square into a smaller one. This manipulation should be completed without regard to color.
+3. To make the output, you have to...change only the placement of the smaller inner square, leaving its size and the colors of both squares unchanged.
 
-4. To make the output, you have to...retain the size of the squares while adjusting the color of the larger square only. The smaller inner square's color should remain the same.
+4. To make the output, you have to...use an output grid that is smaller than the larger square. Adjust the size and placement of the smaller inner square to fit within the new grid. Keep the colors of the two squares as they are.
 
-5. To make the output, you have to...make an output grid that is the same size as the larger square. The size and placement of the smaller inner square should be the same relative to the input grid. The colors of the two squares should be swapped.
+5. To make the output, you have to...retain the size of the squares while adjusting the color of the larger square only. The smaller inner square's color should remain the same.
 

@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...use the colors outside of the small inner grid pattern.
+1. To make the output, you have to...discard the colors in the small inner grid pattern.
 
-2. To make the output, you have to...copy the exact colors in the small inner grid pattern.
+2. To make the output, you have to...design your own color scheme for the small inner grid pattern.
 
-3. To make the output, you have to...design your own color scheme for the small inner grid pattern.
+3. To make the output, you have to...invert the colors in the small inner grid pattern.
 
-4. To make the output, you have to...invert the colors in the small inner grid pattern.
+4. To make the output, you have to...use the colors outside of the small inner grid pattern.
 
-5. To make the output, you have to...discard the colors in the small inner grid pattern.
+5. To make the output, you have to...copy the exact colors in the small inner grid pattern.
 

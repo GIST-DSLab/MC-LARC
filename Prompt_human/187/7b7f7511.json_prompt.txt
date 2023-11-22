@@ -1,9 +1,9 @@
 Here are the options:
-1. To make the output, you have to...add double the input, no matter the quantity.
+1. To make the output, you have to...invert the input, essentially mirroring it.
 
-2. To make the output, you have to...invert the input, essentially mirroring it.
+2. To make the output, you have to...simply use the entire input, nothing needs to be removed.
 
-3. To make the output, you have to...simply use the entire input, nothing needs to be removed.
+3. To make the output, you have to...add double the input, no matter the quantity.
 
 4. To make the output, you have to...multiply the input by half, not entirely removing anything.
 

@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...fill the same color by 4x4 grid size.
+1. To make the output, you have to...sketch an human face.
 
-2. To make the output, you have to...sketch an human face.
+2. To make the output, you have to...draw circles in a 8x8 grid.
 
 3. To make the output, you have to...cut the sheet into a 4x4 grid.
 
 4. To make the output, you have to...paint the entire canvas black.
 
-5. To make the output, you have to...draw circles in a 8x8 grid.
+5. To make the output, you have to...fill the same color by 4x4 grid size.
 

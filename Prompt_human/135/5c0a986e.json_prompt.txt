@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...follow the diagonal from the top left corner of the red box to the bottom right corner of the blue box and fill it with yellow boxes.
+1. To make the output, you have to...begin at the top right corner of the red box and the bottom left of the blue box and fill every other pixel in the grid with green boxes.
 
 2. To make the output, you have to...fill the entire grid with blue boxes starting from the top left corner and stopping at the bottom right corner of the red box.
 
-3. To make the output, you have to...draw a line of gray boxes from the center of the grid to the bottom right corner of the grid without touching any colored 2x2 boxes.
+3. To make the output, you have to...follow the diagonal from the top left corner of the red box to the bottom right corner of the blue box and fill it with yellow boxes.
 
-4. To make the output, you have to...create a single line of boxes matching the color of the 2x2 box. Begin with the top left corner of the blue and the bottom right of the red and go out to the edge of the grid.
+4. To make the output, you have to...draw a line of gray boxes from the center of the grid to the bottom right corner of the grid without touching any colored 2x2 boxes.
 
-5. To make the output, you have to...begin at the top right corner of the red box and the bottom left of the blue box and fill every other pixel in the grid with green boxes.
+5. To make the output, you have to...create a single line of boxes matching the color of the 2x2 box. Begin with the top left corner of the blue and the bottom right of the red and go out to the edge of the grid.
 

@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... pick up random squares from the large pattern, regardless of the first square being black. 
+1. To make the output, you have to... use all the squares present in the large pattern, irrespective of the first square's color. 
 
-2. To make the output, you have to... use only black squares in the large pattern and ignore all the others.
+2. To make the output, you have to...use the left most 9 squares of the large pattern, even if the first square in the large pattern is black.
 
-3. To make the output, you have to... use all the squares present in the large pattern, irrespective of the first square's color. 
+3. To make the output, you have to... use only black squares in the large pattern and ignore all the others.
 
-4. To make the output, you have to...use the left most 9 squares of the large pattern, even if the first square in the large pattern is black.
+4. To make the output, you have to... pick up random squares from the large pattern, regardless of the first square being black. 
 
 5. To make the output, you have to... use the right most 9 squares in case the first square in the large pattern is black.
 

@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...replace the black grid with red and pair with a blue grid.
+1. To make the output, you have to...cover the entire grid with blue, ignoring the original black grid.
 
-2. To make the output, you have to...empty the black grid entirely and leave it without any colour.
+2. To make the output, you have to...fill the black grid with green surrounding with continue black grid.
 
-3. To make the output, you have to...cover the entire grid with blue, ignoring the original black grid.
+3. To make the output, you have to...replace the black grid with red and pair with a blue grid.
 
 4. To make the output, you have to...draw a yellow circle around the black grid, not filling it with any colour.
 
-5. To make the output, you have to...fill the black grid with green surrounding with continue black grid.
+5. To make the output, you have to...empty the black grid entirely and leave it without any colour.
 

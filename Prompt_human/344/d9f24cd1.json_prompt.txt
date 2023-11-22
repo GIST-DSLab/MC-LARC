@@ -1,11 +1,11 @@
 Here are the options:
 1. To make the output, you have to...expand each green dot sideways so it forms a horizontal line. The green pixel must alter course as it approaches the white pixel above and keep going sideways.
 
-2. To make the output, you have to...lower each blue dot straight down so it forms a horizontal line. The blue pixel must shift direction when it nears the black pixel to the left and continue straight down.
+2. To make the output, you have to...extend each red dot straight up so it forms a vertical line. The red pixel must change direction as it reaches the grey pixel to the right and continue straight up.
 
-3. To make the output, you have to...elevate each purple dot in a curved path so it forms a semi-circle. The purple pixel must deviate direction when it crosses the orange pixel to the left and proceed in a curved path.
+3. To make the output, you have to...diminish each yellow dot diagonally so it forms an angled line. The yellow pixel must divert direction as it encounters the brown pixel below and persist diagonally.
 
-4. To make the output, you have to...extend each red dot straight up so it forms a vertical line. The red pixel must change direction as it reaches the grey pixel to the right and continue straight up.
+4. To make the output, you have to...elevate each purple dot in a curved path so it forms a semi-circle. The purple pixel must deviate direction when it crosses the orange pixel to the left and proceed in a curved path.
 
-5. To make the output, you have to...diminish each yellow dot diagonally so it forms an angled line. The yellow pixel must divert direction as it encounters the brown pixel below and persist diagonally.
+5. To make the output, you have to...lower each blue dot straight down so it forms a horizontal line. The blue pixel must shift direction when it nears the black pixel to the left and continue straight down.
 

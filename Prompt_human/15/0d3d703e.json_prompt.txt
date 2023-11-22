@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...invert the color of the grid column. black to white, brown to clear, orange to teal, and vice versa
+1. To make the output, you have to...multiply the numbers in the grid column.
 
 2. To make the output, you have to...change the size of the grid column.
 
-3. To make the output, you have to...shift the positions of the grid column.
+3. To make the output, you have to...change the color of the grid column into specific color. grey to dark blue, light blue to dark red, magenta to light red, green to yellow and vice versa
 
-4. To make the output, you have to...multiply the numbers in the grid column.
+4. To make the output, you have to...shift the positions of the grid column.
 
-5. To make the output, you have to...change the color of the grid column into specific color. grey to dark blue, light blue to dark red, magenta to light red, green to yellow and vice versa
+5. To make the output, you have to...invert the color of the grid column. black to white, brown to clear, orange to teal, and vice versa
 

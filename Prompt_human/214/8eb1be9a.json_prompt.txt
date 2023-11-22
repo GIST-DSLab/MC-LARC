@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... copy the input grid, then copy the exact same pattern to fill in the whole black background.
+1. To make the output, you have to... turn the input grid upside down, then utilize an opposing scheme to fill in the whole black background.
 
-2. To make the output, you have to... turn the input grid upside down, then utilize an opposing scheme to fill in the whole black background.
+2. To make the output, you have to... change the color of the input grid, then design a different pattern to fill in the whole black background.
 
-3. To make the output, you have to... ignore the input grid, then randomly distribute objects to fill in the whole black background.
+3. To make the output, you have to... delete the input grid, then remove everything to fill in the whole black background.
 
-4. To make the output, you have to... change the color of the input grid, then design a different pattern to fill in the whole black background.
+4. To make the output, you have to... copy the input grid, then copy the exact same pattern to fill in the whole black background.
 
-5. To make the output, you have to... delete the input grid, then remove everything to fill in the whole black background.
+5. To make the output, you have to... ignore the input grid, then randomly distribute objects to fill in the whole black background.
 

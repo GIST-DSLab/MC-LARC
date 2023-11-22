@@ -1,11 +1,11 @@
 Here are the options:
 1. To make the output, you have to...cover the blue areas entirely in black.
 
-2. To make the output, you have to...replace the black regions with blue. 
+2. To make the output, you have to...remove all black sections entirely. 
 
-3. To make the output, you have to...remove all black sections entirely. 
+3. To make the output, you have to...replace the black regions with blue. 
 
-4. To make the output, you have to...turn the blue sections to red.
+4. To make the output, you have to...fill the black sections between two blue sections with red.
 
-5. To make the output, you have to...fill the black sections between two blue sections with red.
+5. To make the output, you have to...turn the blue sections to red.
 

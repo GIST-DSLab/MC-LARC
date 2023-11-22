@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...copy the color in one section to any other section.
+1. To make the output, you have to...transfer the image from one section to any other section.
 
-2. To make the output, you have to...duplicate the shape in one section to any other section.
+2. To make the output, you have to...copy the color in one section to any other section.
 
-3. To make the output, you have to...transfer the image from one section to any other section.
+3. To make the output, you have to...copy the text in one section to any other section.
 
-4. To make the output, you have to...copy the text in one section to any other section.
+4. To make the output, you have to...duplicate the shape in one section to any other section.
 
 5. To make the output, you have to...replicate the size of one section to any other section.
 

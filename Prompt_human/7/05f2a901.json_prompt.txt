@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... insert the blue 2x2 square into the red shape without any movement.
+1. To make the output, you have to... rotate the red shape to touch the blue 2x2 square without changing locations.
 
-2. To make the output, you have to... rotate the red shape to touch the blue 2x2 square without changing locations.
+2. To make the output, you have to... insert the blue 2x2 square into the red shape without any movement.
 
-3. To make the output, you have to... bring the blue 2x2 square and the red shape together, without moving the blue square.
+3. To make the output, you have to... move the blue 2x2 square to the spot where the red shape is currently located.
 
 4. To make the output, you have to... keep the blue 2x2 square in the same spot. the red shape needs to move until it is touching the blue 2x2 square. You should move the red shape towards the blue 2x2 square either vertically or horizontally.
 
-5. To make the output, you have to... move the blue 2x2 square to the spot where the red shape is currently located.
+5. To make the output, you have to... bring the blue 2x2 square and the red shape together, without moving the blue square.
 

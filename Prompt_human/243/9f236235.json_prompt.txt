@@ -1,11 +1,11 @@
 Here are the options:
 1. To make the output, you have to...concentrate on the lines that form the rectangles, then reflect them vertically (top to bottom). This should provide just the figure from the input.
 
-2. To make the output, you have to...concentrate on the curves that shape the ovals, then flip them diagonally. You should get only the diagram from the input.
+2. To make the output, you have to...avoid the lines that create the boxes, and instead focus on the pattern. Copy the pattern so that it is mirrored horizontally (left to right). You should end up with only the design from the input.
 
-3. To make the output, you have to...avoid the lines that create the boxes, and instead focus on the pattern. Copy the pattern so that it is mirrored horizontally (left to right). You should end up with only the design from the input.
+3. To make the output, you have to...revoke all the lines forming circles, and focus completely on the pattern. Invert the pattern so it's inverted vertically and horizontally. You should end up with just the sketch from the input.
 
 4. To make the output, you have to...dismiss the lines creating angles and put an emphasis on the pattern. Rotate the pattern so that it's perpendicular. The end result should be just the composition from the input.
 
-5. To make the output, you have to...revoke all the lines forming circles, and focus completely on the pattern. Invert the pattern so it's inverted vertically and horizontally. You should end up with just the sketch from the input.
+5. To make the output, you have to...concentrate on the curves that shape the ovals, then flip them diagonally. You should get only the diagram from the input.
 

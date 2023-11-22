@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...change the single black pixels to green, two black pixel lines to red, and three black pixel shapes to blue. The background stays gray.
+1. To make the output, you have to...change the single pink pixels to white, two brown pixel lines to teal, and three black pixel shapes to orange. The background stays green.
 
-2. To make the output, you have to...change the single yellow pixels to blue, two green pixel lines to brown, and three white pixel shapes to black. The background stays red.
+2. To make the output, you have to...change the single black pixels to green, two black pixel lines to red, and three black pixel shapes to blue. The background stays gray.
 
-3. To make the output, you have to...change the single red pixels to purple, two green pixel lines to orange, and three blue pixel shapes to yellow. The background stays black.
+3. To make the output, you have to...change the single green pixels to red, two purple pixel lines to black, and three gray pixel shapes to white. The background stays yellow.
 
-4. To make the output, you have to...change the single pink pixels to white, two brown pixel lines to teal, and three black pixel shapes to orange. The background stays green.
+4. To make the output, you have to...change the single yellow pixels to blue, two green pixel lines to brown, and three white pixel shapes to black. The background stays red.
 
-5. To make the output, you have to...change the single green pixels to red, two purple pixel lines to black, and three gray pixel shapes to white. The background stays yellow.
+5. To make the output, you have to...change the single red pixels to purple, two green pixel lines to orange, and three blue pixel shapes to yellow. The background stays black.
 

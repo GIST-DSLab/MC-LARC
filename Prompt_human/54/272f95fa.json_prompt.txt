@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...fill the areas seperated by 4 lines. Center area should be filled with mageta, and top area with red, the left with yellow, the right with green, and the bottom with blue, relative to the center area.
+1. To make the output, you have to...fill the areas separated by 3 lines. Only top area should be filled with orange, and other areas should be left empty, relative to the center area.
 
-2. To make the output, you have to...fill the areas separated by 4 lines. All areas should be filled with white color, no specific color is required for different areas, relative to the center area.
+2. To make the output, you have to...fill the areas seperated by 4 lines. Center area should be filled with mageta, and top area with red, the left with yellow, the right with green, and the bottom with blue, relative to the center area.
 
-3. To make the output, you have to...fill the areas separated by 4 lines. The center area should be filled with black, and other area colors are optional, relative to the center area.
+3. To make the output, you have to...leave all areas empty, no color is required to fill, separate the areas by 2 lines.
 
-4. To make the output, you have to...fill the areas separated by 3 lines. Only top area should be filled with orange, and other areas should be left empty, relative to the center area.
+4. To make the output, you have to...fill the areas separated by 4 lines. All areas should be filled with white color, no specific color is required for different areas, relative to the center area.
 
-5. To make the output, you have to...leave all areas empty, no color is required to fill, separate the areas by 2 lines.
+5. To make the output, you have to...fill the areas separated by 4 lines. The center area should be filled with black, and other area colors are optional, relative to the center area.
 

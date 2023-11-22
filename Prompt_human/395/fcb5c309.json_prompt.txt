@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...construct a mirror reflection of the shape from the input, with the color of the random pixels from input.
+1. To make the output, you have to...recreate the largest shape from the input, instead using the color of the random pixels from the input.Using that same color, fill in any random pixels that occured in the shape in the input, in the same position they are in in the input shape.
 
-2. To make the output, you have to...pick the smallest shape from the input, replace its color with grayscale. Then.
+2. To make the output, you have to...construct a mirror reflection of the shape from the input, with the color of the random pixels from input.
 
-3. To make the output, you have to...select several random shapes from the input, and rotate them according to the direction of the gradient pixels in the input.
+3. To make the output, you have to...choose a medium size shape from the input and fill it with a neon color. Apply a gradient effect to the pixels of the shape.
 
-4. To make the output, you have to...choose a medium size shape from the input and fill it with a neon color. Apply a gradient effect to the pixels of the shape.
+4. To make the output, you have to...pick the smallest shape from the input, replace its color with grayscale. Then.
 
-5. To make the output, you have to...recreate the largest shape from the input, instead using the color of the random pixels from the input.Using that same color, fill in any random pixels that occured in the shape in the input, in the same position they are in in the input shape.
+5. To make the output, you have to...select several random shapes from the input, and rotate them according to the direction of the gradient pixels in the input.
 

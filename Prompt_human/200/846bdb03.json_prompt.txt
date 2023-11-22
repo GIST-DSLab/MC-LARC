@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...position the blocks regardless of color in such a way that they fit next to the blocks with the yellow, implying a necessity to surpass the yellow blocks.
+1. To make the output, you have to...align the blocks with the yellow on top at each end, ensuring that every color is clearly visible. No colors should be placed beyond the yellow blocks.
 
-2. To make the output, you have to...align the blocks with the yellow on top at each end, ensuring that every color is clearly visible. No colors should be placed beyond the yellow blocks.
+2. To make the output, you have to...position the blocks regardless of color in such a way that they fit next to the blocks with the yellow, implying a necessity to surpass the yellow blocks.
 
 3. To make the output, you have to...place the blocks without the yellow in a sequence so that they fit between the blocks with the yellow by color. All colors are allowed to extend past the yellow blocks.
 
-4. To make the output, you have to...fix the blocks without the yellow in a way that they are contained in the blocks with the yellow. The colors do not necessarily have to match, but they can't exceed the yellow blocks.
+4. To make the output, you have to...rotate the blocks without the yellow so they fit between the blocks with the yellow on the end and the colors match up. All colors should fit within the two sets of blocks with the yellow on the end without a need to go beyond the yellow blocks.
 
-5. To make the output, you have to...rotate the blocks without the yellow so they fit between the blocks with the yellow on the end and the colors match up. All colors should fit within the two sets of blocks with the yellow on the end without a need to go beyond the yellow blocks.
+5. To make the output, you have to...fix the blocks without the yellow in a way that they are contained in the blocks with the yellow. The colors do not necessarily have to match, but they can't exceed the yellow blocks.
 

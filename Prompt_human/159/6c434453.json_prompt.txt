@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...remove all the existing patterns and leave the area blank.
+1. To make the output, you have to...exchange the blue lines with orange stripes.
 
-2. To make the output, you have to...replace closed patterns with red sign with black corners.
+2. To make the output, you have to...remove all the existing patterns and leave the area blank.
 
-3. To make the output, you have to...overlap colored patterns with faded signs.
+3. To make the output, you have to...fill the empty spaces with purple color and green outline.
 
-4. To make the output, you have to...exchange the blue lines with orange stripes.
+4. To make the output, you have to...overlap colored patterns with faded signs.
 
-5. To make the output, you have to...fill the empty spaces with purple color and green outline.
+5. To make the output, you have to...replace closed patterns with red sign with black corners.
 

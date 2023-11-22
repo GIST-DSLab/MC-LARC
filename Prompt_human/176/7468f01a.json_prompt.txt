@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...copy and mirror the colored object.
+1. To make the output, you have to...swap the colored object.
 
-2. To make the output, you have to...swap the colored object.
+2. To make the output, you have to...erase the colored object.
 
-3. To make the output, you have to...erase the colored object.
+3. To make the output, you have to...copy and mirror the colored object.
 
-4. To make the output, you have to...resize the colored object.
+4. To make the output, you have to...move the colored object.
 
-5. To make the output, you have to...move the colored object.
+5. To make the output, you have to...resize the colored object.
 

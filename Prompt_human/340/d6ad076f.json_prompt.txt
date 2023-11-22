@@ -1,11 +1,11 @@
 Here are the options:
 1. To make the output, you have to...rotate the input grid by 90 degrees and maintain the shapes as they are. The size isn't important.
 
-2. To make the output, you have to...copy the input grid and connect the two shapes with the blue grid.it must be smaller than the size of the small input shape.
+2. To make the output, you have to...split the input grid into two equal parts and color them with different colors. Ignore the size factor.
 
-3. To make the output, you have to...overlay the input grid with a green one, the size of the input shapes isn't relevant.
+3. To make the output, you have to...copy the input grid and connect the two shapes with the blue grid.it must be smaller than the size of the small input shape.
 
-4. To make the output, you have to...split the input grid into two equal parts and color them with different colors. Ignore the size factor.
+4. To make the output, you have to...remove the input grid and replace it with a red one. The size of the grid shouldn't be considered.
 
-5. To make the output, you have to...remove the input grid and replace it with a red one. The size of the grid shouldn't be considered.
+5. To make the output, you have to...overlay the input grid with a green one, the size of the input shapes isn't relevant.
 

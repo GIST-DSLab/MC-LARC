@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...place the shapes randomly on the page. Then pour different colors until the shapes blend in with the background. The shapes' corners should go in the middle.
+1. To make the output, you have to...make sure the background is all white. Rotate the shapes and randomly put them on different sides. The upside-down t-shape should go at the top in the middle, the two sideways t-shapes should go on the corners with the long side against to the top and bottom. Change the colors of each shape periodically.
 
 2. To make the output, you have to...make sure the background is half gray and half blue. Place the shapes and colors in a pattern that mimics checkers. The t-shapes should be scattered randomly across the canvas and their long side should face the left and right. Swap the colors of each shape.
 
-3. To make the output, you have to...make sure the background is all white. Rotate the shapes and randomly put them on different sides. The upside-down t-shape should go at the top in the middle, the two sideways t-shapes should go on the corners with the long side against to the top and bottom. Change the colors of each shape periodically.
+3. To make the output, you have to...leave the background as it is. Rearrange the shapes and colors based on what you feel like doing. The corners should go against the walls of the canvas. The t-shapes should be spread across the top and bottom of the canvas in a symmetrical fashion with different orientations. Make sure to change the colors for each.
 
-4. To make the output, you have to...leave the background as it is. Rearrange the shapes and colors based on what you feel like doing. The corners should go against the walls of the canvas. The t-shapes should be spread across the top and bottom of the canvas in a symmetrical fashion with different orientations. Make sure to change the colors for each.
+4. To make the output, you have to...place the shapes randomly on the page. Then pour different colors until the shapes blend in with the background. The shapes' corners should go in the middle.
 
 5. To make the output, you have to...make sure the background is all gray. Then place the colors and shapes you see in the input in the right place. The corners should go in the corners. the t-shape should go at the top in the middle, the upside down t-shape should go at the bottom in the middle, the two side way t-shapes should go on the left and right side in the middle so that the long side is against to the left and right. Make sure to keep the same colors for each
 

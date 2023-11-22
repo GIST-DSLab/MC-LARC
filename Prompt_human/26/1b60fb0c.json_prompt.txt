@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...fill up the empty spaces with black color, ignoring the pattern of the blue section.
+1. To make the output, you have to...paint the entire figure with purple while completely disregarding the blue portion's pattern.
 
-2. To make the output, you have to...replace all the blue sections with the color green, not caring about the red parts.
+2. To make the output, you have to...fill up the empty spaces with black color, ignoring the pattern of the blue section.
 
 3. To make the output, you have to...modify the pattern using the color yellow without considering the form of the blue section. 
 
-4. To make the output, you have to...paint the entire figure with purple while completely disregarding the blue portion's pattern.
+4. To make the output, you have to...replace all the blue sections with the color green, not caring about the red parts.
 
 5. To make the output, you have to...draw with red color to follow the pattern of the blue section and make one figure with 4 sections that look the same.
 

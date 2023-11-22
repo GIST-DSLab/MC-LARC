@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...place each candy in a jar that fits its flavor 
+1. To make the output, you have to...sort each book In order of the author's birth date
 
-2. To make the output, you have to...assign each song to a melody that corresponds to their rhythm
+2. To make the output, you have to...adjust each light intensity to the specific time of the day
 
-3. To make the output, you have to...adjust each light intensity to the specific time of the day
+3. To make the output, you have to...assign each song to a melody that corresponds to their rhythm
 
-4. To make the output, you have to...sort each book In order of the author's birth date
+4. To make the output, you have to...put each color in one square that match their position in the big picture
 
-5. To make the output, you have to...put each color in one square that match their position in the big picture
+5. To make the output, you have to...place each candy in a jar that fits its flavor 
 

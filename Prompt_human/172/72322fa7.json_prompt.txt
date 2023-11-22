@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...shuffle the colored pixels randomly throughout the grid. Ignore the exemplars.
+1. To make the output, you have to...copy the input grid. Add colored pixels to the singletons such that they copy the exemplars.
 
 2. To make the output, you have to...rotate the entire input grid by 90 degrees. Do not modify the color or positions of the singletons.
 
-3. To make the output, you have to...remove the singletons from the input grid. Leave the pixels unchanged.
+3. To make the output, you have to...invert the colors of every pixel in the grid. Do not use the exemplars as a reference.
 
-4. To make the output, you have to...copy the input grid. Add colored pixels to the singletons such that they copy the exemplars.
+4. To make the output, you have to...remove the singletons from the input grid. Leave the pixels unchanged.
 
-5. To make the output, you have to...invert the colors of every pixel in the grid. Do not use the exemplars as a reference.
+5. To make the output, you have to...shuffle the colored pixels randomly throughout the grid. Ignore the exemplars.
 

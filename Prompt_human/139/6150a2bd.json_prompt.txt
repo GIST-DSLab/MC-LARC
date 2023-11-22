@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... rotate the whole grid two times. Imagine that the entire grid has been flipped both horizontally and vertically. Once you picture it, you can create the output grid.
+1. To make the output, you have to... turn the grid 45 degrees, and then mirror the grid. This rotation will create the desired output.
 
-2. To make the output, you have to... expand the grid using the scale factor of 2. The scaled grid can be used for output.
+2. To make the output, you have to... resize the grid keeping the proportion same. The rescaling will provide the required output.
 
-3. To make the output, you have to... turn the grid 45 degrees, and then mirror the grid. This rotation will create the desired output.
+3. To make the output, you have to... rotate the whole grid two times. Imagine that the entire grid has been flipped both horizontally and vertically. Once you picture it, you can create the output grid.
 
 4. To make the output, you have to... colour the corners of the grid in blue. Remember to pick the right shade of blue for the corners.
 
-5. To make the output, you have to... resize the grid keeping the proportion same. The rescaling will provide the required output.
+5. To make the output, you have to... expand the grid using the scale factor of 2. The scaled grid can be used for output.
 

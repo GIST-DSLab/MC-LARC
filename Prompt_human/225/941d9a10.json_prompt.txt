@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...fill the left-upper black area with blue; the middle with red; and the green in the right-down.
+1. To make the output, you have to...fill the middle brown area with orange; the left side with pink; and the red in the right-middle.
 
-2. To make the output, you have to...fill the right-lower green area with black; the top with yellow; and the blue in the left-middle.
+2. To make the output, you have to...fill the left-lower white area with purple; the middle with cyan; and the yellow in the right-up.
 
-3. To make the output, you have to...fill the middle brown area with orange; the left side with pink; and the red in the right-middle.
+3. To make the output, you have to...fill the right-lower green area with black; the top with yellow; and the blue in the left-middle.
 
-4. To make the output, you have to...fill the right-upper blue area with violet; the border with grey; and the white in the left-down.
+4. To make the output, you have to...fill the left-upper black area with blue; the middle with red; and the green in the right-down.
 
-5. To make the output, you have to...fill the left-lower white area with purple; the middle with cyan; and the yellow in the right-up.
+5. To make the output, you have to...fill the right-upper blue area with violet; the border with grey; and the white in the left-down.
 

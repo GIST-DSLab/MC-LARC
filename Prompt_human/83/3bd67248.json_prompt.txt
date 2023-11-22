@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... you need to make a yellow line perpendicular to the line located at the left half and then you draw a diagonal red line starting at the intersecting between both lines.
+1. To make the output, you have to... start by rotating the given figure 90 degrees anticlockwise then sketching a blue circle around it.
 
 2. To make the output, you have to... create a green triangle at the upper right corner then connect it with a pink line across the lower left. 
 
 3. To make the output, you have to... place a dot at the midpoint of the line segment on the left side before drawing a curve from one point to another. 
 
-4. To make the output, you have to... start by rotating the given figure 90 degrees anticlockwise then sketching a blue circle around it.
+4. To make the output, you have to... you need to make a yellow line perpendicular to the line located at the left half and then you draw a diagonal red line starting at the intersecting between both lines.
 
 5. To make the output, you have to... produce a square at the center and fill it with crosshatched lines using the right tool.
 

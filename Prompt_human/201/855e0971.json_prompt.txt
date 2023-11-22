@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...utilize all of the given black tiles scattered randomly across the color block without any specific pattern. 
+1. To make the output, you have to...circle the perimeter of each colored block with the black tiles provided, without covering the blocks themselves.
 
 2. To make the output, you have to...arrange the black tiles in a diagonal pattern from one corner of the color grid to the other.
 
-3. To make the output, you have to...create a cross using the black tiles on each colored block spread either horizontally and vertically but never in a single line.
+3. To make the output, you have to...make one single line of black tiles, using the black tile provided, to cover the color block that it is located in either horizontally or vertically. You figure this out by determining which line would be shorter and create single black line in that manner. That is you have one black line that goes from the top of the color grid that it is in, to the bottom of that color grid. Or from side to side, depending on length.
 
-4. To make the output, you have to...circle the perimeter of each colored block with the black tiles provided, without covering the blocks themselves.
+4. To make the output, you have to...utilize all of the given black tiles scattered randomly across the color block without any specific pattern. 
 
-5. To make the output, you have to...make one single line of black tiles, using the black tile provided, to cover the color block that it is located in either horizontally or vertically. You figure this out by determining which line would be shorter and create single black line in that manner. That is you have one black line that goes from the top of the color grid that it is in, to the bottom of that color grid. Or from side to side, depending on length.
+5. To make the output, you have to...create a cross using the black tiles on each colored block spread either horizontally and vertically but never in a single line.
 

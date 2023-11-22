@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...occupy all blocks with blue color even if the blue block doesn't exist there.
+1. To make the output, you have to...fill out the white blocks only, leaving the blue ones empty.
 
-2. To make the output, you have to...fill out the white blocks only, leaving the blue ones empty.
+2. To make the output, you have to...paint the entire area blue, regardless of where the blue blocks exist.
 
-3. To make the output, you have to...fill out the blue color to the area of where the blue block exists. when there is no blue block there is no need to fill up, just leave those blocks as empty.
+3. To make the output, you have to...remove all the blue blocks from the area before filling it up.
 
-4. To make the output, you have to...remove all the blue blocks from the area before filling it up.
+4. To make the output, you have to...fill out the blue color to the area of where the blue block exists. when there is no blue block there is no need to fill up, just leave those blocks as empty.
 
-5. To make the output, you have to...paint the entire area blue, regardless of where the blue blocks exist.
+5. To make the output, you have to...occupy all blocks with blue color even if the blue block doesn't exist there.
 

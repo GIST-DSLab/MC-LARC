@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...begin with a blank version of the pattern. Pick each color from top, and use that to shade every third square in a diagonal manner.
+1. To make the output, you have to...start with the color that is on the top. Fill in that line with that color every other square, begin with first square. Fill in the rest in that line with the second color. For the next line, start with the color that is already there (the second color) and fill in in the same every other square pattern. It should look like a game board. The first color in every line is the color of the input grid
 
-2. To make the output, you have to...start with the color that is on the top. Fill in that line with that color every other square, begin with first square. Fill in the rest in that line with the second color. For the next line, start with the color that is already there (the second color) and fill in in the same every other square pattern. It should look like a game board. The first color in every line is the color of the input grid
+2. To make the output, you have to...scramble the colors on the input grid randomly. This would then produce a multicolored and abstract output grid.
 
-3. To make the output, you have to...start from the bottom-most line with the color that is there and color every other square. Follow the same for all lines until the top.
+3. To make the output, you have to...begin with a blank version of the pattern. Pick each color from top, and use that to shade every third square in a diagonal manner.
 
-4. To make the output, you have to...begin with the last square of each line and fill every other square with that color. The rest of the squares should then be filled with a color of your choice.
+4. To make the output, you have to...start from the bottom-most line with the color that is there and color every other square. Follow the same for all lines until the top.
 
-5. To make the output, you have to...scramble the colors on the input grid randomly. This would then produce a multicolored and abstract output grid.
+5. To make the output, you have to...begin with the last square of each line and fill every other square with that color. The rest of the squares should then be filled with a color of your choice.
 

@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...move the green 3x3 block to the left one 'track' if the pattern is vertical. If the pattern is horizontal, move the green 3x3 block one 'track' up. In both situations, the position of the green blocks should solely change.
+1. To make the output, you have to...shift the cyan 5x5 block up one 'track' regardless of whether the pattern is vertical or horizontal. In both instances, only the position of the cyan blocks should change.
 
-2. To make the output, you have to...move the red 3x3 block down one 'track' if the pattern is vertical. If the pattern is horizontal, move the red 3x3 block one 'track' to the right. In both instances, only the location of the red blocks should change.
+2. To make the output, you have to...rotate the blue 2x2 block clockwise by 90 degrees, irrespective of the pattern's arrangement. Under all conditions, only the orientation of the blue blocks should alter.
 
-3. To make the output, you have to...shift the cyan 5x5 block up one 'track' regardless of whether the pattern is vertical or horizontal. In both instances, only the position of the cyan blocks should change.
+3. To make the output, you have to...move the red 3x3 block down one 'track' if the pattern is vertical. If the pattern is horizontal, move the red 3x3 block one 'track' to the right. In both instances, only the location of the red blocks should change.
 
 4. To make the output, you have to...invert the entire pattern, meaning the lower part goes up and the upper part comes down. Ensure no color or placements are altered during this transition.
 
-5. To make the output, you have to...rotate the blue 2x2 block clockwise by 90 degrees, irrespective of the pattern's arrangement. Under all conditions, only the orientation of the blue blocks should alter.
+5. To make the output, you have to...move the green 3x3 block to the left one 'track' if the pattern is vertical. If the pattern is horizontal, move the green 3x3 block one 'track' up. In both situations, the position of the green blocks should solely change.
 

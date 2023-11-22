@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...color the whole output grid the color of the colored input grid blocks so there is a horizontal line of colored blocks.
+1. To make the output, you have to...replace all colored blocks on the input grid with blank spaces.
 
-2. To make the output, you have to...replace all colored blocks on the input grid with blank spaces.
+2. To make the output, you have to...flip the colored input grid blocks vertically.
 
-3. To make the output, you have to...flip the colored input grid blocks vertically.
+3. To make the output, you have to...rotate the colored blocks from the input grid in a clockwise direction.
 
 4. To make the output, you have to...remove all the colored blocks from the input grid.
 
-5. To make the output, you have to...rotate the colored blocks from the input grid in a clockwise direction.
+5. To make the output, you have to...color the whole output grid the color of the colored input grid blocks so there is a horizontal line of colored blocks.
 

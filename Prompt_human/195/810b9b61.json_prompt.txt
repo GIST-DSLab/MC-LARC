@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...rotate the input grid 180 degrees. Then, change all squares that were on the outside edge to black.
+1. To make the output, you have to...make all shapes on the grid red. Don't worry about whether they are closed or open.
 
-2. To make the output, you have to...copy the input grid. Then, any shapes that are closed (like complete squares or rectangles) will be changed from blue to green. Any other shapes that are open (incomplete) or are just lines, stay blue.
+2. To make the output, you have to...remove all the shapes from the grid. Then, add new shapes of your choosing. Feel free to choose any color you want.
 
-3. To make the output, you have to...identify the center of the input grid. Then, color the center square purple. All other squares remain their original color.
+3. To make the output, you have to...rotate the input grid 180 degrees. Then, change all squares that were on the outside edge to black.
 
-4. To make the output, you have to...remove all the shapes from the grid. Then, add new shapes of your choosing. Feel free to choose any color you want.
+4. To make the output, you have to...copy the input grid. Then, any shapes that are closed (like complete squares or rectangles) will be changed from blue to green. Any other shapes that are open (incomplete) or are just lines, stay blue.
 
-5. To make the output, you have to...make all shapes on the grid red. Don't worry about whether they are closed or open.
+5. To make the output, you have to...identify the center of the input grid. Then, color the center square purple. All other squares remain their original color.
 

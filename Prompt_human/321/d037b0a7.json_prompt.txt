@@ -1,5 +1,5 @@
 Here are the options:
-1. To make the output, you have to...create a new layer and apply a black border.
+1. To make the output, you have to...emphasize every color except black by making their edges brighter.
 
 2. To make the output, you have to...paint all the squares the same black color.
 
@@ -7,5 +7,5 @@ Here are the options:
 
 4. To make the output, you have to...find all the black squares and change them to a different color.
 
-5. To make the output, you have to...emphasize every color except black by making their edges brighter.
+5. To make the output, you have to...create a new layer and apply a black border.
 

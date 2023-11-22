@@ -7,9 +7,9 @@ df = pd.read_csv('description_output.csv', encoding='ISO-8859-1')
 start_sentence = 'To make the output, you have to...'
 
 # Check rows that don't start with the specified sentence in any of the ChatGPT Response columns
-rows_not_starting_with = df[~df['ChatGPT Response1'].str.startswith(start_sentence) |
-                            ~df['ChatGPT Response2'].str.startswith(start_sentence) |
-                            ~df['ChatGPT Response3'].str.startswith(start_sentence) |
+rows_not_starting_with = df[~df['ChatGPT Response1'].str.startswith(start_sentence) &
+                            ~df['ChatGPT Response2'].str.startswith(start_sentence) &
+                            ~df['ChatGPT Response3'].str.startswith(start_sentence) &
                             ~df['ChatGPT Response4'].str.startswith(start_sentence)]
 
 # Save the wrong row numbers and create a list of row_numbers

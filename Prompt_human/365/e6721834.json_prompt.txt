@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...recolor the output grid to exclude the two boxes, and then overlap the colored boxes on the grid where the interior boxes mismatch.
+1. To make the output, you have to...redesign the output grid to the foreground color including the two boxes, then place the colored boxes off the grid where the interior colored boxes don't match.
 
-2. To make the output, you have to...change the output grid to the background color that does not include the two boxes. Next place the colored boxes on the grid where the interior colored boxes match.
+2. To make the output, you have to...alter the output grid to a color that the two boxes can't match. Proceed to place the colored boxes outside the grid where the interior colored boxes misalign.
 
-3. To make the output, you have to...shape the output grid to match the two boxes' layout, then place the colored boxes onto a grid without any color.
+3. To make the output, you have to...recolor the output grid to exclude the two boxes, and then overlap the colored boxes on the grid where the interior boxes mismatch.
 
-4. To make the output, you have to...redesign the output grid to the foreground color including the two boxes, then place the colored boxes off the grid where the interior colored boxes don't match.
+4. To make the output, you have to...change the output grid to the background color that does not include the two boxes. Next place the colored boxes on the grid where the interior colored boxes match.
 
-5. To make the output, you have to...alter the output grid to a color that the two boxes can't match. Proceed to place the colored boxes outside the grid where the interior colored boxes misalign.
+5. To make the output, you have to...shape the output grid to match the two boxes' layout, then place the colored boxes onto a grid without any color.
 

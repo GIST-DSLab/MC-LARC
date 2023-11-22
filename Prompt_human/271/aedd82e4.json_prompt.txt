@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... rotate the input grid 90 degrees and color the single squares green.
+1. To make the output, you have to... replicate the input grid, color all the single squares blue, and double squares gray.
 
-2. To make the output, you have to... copy the input grid. Any shapes which only contain one single square should be colored blue.
+2. To make the output, you have to... mirror the input grid and color the single squares red.
 
 3. To make the output, you have to... copy the input grid, and color all the single squares yellow.
 
-4. To make the output, you have to... mirror the input grid and color the single squares red.
+4. To make the output, you have to... copy the input grid. Any shapes which only contain one single square should be colored blue.
 
-5. To make the output, you have to... replicate the input grid, color all the single squares blue, and double squares gray.
+5. To make the output, you have to... rotate the input grid 90 degrees and color the single squares green.
 

@@ -1,9 +1,9 @@
 Here are the options:
-1. To make the output, you have to...fill the black grid with inverted pattern of row color, adjacent row must be inverse shifted right
+1. To make the output, you have to...fill the black grid with same pattern of row color, keep the pattern intact without any shift
 
 2. To make the output, you have to...leave the black grid empty, let the pattern form itself by default
 
-3. To make the output, you have to...fill the black grid with same pattern of row color, keep the pattern intact without any shift
+3. To make the output, you have to...fill the black grid with inverted pattern of row color, adjacent row must be inverse shifted right
 
 4. To make the output, you have to...fill the black grid with same pattern of row color, next row need to replace the same pattern of first row one column move shifted left
 

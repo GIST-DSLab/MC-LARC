@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...create a new pattern that does not exist in the large rectangular area and apply it to the small rectangular area
+1. To make the output, you have to...transfer the black pattern from the small rectangular area to the large rectangular area
 
-2. To make the output, you have to...discard the small rectangular pattern and focus on reproducing the large rectangular area
+2. To make the output, you have to...eliminate the black pattern from both the small and the large rectangular areas
 
-3. To make the output, you have to...eliminate the black pattern from both the small and the large rectangular areas
+3. To make the output, you have to...discard the small rectangular pattern and focus on reproducing the large rectangular area
 
-4. To make the output, you have to...transfer the black pattern from the small rectangular area to the large rectangular area
+4. To make the output, you have to...reproduce the small rectangular pattern then reproduce the black pattern from the large rectangular area onto the small rectangular area
 
-5. To make the output, you have to...reproduce the small rectangular pattern then reproduce the black pattern from the large rectangular area onto the small rectangular area
+5. To make the output, you have to...create a new pattern that does not exist in the large rectangular area and apply it to the small rectangular area
 

@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... create the grid. Then copy the original pattern onto the output grid. Next, create a mirror pattern from the original pattern underneath the original pattern. Then copy the whole original and mirror pattern to fill in the rest of the black grid.
+1. To make the output, you have to... demolish the grid. Following destruction, discard the original pattern. Instead of mirroring the original pattern, create a brand new concept. Then fill the open spaces in the grid with the newly designed pattern, not using the original one at all.
 
-2. To make the output, you have to... erase the entire grid. After that, reconstruct the original pattern in a random location on the new grid. Ignore the mirror pattern since it's not necessary. Finally, fill the rest of the grid with any random patterns.
+2. To make the output, you have to... shatter the grid into pieces. Later, redefine the original pattern into something completely different. Work on a new design instead of mirroring the original. Complete the grid by scattering various patterns in a mosaic approach.
 
-3. To make the output, you have to... shatter the grid into pieces. Later, redefine the original pattern into something completely different. Work on a new design instead of mirroring the original. Complete the grid by scattering various patterns in a mosaic approach.
+3. To make the output, you have to... create the grid. Then copy the original pattern onto the output grid. Next, create a mirror pattern from the original pattern underneath the original pattern. Then copy the whole original and mirror pattern to fill in the rest of the black grid.
 
-4. To make the output, you have to... sculpt the grid. Then redraw the original pattern on top of the already existing pattern. Next, create a polar opposite from the original pattern instead of a mirror. Fill the rest of the grid with the crafted inverse pattern.
+4. To make the output, you have to... erase the entire grid. After that, reconstruct the original pattern in a random location on the new grid. Ignore the mirror pattern since it's not necessary. Finally, fill the rest of the grid with any random patterns.
 
-5. To make the output, you have to... demolish the grid. Following destruction, discard the original pattern. Instead of mirroring the original pattern, create a brand new concept. Then fill the open spaces in the grid with the newly designed pattern, not using the original one at all.
+5. To make the output, you have to... sculpt the grid. Then redraw the original pattern on top of the already existing pattern. Next, create a polar opposite from the original pattern instead of a mirror. Fill the rest of the grid with the crafted inverse pattern.
 

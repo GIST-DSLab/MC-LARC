@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...resize the pattern's width and keep the same row.
+1. To make the output, you have to...split the pattern into equal halves and maintain the row.
 
-2. To make the output, you have to...replicate the pattern diagonally without changing the row.
+2. To make the output, you have to...make the pattern mirror as left-right with the same height and twice the row.
 
-3. To make the output, you have to...make the pattern mirror as left-right with the same height and twice the row.
+3. To make the output, you have to...resize the pattern's width and keep the same row.
 
-4. To make the output, you have to...split the pattern into equal halves and maintain the row.
+4. To make the output, you have to...reduce the pattern's height by half and triple the row.
 
-5. To make the output, you have to...reduce the pattern's height by half and triple the row.
+5. To make the output, you have to...replicate the pattern diagonally without changing the row.
 

@@ -3,9 +3,9 @@ Here are the options:
 
 2. To make the output, you have to...first, convert all other colored grids into black. Then, pick the first black grid you see as the center of a new shape. However, the new shape will have more black grids than the original and won't be an exact replica.
 
-3. To make the output, you have to...first, remove all colors from the input grid and replace them with black. Then, select a random point in the grid and use it as the center to draw a new shape. Both shapes should have different black grid counts. 
+3. To make the output, you have to...first, redraw the input grid in reverse order. After flipping the grid, count the number of blue squares within the shape. Copy the shape into a different part of the grid, ensuring that the new shape has fewer black squares.
 
-4. To make the output, you have to...first, replace the input grid with an entirely black grid. Then, anywhere in the grid, create a new shape using the count of green squares in the original shape. The end result will not have two shapes with the same black grid count.
+4. To make the output, you have to...first, remove all colors from the input grid and replace them with black. Then, select a random point in the grid and use it as the center to draw a new shape. Both shapes should have different black grid counts. 
 
-5. To make the output, you have to...first, redraw the input grid in reverse order. After flipping the grid, count the number of blue squares within the shape. Copy the shape into a different part of the grid, ensuring that the new shape has fewer black squares.
+5. To make the output, you have to...first, replace the input grid with an entirely black grid. Then, anywhere in the grid, create a new shape using the count of green squares in the original shape. The end result will not have two shapes with the same black grid count.
 

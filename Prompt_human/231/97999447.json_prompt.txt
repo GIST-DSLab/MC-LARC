@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...paste the input grid. Upon doing this, beneath the first colored block, install a black block. Afterwards, continue downwards and place a block of the identical color. Advance the pattern of original color followed by black until you get to the bottom. Do this with each replicated colored block.
+1. To make the output, you have to...extract the input grid. In sequence, below the first multicolored block, insert an orange block. Post inserting, move upwards and place a block of the same color. Pursue the sequence of same color followed by orange until you reach the top. Implement this with each similar colored block.
 
 2. To make the output, you have to...diagonally repost the input grid. Subsequent to that, above the first colored block, situate a white block. Following that, continue diagonal and place a block of a dissimilar color. Progress the pattern of diverse color followed by white until you arrive at the upper corner. Do this with each diverse colored block.
 
 3. To make the output, you have to...display the input grid. Then, to the left of the first muted block, allocate a red block. Post allocation, make a progression to the left and place a block of the contrasting color. Keep up with the pattern of contrasting color followed by red until you reach the left margin. Practice this with each contrasting colored block.
 
-4. To make the output, you have to...copy the input grid. Then, to the right of the first colored block, place a gray block. After the gray block, continue to the right and place a block of the original color. Continue the pattern of original color followed by gray until you reach the right side. Do this with each original colored block.
+4. To make the output, you have to...paste the input grid. Upon doing this, beneath the first colored block, install a black block. Afterwards, continue downwards and place a block of the identical color. Advance the pattern of original color followed by black until you get to the bottom. Do this with each replicated colored block.
 
-5. To make the output, you have to...extract the input grid. In sequence, below the first multicolored block, insert an orange block. Post inserting, move upwards and place a block of the same color. Pursue the sequence of same color followed by orange until you reach the top. Implement this with each similar colored block.
+5. To make the output, you have to...copy the input grid. Then, to the right of the first colored block, place a gray block. After the gray block, continue to the right and place a block of the original color. Continue the pattern of original color followed by gray until you reach the right side. Do this with each original colored block.
 

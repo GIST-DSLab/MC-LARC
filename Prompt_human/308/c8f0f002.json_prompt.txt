@@ -1,9 +1,9 @@
 Here are the options:
-1. To make the output, you have to...add more shades to the orange pixels.
+1. To make the output, you have to...delete the orange pixels completely.
 
-2. To make the output, you have to...turn the orange pixels into neon green.
+2. To make the output, you have to...add more shades to the orange pixels.
 
-3. To make the output, you have to...delete the orange pixels completely.
+3. To make the output, you have to...turn the orange pixels into neon green.
 
 4. To make the output, you have to...divide the orange pixels into smaller portions.
 

@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...maneuver the red pattern to lie against the green line, then remove a blue line from the red pattern, parallel to the green line.
+1. To make the output, you have to...shift the red line to match the blue pattern, then insert a green line against the red one, perpendicular to the blue pattern.
 
-2. To make the output, you have to...rotate the green pattern to lie over the blue line, then subtract a red line from the green pattern, in line with the blue pattern.
+2. To make the output, you have to...move the green pattern against the red line, then add a blue line against the green pattern parallel with the red line.
 
-3. To make the output, you have to...align the blue pattern to coincide with the green line, then embed a red line within the blue pattern, orthogonal to the green line.
+3. To make the output, you have to...rotate the green pattern to lie over the blue line, then subtract a red line from the green pattern, in line with the blue pattern.
 
-4. To make the output, you have to...shift the red line to match the blue pattern, then insert a green line against the red one, perpendicular to the blue pattern.
+4. To make the output, you have to...align the blue pattern to coincide with the green line, then embed a red line within the blue pattern, orthogonal to the green line.
 
-5. To make the output, you have to...move the green pattern against the red line, then add a blue line against the green pattern parallel with the red line.
+5. To make the output, you have to...maneuver the red pattern to lie against the green line, then remove a blue line from the red pattern, parallel to the green line.
 

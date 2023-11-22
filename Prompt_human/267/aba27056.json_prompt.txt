@@ -1,11 +1,11 @@
 Here are the options:
 1. To make the output, you have to...erase all the black squares, color a curved line through the middle of the pattern red, and create one blue horizontal line across the top.
 
-2. To make the output, you have to...fill in the pattern with yellow, color the black squares that make a straight line to the edge of the grid yellow, and create one yellow diagonal line from the line to the edge.
+2. To make the output, you have to...draw a brown circle around the entire pattern, turn all corners of the grid pink, and form a blue zigzag across the grid.
 
 3. To make the output, you have to...outline all shapes with a thin red line, fill the border with black, and create a silver star in the center.
 
-4. To make the output, you have to...draw a brown circle around the entire pattern, turn all corners of the grid pink, and form a blue zigzag across the grid.
+4. To make the output, you have to...fill in the pattern with yellow, color the black squares that make a straight line to the edge of the grid yellow, and create one yellow diagonal line from the line to the edge.
 
 5. To make the output, you have to...highlight the green sections, make sure all circles are purple, and form an orange square in the center of the grid.
 

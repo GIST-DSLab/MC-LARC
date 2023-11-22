@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...choose the colors from the center of four squares of the grid and position them on the same location on the output grid.
+1. To make the output, you have to...pick any colors randomly in the top left corner of four squares of the grid and scatter them on the output 2x2 grid. 
 
-2. To make the output, you have to...designate the colors found only in the top right corner of four squares of the grid and discard them in the corresponding squares on the output grid.
+2. To make the output, you have to...choose the colors from the center of four squares of the grid and position them on the same location on the output grid.
 
-3. To make the output, you have to...copy the colors used in the top left corner of four squares of the grid and make them the corresponding colors on the output 2x2 grid. So if the top left has a red square, then a yellow square with a blue square below the red square and a green square below the yellow square, then those would be placed in the corresponding squares on the output grid.
+3. To make the output, you have to...select the colors located in the bottom right corner of four squares of the grid and arrange them haphazardly on the output grid.
 
-4. To make the output, you have to...select the colors located in the bottom right corner of four squares of the grid and arrange them haphazardly on the output grid.
+4. To make the output, you have to...copy the colors used in the top left corner of four squares of the grid and make them the corresponding colors on the output 2x2 grid. So if the top left has a red square, then a yellow square with a blue square below the red square and a green square below the yellow square, then those would be placed in the corresponding squares on the output grid.
 
-5. To make the output, you have to...pick any colors randomly in the top left corner of four squares of the grid and scatter them on the output 2x2 grid. 
+5. To make the output, you have to...designate the colors found only in the top right corner of four squares of the grid and discard them in the corresponding squares on the output grid.
 

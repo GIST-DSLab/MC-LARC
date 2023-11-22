@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...Start with the bottom-left pattern (pink). Then, place the bottom-right (brown) pattern on top. Now superimpose the top-left (yellow) pattern and finally the top-right (gray) pattern. Treat the black squares as if they are white.
+1. To make the output, you have to...Copy the bottom-left pattern (pink). On top of it, place the top-left (yellow) pattern. Then add the bottom-right (brown) pattern. Finally, superimpose the top-right (gray) pattern. Assume the black squares as opaque.
 
-2. To make the output, you have to...Merge the top-left (yellow) pattern with the bottom-right (brown) pattern. Then, place the bottom-left pattern (pink) on top. Then, place the top-right (gray) pattern on top. Remember to keep all squares opaque.
+2. To make the output, you have to...Copy the top-left (yellow) pattern. Then, place the bottom-right (brown) pattern on top. Then, place the bottom-left pattern (pink) on top. Then, place the top-right (gray) pattern on top. Imagine the black squares are transparent, so every time you superimpose each pattern the one below can be seen through the black squares.
 
 3. To make the output, you have to...First take the top-right (gray) pattern. Then, place the top-left (yellow) pattern on top. Next, place the bottom-right (brown) pattern. Lastly, put the bottom-left pattern (pink) on top of all. Consider the black squares to be white.
 
-4. To make the output, you have to...Copy the top-left (yellow) pattern. Then, place the bottom-right (brown) pattern on top. Then, place the bottom-left pattern (pink) on top. Then, place the top-right (gray) pattern on top. Imagine the black squares are transparent, so every time you superimpose each pattern the one below can be seen through the black squares.
+4. To make the output, you have to...Merge the top-left (yellow) pattern with the bottom-right (brown) pattern. Then, place the bottom-left pattern (pink) on top. Then, place the top-right (gray) pattern on top. Remember to keep all squares opaque.
 
-5. To make the output, you have to...Copy the bottom-left pattern (pink). On top of it, place the top-left (yellow) pattern. Then add the bottom-right (brown) pattern. Finally, superimpose the top-right (gray) pattern. Assume the black squares as opaque.
+5. To make the output, you have to...Start with the bottom-left pattern (pink). Then, place the bottom-right (brown) pattern on top. Now superimpose the top-left (yellow) pattern and finally the top-right (gray) pattern. Treat the black squares as if they are white.
 

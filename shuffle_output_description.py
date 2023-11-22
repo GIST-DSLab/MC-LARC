@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
 # Read the CSV file
-df = pd.read_csv('MC-LARC/MC-LARC_description_output.csv', encoding='ISO-8859-1', dtype=str)
+df = pd.read_csv('description_output.csv', encoding='ISO-8859-1', dtype=str)
 
 # Initialize an empty list to store the shuffled data and answers
 shuffled_data = []
@@ -40,4 +40,4 @@ new_column_names = {
 shuffled_df.rename(columns=new_column_names, inplace=True)
 
 # Save the DataFrame to a new CSV file
-shuffled_df.to_csv('MC-LARC/shuffled_output_description.csv', index=False)
+shuffled_df.to_csv('shuffled_output_description.csv', index=False)

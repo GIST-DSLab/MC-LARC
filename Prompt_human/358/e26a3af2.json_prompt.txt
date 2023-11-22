@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...shift all the random color squares outside of the bars.
+1. To make the output, you have to...eliminate all the random color squares and replace them with the color of the bar they are in.
 
-2. To make the output, you have to...maintain all the random color squares and change the color of the bar they are in.
+2. To make the output, you have to...generate additional colored squares that randomly mix into the bar. 
 
-3. To make the output, you have to...generate additional colored squares that randomly mix into the bar. 
+3. To make the output, you have to...remove all color bars and leave only random color squares. 
 
-4. To make the output, you have to...remove all color bars and leave only random color squares. 
+4. To make the output, you have to...maintain all the random color squares and change the color of the bar they are in.
 
-5. To make the output, you have to...eliminate all the random color squares and replace them with the color of the bar they are in.
+5. To make the output, you have to...shift all the random color squares outside of the bars.
 

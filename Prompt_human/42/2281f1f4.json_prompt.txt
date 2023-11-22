@@ -1,9 +1,9 @@
 Here are the options:
-1. To make the output, you have to...draw the red squares first, without any regard to the grey squares. X and Y intersections are not significant here.
+1. To make the output, you have to...observe X and Y grey squares and place tiny dots on the intersection points. Only after marking the spots, you transform them into red squares.
 
-2. To make the output, you have to...wait until the grey squares turn red naturally. There's no need to treat or paint them. Just wait and they will morph into the desired redness.
+2. To make the output, you have to...draw the red squares first, without any regard to the grey squares. X and Y intersections are not significant here.
 
-3. To make the output, you have to...observe X and Y grey squares and place tiny dots on the intersection points. Only after marking the spots, you transform them into red squares.
+3. To make the output, you have to...wait until the grey squares turn red naturally. There's no need to treat or paint them. Just wait and they will morph into the desired redness.
 
 4. To make the output, you have to...cover all the grey squares with red paint. No distinction between X or Y is necessary, red is applied equally everywhere.
 

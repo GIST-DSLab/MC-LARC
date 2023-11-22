@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...construct an oval form with the least green rectangles exactly.
+1. To make the output, you have to...copy the rectangular shape with the most red squares exactly.
 
-2. To make the output, you have to...replicate the triangular shape with the most purple diamonds exactly.
+2. To make the output, you have to...duplicate the square shape with the most yellow circles exactly.
 
-3. To make the output, you have to...copy the rectangular shape with the most red squares exactly.
+3. To make the output, you have to...construct an oval form with the least green rectangles exactly.
 
 4. To make the output, you have to...create a circular shape with the least blue triangles exactly.
 
-5. To make the output, you have to...duplicate the square shape with the most yellow circles exactly.
+5. To make the output, you have to...replicate the triangular shape with the most purple diamonds exactly.
 

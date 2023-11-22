@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...shade the numbered squares in shades of grey.
+1. To make the output, you have to...fill the gray area with the colors corresponding with the colored block in the first row.
 
-2. To make the output, you have to...leave the gray area as it is and colour the edges instead.
+2. To make the output, you have to...shade the numbered squares in shades of grey.
 
-3. To make the output, you have to...fill the gray area with the colors corresponding with the colored block in the first row.
+3. To make the output, you have to...completely fill the grid with a single colour.
 
-4. To make the output, you have to...remove all colours and leave the field in grayscale.
+4. To make the output, you have to...leave the gray area as it is and colour the edges instead.
 
-5. To make the output, you have to...completely fill the grid with a single colour.
+5. To make the output, you have to...remove all colours and leave the field in grayscale.
 

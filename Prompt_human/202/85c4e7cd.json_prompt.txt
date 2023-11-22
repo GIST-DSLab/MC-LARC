@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...replace the inner most color with the outer most colors and complete the same steps with every color until all have been changed. In other words, invert the order of the colors.
+1. To make the output, you have to...shuffle the colors randomly without following any pattern.
 
-2. To make the output, you have to...shuffle the colors randomly without following any pattern.
+2. To make the output, you have to...change only one color and keep the others the same. 
 
-3. To make the output, you have to...maintain the sequence of the colors as it is with no changes. 
+3. To make the output, you have to...replace the inner most color with the outer most colors and complete the same steps with every color until all have been changed. In other words, invert the order of the colors.
 
 4. To make the output, you have to...replace the outermost color with the innermost color while keeping the other colors the same. 
 
-5. To make the output, you have to...change only one color and keep the others the same. 
+5. To make the output, you have to...maintain the sequence of the colors as it is with no changes. 
 

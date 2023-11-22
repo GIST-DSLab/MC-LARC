@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...avoid connecting any of the 2x2 grids of the same color.
+1. To make the output, you have to...fill the black 2x2 square grid with same color in between the two same color of 2x2 grid and connect.
 
-2. To make the output, you have to...leave the black 2x2 square grid empty between the two same colors.
+2. To make the output, you have to...avoid connecting any of the 2x2 grids of the same color.
 
-3. To make the output, you have to...fill the black 2x2 square grid with same color in between the two same color of 2x2 grid and connect.
+3. To make the output, you have to...fill the black 2x2 square grid with a different color between two same color grids.
 
-4. To make the output, you have to...fill the black 2x2 square grid with a different color between two same color grids.
+4. To make the output, you have to...leave the black 2x2 square grid empty between the two same colors.
 
 5. To make the output, you have to...disconnect the 2x2 square grids of the same color.
 

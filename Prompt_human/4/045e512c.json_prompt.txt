@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to... invert the color palette of the remaining cubes, clustering them at the center of the grid without any resemblance to the reference shape.
+1. To make the output, you have to... erase the reference shape, using the color of the other blocks as a guide, before expanding to the edge of the grid with an unrelated pattern.
 
-2. To make the output, you have to... randomize the color arrangement of the grid and purposely avoid replicating any recognizable shape or pattern seen before.
+2. To make the output, you have to... construct a completely new shape in the grid using opposing colors, disregarding any pre-existing pattern or start point.
 
-3. To make the output, you have to... construct a completely new shape in the grid using opposing colors, disregarding any pre-existing pattern or start point.
+3. To make the output, you have to... invert the color palette of the remaining cubes, clustering them at the center of the grid without any resemblance to the reference shape.
 
-4. To make the output, you have to... erase the reference shape, using the color of the other blocks as a guide, before expanding to the edge of the grid with an unrelated pattern.
+4. To make the output, you have to... replicate the reference shape, using the color of the other blocks as a start point and then replicate that pattern to the edge of the grid, even if it needs a incomplete shape.
 
-5. To make the output, you have to... replicate the reference shape, using the color of the other blocks as a start point and then replicate that pattern to the edge of the grid, even if it needs a incomplete shape.
+5. To make the output, you have to... randomize the color arrangement of the grid and purposely avoid replicating any recognizable shape or pattern seen before.
 

@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...remove one blue grid from the center for each 2x2 blue grids available.
+1. To make the output, you have to...fill two blue grids from the right for every 2x2 blue grids available.
 
-2. To make the output, you have to...fill single blue grid from the left for every 2x2 blue grids available.
+2. To make the output, you have to...fill every single red grid for each 2x2 blue grids available.
 
-3. To make the output, you have to...fill every single red grid for each 2x2 blue grids available.
+3. To make the output, you have to...remove one blue grid from the center for each 2x2 blue grids available.
 
-4. To make the output, you have to...fill two blue grids from the right for every 2x2 blue grids available.
+4. To make the output, you have to...leave all blue grids empty despite the 2x2 blue grids available.
 
-5. To make the output, you have to...leave all blue grids empty despite the 2x2 blue grids available.
+5. To make the output, you have to...fill single blue grid from the left for every 2x2 blue grids available.
 

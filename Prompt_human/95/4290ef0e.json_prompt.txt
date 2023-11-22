@@ -1,11 +1,11 @@
 Here are the options:
-1. To make the output, you have to...reduce the size of each subsequent outline, and place them overlapping each other.
+1. To make the output, you have to...place the outlines inside each other so the big one contain all others within it, leave the background the same color.
 
-2. To make the output, you have to...remove the background completely, so only the outlines remain.
+2. To make the output, you have to...scatter the outlines randomly, with different sizes and shapes.
 
-3. To make the output, you have to...scatter the outlines randomly, with different sizes and shapes.
+3. To make the output, you have to...reduce the size of each subsequent outline, and place them overlapping each other.
 
-4. To make the output, you have to...place the outlines inside each other so the big one contain all others within it, leave the background the same color.
+4. To make the output, you have to...remove the background completely, so only the outlines remain.
 
 5. To make the output, you have to...fill the outlines with different colors, creating a sort of rainbow effect.
 

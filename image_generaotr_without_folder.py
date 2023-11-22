@@ -1,6 +1,5 @@
 # I referenced the GitHub repository of the paper, https://arxiv.org/pdf/2310.05146.pdf, https://github.com/tanchongmin/ARC-Challenge/.
 
-
 import os
 import json
 import numpy as np

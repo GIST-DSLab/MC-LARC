@@ -1,5 +1,5 @@
 # for txt file
-*.txt
+# *.txt
 
 # for api key
 api key.txt

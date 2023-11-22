@@ -28,7 +28,7 @@ for index, row in df.iterrows():
         os.makedirs(task_folder)
     
     # Copy the image file
-    image_folder = 'training_input_output_pair_image'
+    image_folder = 'training_IO_pair_image'
     for image_filepath in glob.glob(os.path.join(image_folder, f"*{task_name}*")):
         shutil.copy(image_filepath, task_folder)
     

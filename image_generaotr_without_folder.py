@@ -85,7 +85,7 @@ myjson_train = load_json_data(folder)
 file_names_train = list(myjson_train.keys())
 
 # Load the task mapping from the CSV file
-csv_file = 'filtered_LARC_with_input_output.csv'
+csv_file = 'original_data/filtered_LARC_with_input_output.csv'
 
 # Generate and save the images
 for i in range(0, 400):

@@ -1,3 +1,19 @@
+How to write the answer?
+
+Examples:
+task_xxx: [number of answer option], [difficulty of choosing option]
+
+task_xxx: 3, 2 means that 'The answer is option 3, and the difficulty is 2 (easy).'
+
+
+Difficulty:
+1: Very easy
+2: Easy
+3: Moderate
+4: Difficult
+5: Very difficult
+
+
 task_0:
 task_1:
 task_2:

@@ -22,5 +22,5 @@ And run the program,
 </br>
 to check the wrong format descriptions.
 
-</br></br>
+</br>
 You need to check the wrongly generated task IDs due to the issue of GPT in the ChatGPT4_error_log folder. And then regenerate them.

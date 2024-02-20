@@ -24,7 +24,7 @@ with open('MC-LARC_output.csv', 'a', newline='', encoding='utf-8') as file:
     writer.writerow(["task_id", "task_name", "description_output", "ChatGPT Response1", "ChatGPT Response2", "ChatGPT Response3", "ChatGPT Response4"])
 
 # Error numbers
-numbers = [382]    # Examples, check the error_log.txt files
+numbers = []    # Examples, check the error_log.txt files
 
 # Error list
 openai_errors = []

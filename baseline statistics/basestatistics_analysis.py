@@ -62,7 +62,7 @@ def save_to_csv(results, output_csv_path):
 def main():
     # Define the directory containing JSON files
     directory_path = r"C:\Users\oollccddss\Desktop\Work\MC-LARC\MC-LARC-EMNLP.ver\original_data\training"
-    output_csv_path = os.path.join(r"C:\Users\oollccddss\Desktop\Work\MC-LARC\MC-LARC-EMNLP.ver\original_data", 'analysis_results.csv')
+    output_csv_path = os.path.join(r"C:\Users\oollccddss\Desktop\Work\MC-LARC\MC-LARC-EMNLP.ver\baseline statistics", 'analysis_results.csv')
     
     results = []
     

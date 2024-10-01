@@ -1,5 +1,0 @@
-[Assistant will now analyze the image pairs provided by the user to determine the rule that applies between the input and output images.]
-
-[Image Analysis Begins.]
-
-Option 2.

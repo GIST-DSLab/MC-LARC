@@ -29,6 +29,9 @@ MC-LARC
 
 This page is the official github repository for "From Generation to Selection: Findings Converting Analogical Problem-Solving into Multiple-Choice Questions".
 
+We introduce various versions of MC-LARC, which is available in ['here'](dataset/)
+
+If you have any questions about our dataset, please contact us at shindong97411@gmail.com.
 
 # Main Results
 

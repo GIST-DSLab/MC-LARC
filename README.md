@@ -30,6 +30,19 @@ MC-LARC
 This page is the official github repository for "From Generation to Selection: Findings Converting Analogical Problem-Solving into Multiple-Choice Questions".
 
 
+# Main Results
+
+# Citation
+If you find our paper helpful in your research, we would appreciate it if you could consider citing it.
+
+```BibTex
+@inproceedings{shin2024multiplechoice,
+  title={From Generation to Selection Findings of Converting Analogical Problem-Solving into Multiple-Choice Questions},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
+  author={Shin, Donghyeon and Lee, Seungpil and Kovacec, Klea and Kim, Sundong},
+  year={2024}
+}
+```
 # Acknoledgement
 This work was supported by the IITP (RS-2023-00216011, RS-2024-00445087, No. 2019-0-01842) and the NRF (RS-2024-00451162) grants funded by the Ministry of Science and ICT, Korea. Experiments were supported by the Accelerate Foundation Models Research Initiative, Microsoft.
 

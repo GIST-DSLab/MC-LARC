@@ -32,8 +32,7 @@ This page is the official github repository for "From Generation to Selection: F
 
 # Main Results
 
-
-- **MC-LARC's Effect**: MC-LARC, a multiple-choice version of ARC, increased LLM accuracy from 10% to 76%, focusing on *"Understand"* and *"Apply"* stages of Bloom's Taxonomy, making it easier to assess low level of reasoning abilities.
+- **MC-LARC's Effect**: MC-LARC, a multiple-choice version of ARC, increased LLM accuracy from 10% to 76%, focusing on *"Understand"* and *"Apply"* stages of Bloom's Taxonomy, making it easier to assess low level of reasoning abilities. You can explore various versions of MC-LARC through the following [link](https://mc-larc.github.io/).
 
 - **LLM Shortcuts**: LLMs often used shortcuts, like eliminating options based on repeated expressions or format, rather than actual reasoning, which inflated performance, especially without images.
 

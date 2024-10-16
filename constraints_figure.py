@@ -218,5 +218,7 @@ with open('ChatGPT4_error_log/Wrong_format_error_log.txt', 'a', newline='\n', en
 
 with open('ChatGPT4_error_log/Skip_error_log.txt', 'a', newline='\n', encoding='utf-8') as file:
     if skip_errors:
+        skip_current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         file.write('\nnumbers = ' + str(skip_errors) + '\n')
         file.write(skip_current_time)
+

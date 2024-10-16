@@ -36,7 +36,7 @@ This page is the official github repository for "From Generation to Selection: F
 If you find our paper helpful in your research, we would appreciate it if you could consider citing it.
 
 ```BibTex
-@inproceedings{shin2024multiplechoice,
+@inproceedings{shin2024from,
   title={From Generation to Selection Findings of Converting Analogical Problem-Solving into Multiple-Choice Questions},
   booktitle={Findings of the Association for Computational Linguistics: EMNLP 2024},
   author={Shin, Donghyeon and Lee, Seungpil and Kovacec, Klea and Kim, Sundong},

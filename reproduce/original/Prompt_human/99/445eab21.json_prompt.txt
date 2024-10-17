@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...fill the entire 2x2 grid with the same color of the biggest square pattern that is in the original.
+
+2. To make the output, you have to...clear the entire 2x2 grid and start from scratch.
+
+3. To make the output, you have to...remove all colors in the 2x2 grid.
+
+4. To make the output, you have to...use a mixture of colors from the smallest square pattern.
+
+5. To make the output, you have to...duplicated the biggest square pattern across the 2x2 grid.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...make vertical line under the point shape ONLY where there is a square under it, with the same color of the square and draw it down to the bottom.
+
+2. To make the output, you have to...draw a diagonal line from the point shape ONLY where there is a hexagon below it, with the same color of the hexagon but sharpen it at the top.
+
+3. To make the output, you have to...draw a horizontal line starting from the point shape to where there is a triangle with the same color as the triangle.
+
+4. To make the output, you have to...create a vertical line above the point shape only at the point where there is a circle, matching the color of the circle.
+
+5. To make the output, you have to...make a vertical line under the point shape ONLY where there is a square under it, with a different color from the square and draw it up to the top.
+

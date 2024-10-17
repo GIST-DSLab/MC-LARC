@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...remove green circles having varying designs on the vertical lines.
+
+2. To make the output, you have to...empty red squares with different symbols in the horizontal lines.
+
+3. To make the output, you have to...fill in black tiles with the same tile pattern in the diagonal lines.
+
+4. To make the output, you have to...replace yellow rectangles with distinct patterns across the zigzag traces.
+
+5. To make the output, you have to...cover blue octagons with identical shapes in the circular path.
+

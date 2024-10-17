@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...fill the pattern by red and blue color randomly without considering the number of internal blocks.
+
+2. To make the output, you have to...leave the pattern empty, without filling it with any colors.
+
+3. To make the output, you have to...fill the pattern with the same color all over without considering any blocks.
+
+4. To make the output, you have to...fill the pattern by red and blue color surrounded by same color, the one with most internal block should be filled with red color.
+
+5. To make the output, you have to...fill the pattern by yellow and green color regardless of the surrounding color.
+

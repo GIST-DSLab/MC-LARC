@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...make the output repeat the design horizontally from the top of the grid by the number of the colored grid on the background using the unique background explained above.
+
+2. To make the output, you have to...randomize the output according to the layout from the right of the grid by the total of the colorless grid on the background using a generic background setting.
+
+3. To make the output, you have to...restart the design vertically from the center of the grid by the density of the colored grid on the static background using the common background information.
+
+4. To make the output, you have to...copy the pattern from the left of the grid to the right, basing it on the number of uncolored grids on the background using a standard background.
+
+5. To make the output, you have to...run the process from the bottom of the grid upwards, counting the number of colored grids on the background. 
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a single colored grid pattern on 3x3 black background grid.

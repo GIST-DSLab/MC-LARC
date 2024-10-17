@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... lay edge box tint in 3x3, internal box tint in 5x5, then 7x7, then 9x9 and upwards. 
+
+2. To make the output, you have to... put center box color in 1x1, outside box color in 3x3, then 5x5, then 7x7 and so on.
+
+3. To make the output, you have to... place corner box color in 2x2, outside box color in 4x4, then 6x6, then 8x8 and onwards. 
+
+4. To make the output, you have to... fix center sphere color in 1x1, outer sphere color in 4x4, then 6x6, then 8x8 and beyond. 
+
+5. To make the output, you have to... settle middle circle shade in 3x3, surrounding circle shade in 5x5, then 7x7, then 9x9 and so forth.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... multiple color of frames.

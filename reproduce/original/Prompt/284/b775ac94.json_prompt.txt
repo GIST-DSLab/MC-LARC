@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you need to...reduce the usually light-sensitive shapes into a pattern that imitates and shuffles the basic cluster of cubes making the "half-finished" pattern. The outcome will look like a comet or a fifth of this "comet".
+
+2. To make the output, you should...zoom into the visibly faded elements into an artwork that buries and simulates the root series of elements that derive the "semi-structured" sequence. The effect will have a diamond-like image or two-third of this "diamond". 
+
+3. To make the output, you must...replicate the right angular forms into a design that mocks and mirrors the base batch of modules that shapes the "incomplete" pattern. This will result in an output looking like a star or half of this "star".
+
+4. To make the output, you have to...shrink the typically hueless objects into a sequence which copies and distorts the primary group of figures creating a "partially formed" module. The outcome will have a floral resemblance or a quarter of this "flower".
+
+5. To make the output, you have to...expand the oddly colored cells into a pattern that mimics and mirrors the original set of cells that form the "fully formed" pattern. The output will have a snowflake appearance or a half or three-quarters of this "snowflake". In other words, 4 different colors bunched together will form a fully symmetrical "snowflake", while 3 will produce a "three-quarters" one. If that makes any sense.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...colored squares positioned into patterns. One "fully formed" pattern will have a uniform color. Differently colored blocks will butt against this first pattern

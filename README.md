@@ -35,7 +35,7 @@ If you have any questions about our dataset, please contact us at shindong97411@
 
 # Main Results
 
-- **MC-LARC's Effect**: MC-LARC, a multiple-choice version of ARC, increased LLM accuracy from 10% to 76%, focusing on *"Understand"* and *"Apply"* stages of Bloom's Taxonomy, making it easier to assess low level of reasoning abilities. You can explore various versions of MC-LARC through the following [link](https://mc-larc.github.io/).
+- **MC-LARC's Effect**: MC-LARC, a multiple-choice version of ARC, increased LLM accuracy from 10% to 76%, focusing on *"Understand"* and *"Apply"* stages of Bloom's Taxonomy, making it easier to assess low level of reasoning abilities.
 
 - **LLM Shortcuts**: LLMs often used shortcuts, like eliminating options based on repeated expressions or format, rather than actual reasoning, which inflated performance, especially without images.
 
@@ -53,6 +53,7 @@ If you find our paper helpful in your research, we would appreciate it if you co
   year={2024}
 }
 ```
+
 # Acknoledgement
 This work was supported by the IITP (RS-2023-00216011, RS-2024-00445087, No. 2019-0-01842) and the NRF (RS-2024-00451162) grants funded by the Ministry of Science and ICT, Korea. Experiments were supported by the Accelerate Foundation Models Research Initiative, Microsoft.
 

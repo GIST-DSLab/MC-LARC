@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... fill the grid color of input for one vertical line and fill the next vertical line with input color and leave the next vertical line black and repeat this starting the input grid color from left to right.
+
+2. To make the output, you have to... fill the grid color of input for one horizontal line and leave the next horizontal line black and fill the next horizontal line with input color and repeat this starting the input grid color from top to bottom.
+
+3. To make the output, you have to... fill the grid color of input for one vertical line and leave the next two vertical lines black and fill the next vertical line with input color and repeat this starting the input grid color from left to right.
+
+4. To make the output, you have to... fill the grid color of input for one vertical line and leave the next vertical line black and fill the next vertical line with input color and repeat this starting the input grid color from left to right.
+
+5. To make the output, you have to... leave the grid color of input for one vertical line black and fill the next vertical line with input color and repeat this starting the input grid color from left to right.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... a colored single pixel attached to the bottom of the grid.

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...generate the hexagonal or cylindrical shape and then draw a line from the center to the colored boundary. This can be diagonal or straight, commencing from the center and proceeding towards the colored area.
+
+2. To make the output, you have to...copy the inner square or rectangular shape to the input then fill in the middle from the color line that match the pixels already there, to the colored pixel. This can be up, down, left, or right, start from the colored edge and fill in to the pixel with the same color.
+
+3. To make the output, you have to...highlight the spatial or circular shape, then adjust the center by adding more color until you reach the boundary. This could go vertical or horizontal, starting from the boundary and deepening the color towards the center.
+
+4. To make the output, you have to...choose the pentagonal shape, then fill the exterior with color that contrasts the pixels inside. This could be outward or inward, beginning from any pixel and filling out to the contrasting color.
+
+5. To make the output, you have to...select the outer triangle or circular shape and then erase the middle until you get to the colored line. This can be angled at any direction, starting from the edge with no color and erasing towards the pixel that has a different color.
+

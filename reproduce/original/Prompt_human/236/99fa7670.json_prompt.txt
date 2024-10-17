@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...shrink the colored block horizontally until it disappears, then pull up the block until it meets the top edge.
+
+2. To make the output, you have to...divide the colored block into smaller blocks, then disperse them randomly across the grid.
+
+3. To make the output, you have to...extend the colored block horizontally until the right edge, then extend the block downward until the block meets the bottom edge or other colored block. 
+
+4. To make the output, you have to...change the color of the block to match the background, then move the block upward until it hits the top edge.
+
+5. To make the output, you have to...rotate the colored block 90 degrees clockwise, then push it to the left until it disappears off the edge.
+

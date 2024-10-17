@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...color the black area within the gray with purple if it is a pentagon; otherwise, don't interfere.
+
+2. To make the output, you have to...fill the gray area within the black with blue if it is a circle; otherwise, leave it as it is.
+
+3. To make the output, you have to...fill the black area within the gray with red if it is a square; otherwise, leave it alone.
+
+4. To make the output, you have to...fill the white area within the gray with green if it is a rectangle; otherwise, don't touch it.
+
+5. To make the output, you have to...color the red area within the gray with black if it is a triangle; otherwise, ignore it.
+

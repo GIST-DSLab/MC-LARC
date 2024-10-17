@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... invert the color palette of the remaining cubes, clustering them at the center of the grid without any resemblance to the reference shape.
+
+2. To make the output, you have to... randomize the color arrangement of the grid and purposely avoid replicating any recognizable shape or pattern seen before.
+
+3. To make the output, you have to... construct a completely new shape in the grid using opposing colors, disregarding any pre-existing pattern or start point.
+
+4. To make the output, you have to... erase the reference shape, using the color of the other blocks as a guide, before expanding to the edge of the grid with an unrelated pattern.
+
+5. To make the output, you have to... replicate the reference shape, using the color of the other blocks as a start point and then replicate that pattern to the edge of the grid, even if it needs a incomplete shape.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a reference shape, which will be the shape with the most blocks, with various colored blocks to its sides.

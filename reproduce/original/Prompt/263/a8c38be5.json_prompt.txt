@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...place the shapes randomly on the page. Then pour different colors until the shapes blend in with the background. The shapes' corners should go in the middle.
+
+2. To make the output, you have to...make sure the background is half gray and half blue. Place the shapes and colors in a pattern that mimics checkers. The t-shapes should be scattered randomly across the canvas and their long side should face the left and right. Swap the colors of each shape.
+
+3. To make the output, you have to...make sure the background is all white. Rotate the shapes and randomly put them on different sides. The upside-down t-shape should go at the top in the middle, the two sideways t-shapes should go on the corners with the long side against to the top and bottom. Change the colors of each shape periodically.
+
+4. To make the output, you have to...leave the background as it is. Rearrange the shapes and colors based on what you feel like doing. The corners should go against the walls of the canvas. The t-shapes should be spread across the top and bottom of the canvas in a symmetrical fashion with different orientations. Make sure to change the colors for each.
+
+5. To make the output, you have to...make sure the background is all gray. Then place the colors and shapes you see in the input in the right place. The corners should go in the corners. the t-shape should go at the top in the middle, the upside down t-shape should go at the bottom in the middle, the two side way t-shapes should go on the left and right side in the middle so that the long side is against to the left and right. Make sure to keep the same colors for each
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a black grid with nine 3x3 shapes with gray and other colors. Each 3x3 shapes contain some pattern at the up, down, left, right part, and four corners. And the last one is empty with only gray pixels.

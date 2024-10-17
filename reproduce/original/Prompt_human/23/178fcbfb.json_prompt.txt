@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...draw a horizontal green line through any blue squares. Then paint in circles for any red and green squares. Avoid touching any blue squares from before.
+
+2. To make the output, you have to...draw a vertical red line through any red squares. Then draw lines, left to right, for the green and blue squares. Go over any red squares from before.
+
+3. To make the output, you have to...check for any blue circles. Connect them with a yellow swirl if found. Fill in any green or red circles next. Ignore any blue circles from the initial scan.
+
+4. To make the output, you have to...cross any yellow diamonds with a black X. Create a spiral pattern in any red and green hexagons afterward. Bypass any yellow diamonds from the starting point.
+
+5. To make the output, you have to...outline any green triangles with a purple line. Then trace a zigzag pattern over the red and blue rectangles. Skip over any green triangles from the start.
+

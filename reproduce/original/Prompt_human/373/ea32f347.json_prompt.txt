@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...connect the lines. The longest line needs to be linked with the middle length line. Then the shortest line needs to be merged with them.
+
+2. To make the output, you have to...change the color of the lines. The longest line needs to be colored blue. The middle length line needs to be colored yellow. The shortest line needs to be colored red.
+
+3. To make the output, you have to...lengthen the lines. The shortest line needs to be extended to the length of the middle one. The longest line needs to be lengthened even more.
+
+4. To make the output, you have to...cross out the lines. The longest line needs to be erased first. The middle length line needs to be removed afterwards. The shortest line needs to be taken off last.
+
+5. To make the output, you have to...cut the lines. The shortest line needs to be halved first. The middle length line needs to be quartered. The longest line needs to be divided into multiple segments.
+

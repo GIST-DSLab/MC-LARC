@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...delete the intersections on the silver grid, then trace the remaining lines of the silver grid using the brown marker.
+
+2. To make the output, you have to...draw an upward line with green where the blue grid's column intersect. then continue the green grid above the blue grid.
+
+3. To make the output, you have to...use a pink marker to circle all points on the black grid where it intersects with the white grid.
+
+4. To make the output, you have to...connect the dots on the orange grid using a purple line and extend it towards the border of the orange grid.
+
+5. To make the output, you have to...draw a down line with yellow to which the red grid's row meet. and continue the yellow grid to the side of the red grid.
+

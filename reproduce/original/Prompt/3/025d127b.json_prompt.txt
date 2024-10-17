@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...rotate the input grid 90 degrees clockwise. Move the colored blocks one row down. Everything but the top row and the block connecting the top row on the left side will have moved one block to the right.
+
+2. To make the output, you have to...invert the colors of the multicolored blocks. The blocks will then move to the left, except for the bottom row and the block connected to the bottom row on the right, which will stay put.
+
+3. To make the output, you have to...shift the entire grid to the right without dealing with individual blocks. The bottom row and the block connected to the bottom row on the right side will remain static.
+
+4. To make the output, you have to...flip the input grid vertically. Drag the multicolored blocks two rows down. Everything except the bottom row and the block connected to it on the right will move two blocks over to the right.
+
+5. To make the output, you have to...copy input grid over. find the bottom of the shape. Go up to the next row with the multicolored blocks and move everything over one row. Everything except the bottom row and the block that connect to the bottom row on the right side will have shifted one block over to the left.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...black background with colored parallelogram shape.

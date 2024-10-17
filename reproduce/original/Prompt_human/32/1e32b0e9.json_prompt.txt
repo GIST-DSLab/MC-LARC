@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...copy what is inside of the bottom left 6x6 grid throughout the bottom of the 8 grid formation. The tint of these excessive blocks should oppose the tint of the block cut line.
+
+2. To make the output, you have to...echo what is inside of the middle 4x4 grid over the rest of the 8 grid cluster. The shade of these surplus blocks should complement the shade of the block cut line.
+
+3. To make the output, you have to...mirror what is inside of the top right 2x2 grid across rest of the 8 grid series. The hue of these added blocks should clash with the hue of the block cut line.
+
+4. To make the output, you have to...replicate what is inside of the top left 5x5 grid throughout the rest of the 8 grid left. The color of these additional blocks should match the color of the block cut line.
+
+5. To make the output, you have to...duplicate what is inside of the bottom right 3x3 grid throughout the right of the 8 grid set. The color of these extra blocks should contrast the color of the block cut line.
+

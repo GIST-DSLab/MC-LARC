@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...colour the blue square according to your own preferences.
+
+2. To make the output, you have to...replace the pattern in the blue square with a different pattern from the input grid.
+
+3. To make the output, you have to...fill the blue square with the same pattern with the input grid. (that is.. the original pattern that need be there in the input)
+
+4. To make the output, you have to...erase all the patterns from the blue square.
+
+5. To make the output, you have to...leave the blue square empty.
+

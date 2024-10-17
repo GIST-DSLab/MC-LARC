@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... use the colors of the patterned grid, but change the size and shape, then place it on the other grid not following the orientation of the original pattern.
+
+2. To make the output, you have to... randomize all of the colors of the pattern, while maintaining the size and orientation, then place it randomly on the blank grid, disregarding the original grid layout.
+
+3. To make the output, you have to... copy the original pattern, but instead of placing it diagonally, place it horizontally across the blank grid, altering the sizes and colors as you go along.
+
+4. To make the output, you have to...without any change in the colors of any patterns, shapes, size and the background, copy the pattern on the black colored grids, to the other grid which is not patterned thus replicating it with the pattern and size of the black grid, continue to add the same pattern diagonally towards the only edge of the grid.
+
+5. To make the output, you have to... take only the green color from the pattern, and create a new pattern on the blank grid, disregarding the original pattern's size, shape and orientation.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a black pattern with another colored single grid beside it, different from the colored grids of the background.

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...remove all the colored grids from the pattern.
+
+2. To make the output, you have to...increase the size of each grid square.
+
+3. To make the output, you have to...replace each of colored grid by light blue color grid pattern.
+
+4. To make the output, you have to...darken the hue of each colored grid square.
+
+5. To make the output, you have to...change the grid pattern to stripes.
+

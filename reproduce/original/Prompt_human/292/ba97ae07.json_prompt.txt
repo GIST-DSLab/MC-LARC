@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... maintain the color of the intersection, keeping it the same as the input grid. 
+
+2. To make the output, you have to... remove the intersection of the two lines completely. 
+
+3. To make the output, you have to... swap the colors of the intersecting lines with each other.
+
+4. To make the output, you have to... copy the input grid. In the output, change the color where the two lines meet so that the other color line is on top.
+
+5. To make the output, you have to... switch the colors of the entire grid randomly. 
+

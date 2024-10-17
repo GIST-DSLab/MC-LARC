@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...recolor from black to green for every black square that has fully solid borders. For every square that has broken borders, recolor from black to yellow. Leave border lines in the original color.
+
+2. To make the output, you have to...recolor from black to brown for every black square that has fully solid borders. For every square that has broken borders, recolor from black to orange. Leave border lines in the original color.
+
+3. To make the output, you have to...recolor from black to pink for every black square that has fully solid borders. For every square that has broken borders, recolor from black to white. Leave border lines in the original color.
+
+4. To make the output, you have to...recolor from red to blue for every black square that has fully solid borders. For every square that has broken borders, recolor from red to purple. Leave border lines in the original color.
+
+5. To make the output, you have to...recolor from black to gray for every black square that has fully solid borders. For every square that has broken borders, recolor from black to dark green. Leave border lines in the original color.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... an array of black squares separated by a partially broken grid of colored lines.

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...ignore the color of the dot and prioritize the shape when connecting to the central square.
+
+2. To make the output, you have to...create a curve between the dots and the central square instead of a straight line.
+
+3. To make the output, you have to...connect it with a different color than the dot if the dots could connect to the central square with a straight line.
+
+4. To make the output, you have to...connect it with the same color as the dot if the dots could connect to the central square with a straight line.
+
+5. To make the output, you have to...disconnect the dots from the central square even if they can connect with a straight line.
+

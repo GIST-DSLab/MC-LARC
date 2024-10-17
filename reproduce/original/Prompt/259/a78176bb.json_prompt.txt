@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...retain the diagonal tint and exchange the white with orange. echo the exact diagonal tint on the green color side by leaving space enough for original rectangle size formed by white.
+
+2. To make the output, you have to...maintain the horizontal color and turn the blue color into green. replicate the same vertical color on the brown side by retaining space number of original triangle size made by blue color.
+
+3. To make the output, you have to...sustain the vertical vibrancy and alter the pink color to brown. repeat the same horizontal vibrancy on the orange color side by keeping space number of original oval size shaped by pink.
+
+4. To make the output, you have to...keep the original diagonal color and fill the grey color with black. copy the same diagonal color on the grey color side by keeping space number of original square size make by grey color.
+
+5. To make the output, you have to...preserve the vertical hue and swap the red color with yellow. duplicate the same horizontal shade on the purple color side by leaving space number of original circle size created by red color.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a single color diagonal line with grey color objects attached to the line

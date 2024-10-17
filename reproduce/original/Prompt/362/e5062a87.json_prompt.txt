@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...detect similar patterns between pink triangles and orange diamonds, and turn all the orange diamonds into pink.
+
+2. To make the output, you have to...detect any green circle clones of the red square patterns and modify the green circles to squares.
+
+3. To make the output, you have to...find any black squares that are in the same pattern as the red squares, then change the black squares in each pattern to red.
+
+4. To make the output, you have to...find any red circles that are in the same pattern as the square ones, then transform the circles to triangles.
+
+5. To make the output, you have to...exchange the blue rectangles for yellow diamonds, if they fit the same design as the blue ones.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...several random gray and black pixels on a grid and one distinct pattern of red pixels.

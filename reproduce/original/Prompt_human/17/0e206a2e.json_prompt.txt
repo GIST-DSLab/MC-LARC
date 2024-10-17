@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...connect the corners of the color boxes as per the original object's direction.
+
+2. To make the output, you have to...move the original object within the space defined by the three color boxes.
+
+3. To make the output, you have to...combine the three boxes to create a new color identical to the original object.
+
+4. To make the output, you have to...try to fill up the empty space between the three color boxes as the original object given.
+
+5. To make the output, you have to...drain out the color from the three boxes until they match the initial object.
+

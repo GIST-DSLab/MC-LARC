@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...fill in the area of the large section with red to make a rectangular section. Background remain the same color
+
+2. To make the output, you have to...fill in the small sections first with different colors.
+
+3. To make the output, you have to...paint the entire background red, leaving the large section its original color.
+
+4. To make the output, you have to...clear all colors on the canvas and start from scratch.
+
+5. To make the output, you have to...change the size of a large section while leaving the color unchanged.
+

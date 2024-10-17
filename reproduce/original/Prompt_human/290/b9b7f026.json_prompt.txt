@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...paint the new square with the shade of the item without a crevice.
+
+2. To make the output, you have to...fill in the new grid with the color of the object that is solid.
+
+3. To make the output, you have to...paint the old grid with the shade of the item that has a hole in it.
+
+4. To make the output, you have to...fill in the new grid with the color of the object that has a hole in it.
+
+5. To make the output, you have to...replace the old grid square with the color of the object without any holes.
+

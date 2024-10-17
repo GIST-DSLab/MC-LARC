@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...add green and red pixels alternatively on a horizontal pattern. Start from the left end of the grid and move right. Repeat the procedure until the grid is completely filled.
+
+2. To make the output, you have to...add light purple pixel in a circular pattern starting from the center of the grid. Each pixel should be filled in a spiral pattern until you reach the edge of the grid. The rest of the area can then be filled with the yellow color.
+
+3. To make the output, you have to... fill in black and white pixels starting from the top right corner of the grid. Follow a diagonal path to the bottom left corner. Then, fill in the remaining spaces with gray pixels.
+
+4. To make the output, you have to...add the same color dark blue pixel in a zig-zag pattern moving up the grid. Each pixel should be filled in on a diagonal going up and to the right until you read the edge of the grid. Then you should keep moving on the diagonal up and to the left until you reach the left side of the grid. Keep repeating until you reach the top of the grid. Then fill in the rest of the spaces with the light blue color.
+
+5. To make the output, you have to...paint different color pixels in a straight line down until you reach the bottom of the grid. Each pixel should be filled out according to the rainbow spectrum until you fill the last line.
+

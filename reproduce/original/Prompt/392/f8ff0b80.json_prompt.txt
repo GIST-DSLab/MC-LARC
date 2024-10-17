@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...place the colors in order from most to least. For example the color that has the most squares should be the top square color in the output. You then just go down from there. Second most color will go below that.
+
+2. To make the output, you have to...place the colors in inverse order, starting from the one with least squares.
+
+3. To make the output, you have to...arrange the colors alphabetically from A to Z.
+
+4. To make the output, you have to...mix all colors together and then divide by the number of squares.
+
+5. To make the output, you have to...select one color at random and fill all squares with it.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...three objects with different colors.

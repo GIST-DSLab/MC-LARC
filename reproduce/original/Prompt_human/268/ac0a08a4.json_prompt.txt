@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...mold the shapes into a new outline. Reposition the colors in the clay on the new figure. The colored areas will be the cubic volume of the clay.
+
+2. To make the output, you have to...shuffle the color palette around. Subsequently, drag the colors into the new canvas. The colored areas will represent the degree of color intensity.
+
+3. To make the output, you have to...enlarge the game board. Next, move the game pieces to the adjusted board. The colored areas will determine the score.
+
+4. To make the output, you have to...arrange the trunk colors onto the grid. Then, place the seashell colors into the new grid. The colored areas will be the salt water's volume.
+
+5. To make the output, you have to...make the new grid size in black. Then move the grid colors to the new grid in the same relative spots. The colored areas will be the number of colored squares squared.
+

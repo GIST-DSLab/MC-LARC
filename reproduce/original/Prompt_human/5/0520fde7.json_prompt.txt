@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... consider the center square of the input grid. If it is colored, fill the entire output grid with green.
+
+2. To make the output, you have to... check both the left and right parts of the input grid, but only color the output squares if a square is colored in the right part only.
+
+3. To make the output, you have to... examine only the left part of the input grid. If there are any colored squares, replicate them onto the output grid.
+
+4. To make the output, you have to... scan the top and bottom parts of the input grid. Shade the areas of the output grid that are colored in the input grid with blue.
+
+5. To make the output, you have to... look at both the left and right parts of the input grid. You will notice that the left and right parts are 3x3. For each square that is colored on both the left and right parts, color the output grid with red on the new 3x3.
+

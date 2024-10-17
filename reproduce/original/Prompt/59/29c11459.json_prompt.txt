@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... slide green downwards to form 3 greens. pass the orange to the right to make 7 oranges. expose with the shape triangle.
+
+2. To make the output, you have to... move blue to the right to make 5 blue. move red to left to make 5 red. present with color square.
+
+3. To make the output, you have to... rotate yellow counter-clockwise to compose 6 yellows. push purple to right to form 4 purples. display in a circle button.  
+
+4. To make the output, you have to... drag pink to up to make 8 pinks. pull black to the left to construct 2 blacks. symbolize with line drawing.
+
+5. To make the output, you have to... shift white downwards to create 9 whites. move brown to the upper direction to form 8 browns. present with the image of a star.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...two pixels of different colors, horizontally aligned and positioned on the left and right sides.

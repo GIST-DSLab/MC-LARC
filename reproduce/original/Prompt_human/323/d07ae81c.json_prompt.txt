@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... begin from left rectangle towards the right. For new lines, try to adjust the color matching the foreground.
+
+2. To make the output, you have to... start from the top triangle and radiate inward. Helps if you retain the initial color on foreground.
+
+3. To make the output, you have to... sketch from the center circle to boundary. For the new lines, change the color to the one contrasting the background.
+
+4. To make the output, you have to... trace from the outer circle to the inner. Ensure to apply a different color for the new lines contrasting the previous color.
+
+5. To make the output, you have to...draw from single square to diagonal out. For the new lines, make sure to keep the same color on background that is there before.
+

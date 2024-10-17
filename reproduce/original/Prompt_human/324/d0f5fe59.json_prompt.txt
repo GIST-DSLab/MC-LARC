@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...take the same color as the shapes in the input grid and create a line from the top left corner to the base right corner.
+
+2. To make the output, you have to...flip the input grid diagonally and change the color of the top left corner.
+
+3. To make the output, you have to...draw the same shape as provided on the bottom right of the grid.
+
+4. To make the output, you have to...fill all the blocks on the grid with blue color.
+
+5. To make the output, you have to...mix the colors of the shapes given in the input corner.
+

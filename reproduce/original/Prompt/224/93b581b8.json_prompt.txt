@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... maintain the input grid as it is. Then, you will rotate the 4 2x2 blocks around the grid that are touching the corner of the 2x2 colored square. The color of each 2x2 block should be a mixture of all colors of the 2x2 colored square. If the 2x2 colored square is at the corner of the input, the 2x2 blocks you are rotating will be at the middle of the page.
+
+2. To make the output, you have to... erase the input grid. Then, you will remove 4 2x2 blocks from the grid, each touching the corner of the 2x2 colored square in the input. The color of each 2x2 block should be completely different from the opposite corner of the 2x2 colored square. If the 2x2 colored square is in the center of the input, none of the 2x2 blocks you are removing will be off the page.
+
+3. To make the output, you have to... transfer the input grid to another page. Then, you'll place 4 2x2 blocks on the grid, each centered on the corner of the 2x2 colored square in the input. The color of each 2x2 block will be the same as the color next to the 2x2 colored square. If the 2x2 colored square is horizontally centered, the 2x2 blocks you are placing may overlap with each other.
+
+4. To make the output, you have to... cut out the input grid. Then, you will position 4 2x2 blocks under the grid, each aligning with the corner of the 2x2 colored square in the input. The color of each 2x2 block should be the darkest shade of the 2x2 colored square. If the 2x2 colored square is along the border of the input, the 2x2 blocks you are positioning will be covered by the page.
+
+5. To make the output, you have to... copy the input grid. Then, you will add 4 2x2 blocks to the grid, each touching the corner of the 2x2 colored square in the input. The color of each 2x2 block should be the same color as the opposite corner of the 2x2 colored square. If the 2x2 colored square is not in the center of the input, some of the 2x2 blocks you are adding may be off the page.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... a 6x6 grid with a 2x2 colored square composed of four different colors.

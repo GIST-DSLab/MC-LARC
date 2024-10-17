@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... swap green with yellow, dark blue with orange, yellow with light blue, and red with purple colors and replace black boxes with the border color.
+
+2. To make the output, you have to... turn green into orange, dark blue into light blue, yellow into black and red into pink colors and replace black boxes with different color in each corner.
+
+3. To make the output, you have to... replace purple with green, red with dark blue, orange with yellow and light blue with red colors and leave black boxes as it is. 
+
+4. To make the output, you have to... change green with purple, dark blue with yellow, yellow with orange, and red with light blue colors and replace white boxes with the same color in the center.
+
+5. To make the output, you have to... replace green by light blue, dark blue by purple, yellow by red, red by orange colors and replace black boxes with the same color in the center.
+

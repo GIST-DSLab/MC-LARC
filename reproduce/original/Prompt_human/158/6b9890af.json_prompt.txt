@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...invert the colors in the purple hexagon.
+
+2. To make the output, you have to...fill in the red square with the other colored object.
+
+3. To make the output, you have to...water the blue rectangle with a pink jug.
+
+4. To make the output, you have to...combine the yellow triangle and the orange sphere.
+
+5. To make the output, you have to...remove all green shapes from the white circle.
+

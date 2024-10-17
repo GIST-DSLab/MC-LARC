@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...multiply the quantity of lines in input, then according to this product, each grid size is reduced within each square. And each square has to be colored as same in output
+
+2. To make the output, you have to...sum the total of shapes in input, then based on this sum, each grid size is modified within each triangle. And every triangle must be shaded as different in input
+
+3. To make the output, you have to...divide the total tones in input, then based on this quotient, each grid size is adjusted within each pentagon. And each pentagon must be colored differently in the input
+
+4. To make the output, you have to...subtract the amount of textures in input, then as per the difference, each grid size is increased within each circle. And every circle should remain unclored in input
+
+5. To make the output, you have to...count the number of colors in input, then according to the count, each grid size is changed within each block. And each block should be colored as same in input
+

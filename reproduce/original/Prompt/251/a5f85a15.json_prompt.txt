@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...mirror the input grid, then change the color of every fifth pixel starting from the bottom-left pixel of each diagonal line to blue.
+
+2. To make the output, you have to...invert the color of the input grid, then change the color of every odd-numbered pixel starting from the bottom-right pixel of each vertical line to green.
+
+3. To make the output, you have to...replicate the input grid, then change the color of every even-numbered pixel starting from the top-left pixel of each diagonal line to yellow.
+
+4. To make the output, you have to...duplicate the input grid, then change the color of every third pixel starting from the top-right pixel of each horizontal line to red.
+
+5. To make the output, you have to...copy the input grid, then change the color of the last pixel of each vertical line to purple.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...diagonal lines of colored pixels.

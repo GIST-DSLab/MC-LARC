@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...invert the colors of all squares that are one square deep, creating an outline along the grid.
+
+2. To make the output, you have to...color all the squares that are only two deep from the outside edge using pink color.
+
+3. To make the output, you have to...immediately draw a diagonal line across the grid connecting the corners.
+
+4. To make the output, you have to...copy the input grid into the output. Around the outside of the grid, you will notice some squares are only one square deep around. Take note of these squares. Using green, draw straight lines horizontally and vertically from these squares that are only one deep around the outside, connecting them only to squares on the other side of the grid that also are only one square deep.
+
+5. To make the output, you have to...remove all squares that are one square deep and place them in a circular pattern.
+

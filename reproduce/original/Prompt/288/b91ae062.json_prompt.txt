@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...sum the total of shapes in input, then based on this sum, each grid size is modified within each triangle. And every triangle must be shaded as different in input
+
+2. To make the output, you have to...multiply the quantity of lines in input, then according to this product, each grid size is reduced within each square. And each square has to be colored as same in output
+
+3. To make the output, you have to...divide the total tones in input, then based on this quotient, each grid size is adjusted within each pentagon. And each pentagon must be colored differently in the input
+
+4. To make the output, you have to...count the number of colors in input, then according to the count, each grid size is changed within each block. And each block should be colored as same in input
+
+5. To make the output, you have to...subtract the amount of textures in input, then as per the difference, each grid size is increased within each circle. And every circle should remain unclored in input
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...3x3 colored pattern.

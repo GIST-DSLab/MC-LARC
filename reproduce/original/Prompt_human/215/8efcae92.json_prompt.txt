@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...downsize the grid to match the shape, but the colors don't need to be the same.
+
+2. To make the output, you have to...reset the grid's settings and the two colors are different from the shape.
+
+3. To make the output, you have to...make the grid the same size as the shape and the two colors are just like in the shape.
+
+4. To make the output, you have to...alter the shape's size to the grid's size and maintain the original colors.
+
+5. To make the output, you have to...ensure the shape is smaller than the grid and mix up the two colors.
+

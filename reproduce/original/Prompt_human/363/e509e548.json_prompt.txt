@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...alter design color to yellow if the design has four 180 degree edges, black if it has five and white if it has six. Also if the format is Y it is yellow, W it's white and a B it is black.
+
+2. To make the output, you have to...switch design color to gold if the design exhibits nine 120 degree corners, silver if it has ten and copper if it has zero. Also, if the shape is a Z it is copper, an N it is gold and a U it has to be silver.
+
+3. To make the output, you have to...change design color to green if the design only has one 45 degree edge, orange if it has two and purple if it has three. Also if its shape is a 2 it is green, a d it is orange and an F it is purple.
+
+4. To make the output, you have to...change design color to blue if the design only has one 90 degree edge, pink if it has two and red if it has three. also if it shape is a 1 it is red, a c it is pink and an L it is blue.
+
+5. To make the output, you have to...modify design color to brown if the design includes seven 60 degree angles, grey if it has eight and violet if it has one. Also, if its shape is an S it is grey, an M it is brown and a V it stands for violet.
+

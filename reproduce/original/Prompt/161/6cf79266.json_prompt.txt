@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... FOR EACH identifiable 3x3 black grid within the random pattern, MAKE a 3x3 dark blue square if APPLICABLE and POSSIBLE
+
+2. To make the output, you have to... FOR EACH identifiable 3x3 black grid within the random pattern, ERASE a 3x3 dark blue square if APPLICABLE and POSSIBLE
+
+3. To make the output, you have to... FOR EACH identifiable pixel within the random pattern, MAKE a rainbow circle if APPLICABLE and POSSIBLE
+
+4. To make the output, you have to... FOR EACH distinguishable 7x7 red grid within the random pattern, MAKE a 7x7 dark blue square if APPLICABLE and POSSIBLE
+
+5. To make the output, you have to... FOR EACH identifiable 3x3 black grid within the checkerboard, MAKE a 3x3 dark blue square if APPLICABLE and POSSIBLE
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... a grid filled randomly with a certain color and a black background.

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...set purple amongst the orange circle structure, but not directly touching any of the orange circles.
+
+2. To make the output, you have to...lay black at the center of the pink hexagon structure, but not directly next to any of the pink hexagons.
+
+3. To make the output, you have to...place green in the corner of the blue triangle structure, but not directly adjacent to any of the blue triangles.
+
+4. To make the output, you have to...put red in the middle of the yellow square structure, but not actually next to any of the yellow squares.
+
+5. To make the output, you have to...keep white within the brown pentagon structure, but not immediately near any of the brown pentagons.
+

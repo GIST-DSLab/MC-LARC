@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...fill the white area within the gray with green if it is a rectangle; otherwise, don't touch it.
+
+2. To make the output, you have to...fill the gray area within the black with blue if it is a circle; otherwise, leave it as it is.
+
+3. To make the output, you have to...color the red area within the gray with black if it is a triangle; otherwise, ignore it.
+
+4. To make the output, you have to...color the black area within the gray with purple if it is a pentagon; otherwise, don't interfere.
+
+5. To make the output, you have to...fill the black area within the gray with red if it is a square; otherwise, leave it alone.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...gray rectangles with the black area inside.

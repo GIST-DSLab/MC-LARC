@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...rotate the larger shape 90 degrees clockwise, then reflect it in the direction of the smaller shape. Fill the rest of the grid with light green.
+
+2. To make the output, you have to...take the shape with more blocks and copy it exactly onto the output grid in the same color, then reflect it in the direction of the smaller shape. So you have an exact reflection of the larger shape. Color the rest of the background light green.
+
+3. To make the output, you have to...draw lines that connect the corners of the shapes and fill in the resulting quadrilateral with the same color as the smaller shape.
+
+4. To make the output, you have to...fill the entire grid with light green blocks, then add a smaller shape in any color of your choice.
+
+5. To make the output, you have to...merge the two shapes together, creating a new shape in the process. Then, reflect this new shape onto the grid with the same color. Fill the rest of the grid with light green.
+

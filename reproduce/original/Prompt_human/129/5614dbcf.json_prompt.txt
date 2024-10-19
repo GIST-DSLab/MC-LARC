@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...use the scale provided on the side. Measure each square in comparison and mark on the output paper.
+
+2. To make the output, you have to...examine the diagonally positioned squares and exclude the ones with even numbers. Focus on the blue squares only.
+
+3. To make the output, you have to... compile all the gray triangles together. Each group of triangles would form a square in the output.
+
+4. To make the output, you have to...identify the clustered red circles. Each group of circles represent a point on the final output.
+
+5. To make the output, you have to...see the pattern of large colored squares made with smaller squares. Ignore the single gray squares. Each large colored square made of many small squares should be a single square on the output grid.
+

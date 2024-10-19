@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...define the boundaries of 4 sectors within the input grid and use various shades of blue, starting with light blue, to create a swirling pattern around the colored squares.
+
+2. To make the output, you have to...split the input grid into 4 sections and apply a gradient of light blue from the colored squares towards the center of the grid. 
+
+3. To make the output, you have to...consider each of the 4 sections of the input grid separately, then replicate a pattern of the first colored squares, and extend lines through the grid tapering towards the middle.
+
+4. To make the output, you have to...compress the input grid into 4 quadrants and used the colored squares as a guide for creating a random pattern throughout the output.
+
+5. To make the output, you have to...use the in put grid as 4 sections of the out put so that there is a pattern of the first colored squares, then using light blue make lines up and down from the colored squares to until you reach another colored square or the end of the out put grid.
+

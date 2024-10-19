@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... only use the size and position of single colored pixels, excluding the solid rectangular block.
+
+2. To make the output, you have to... replace all single colored pixels with the solid rectangular block.
+
+3. To make the output, you have to... only copy the size and position of the solid rectangular block, except other single colored pixels.
+
+4. To make the output, you have to... alter the size and position of the solid rectangular block, but keep other single colored pixels.
+
+5. To make the output, you have to... eliminate the solid rectangular block and only use single colored pixels.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... a grid of random colors with a solid rectangle clearly visible.

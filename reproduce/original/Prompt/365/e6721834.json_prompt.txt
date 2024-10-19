@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...recolor the output grid to exclude the two boxes, and then overlap the colored boxes on the grid where the interior boxes mismatch.
+
+2. To make the output, you have to...change the output grid to the background color that does not include the two boxes. Next place the colored boxes on the grid where the interior colored boxes match.
+
+3. To make the output, you have to...shape the output grid to match the two boxes' layout, then place the colored boxes onto a grid without any color.
+
+4. To make the output, you have to...redesign the output grid to the foreground color including the two boxes, then place the colored boxes off the grid where the interior colored boxes don't match.
+
+5. To make the output, you have to...alter the output grid to a color that the two boxes can't match. Proceed to place the colored boxes outside the grid where the interior colored boxes misalign.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a large grid with two different background colors. One grid will have individual colored pixel patterns. The other grid will have colored pixels surrounded by another color of rectangle.

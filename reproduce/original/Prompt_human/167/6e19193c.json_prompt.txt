@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to....fill a diagonal line starting from one corner of the grid that continues until the center, in the contrasting color from the input grid.
+
+2. To make the output, you have to....draw a horizontal line from the center of the grid using the same color as the input grid.
+
+3. To make the output, you have to....fill an entire L-shaped starting from the edge of the grid, following the center line, using a different color than the input grid.
+
+4. To make the output, you have to....start from the edge of the grid and fill an entire diagonal line with a color that is not present in the input grid.
+
+5. To make the output, you have to....fill a diagonal line starting from the center of L-shaped that continues until the edge of the grid, in the same color as the input grid
+

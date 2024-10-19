@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...compare the squares in the top and bottom 4x4 square. If they match (both black or both color) make the output square black. If they do not match, make the output square green.
+
+2. To make the output, you have to...combine the elements in the right and left 3x3 square. If they are similar (either white or color), make the output square blue. If not, make the output square orange.
+
+3. To make the output, you have to... analyze the circles in the first and last 5x5 square. If they are the same (both black or both color), make the output circle purple. If they differ, make the output circle yellow.
+
+4. To make the output, you have to... blend the rectangles in the front and the rear 7x7 squares. If they align (both black or color), make the output rectangle brown. If they are unmatched, make the output rectangle silver.
+
+5. To make the output, you have to... merge the hexagons in the north and south 6x6 squares. If they coincide (either black or color), make the output hexagon red. If they disagree, make the output hexagon pink.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see....two 4x4 grid sections divided by a horizontal yellow line. For upper section, there is random blue pattern. For below section, there is random red pattern.

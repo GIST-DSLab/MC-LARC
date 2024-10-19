@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...create a fine line pattern inside the blue square border, then fill out the border edges with black and white pixels.
+
+2. To make the output, you have to...push the blue square border off to one corner of the canvas, and then use the red and yellow pixels to color the remainder of the screen.
+
+3. To make the output, you have to...fill the entire square, except for the border, with alternating colored pixels in a checkerboard pattern, then add speckled shading to the border itself.
+
+4. To make the output, you have to...negate the blue color of the border, replace it with a red hue, then fill in the enclosed space with a marble texture.
+
+5. To make the output, you have to...fill the inside of the blue square border with a single colored pixel. Then, you also fill the pixels where the blue square border is open, and draw a single line on top of the border's upper edge.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...create and design your own pattern without minding the given one on the input grid.
+
+2. To make the output, you have to...ignore the input grid, just start drawing patterns as per your own preference.
+
+3. To make the output, you have to...copy the input grid to the output grid. You will see boxes where the pattern is missing. In these boxes, mirror the pattern from the opposite side of the grid, exactly. Use the same colors.
+
+4. To make the output, you have to...recolor all elements on the grid without reference to the initial pattern.
+
+5. To make the output, you have to...fill the blank spaces with any color you like. No need to replicate existing patterns.
+

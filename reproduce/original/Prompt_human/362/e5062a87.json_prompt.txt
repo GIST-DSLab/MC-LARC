@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...exchange the blue rectangles for yellow diamonds, if they fit the same design as the blue ones.
+
+2. To make the output, you have to...detect similar patterns between pink triangles and orange diamonds, and turn all the orange diamonds into pink.
+
+3. To make the output, you have to...find any red circles that are in the same pattern as the square ones, then transform the circles to triangles.
+
+4. To make the output, you have to...find any black squares that are in the same pattern as the red squares, then change the black squares in each pattern to red.
+
+5. To make the output, you have to...detect any green circle clones of the red square patterns and modify the green circles to squares.
+

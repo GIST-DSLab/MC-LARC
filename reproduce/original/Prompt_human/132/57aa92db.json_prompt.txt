@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...use the unique shaped grids and replace the complete with the unique shape. 
+
+2. To make the output, you have to...use the unique shaped grids and fill the incomplete with the unique shape.
+
+3. To make the output, you have to...draw the exact picture on the grid by using the unique shape. 
+
+4. To make the output, you have to...use the common round grids and fill them with the unique shape.
+
+5. To make the output, you have to...design the unique shaped grid without filling any shape.
+

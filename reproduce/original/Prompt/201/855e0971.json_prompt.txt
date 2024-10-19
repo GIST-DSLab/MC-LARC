@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...utilize all of the given black tiles scattered randomly across the color block without any specific pattern. 
+
+2. To make the output, you have to...arrange the black tiles in a diagonal pattern from one corner of the color grid to the other.
+
+3. To make the output, you have to...create a cross using the black tiles on each colored block spread either horizontally and vertically but never in a single line.
+
+4. To make the output, you have to...circle the perimeter of each colored block with the black tiles provided, without covering the blocks themselves.
+
+5. To make the output, you have to...make one single line of black tiles, using the black tile provided, to cover the color block that it is located in either horizontally or vertically. You figure this out by determining which line would be shorter and create single black line in that manner. That is you have one black line that goes from the top of the color grid that it is in, to the bottom of that color grid. Or from side to side, depending on length.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...the entire grid divided into multiple colors either horizontally or vertically, with a few black pixels scattered randomly.

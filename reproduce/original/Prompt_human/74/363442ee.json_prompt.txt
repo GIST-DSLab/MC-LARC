@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...reverse the entire pattern and place the blue square in the center
+
+2. To make the output, you have to...use the blue square as the middle square and recreate the same pattern replacing the blue square with the same color in the middle as the pattern
+
+3. To make the output, you have to...remove the blue square out of the pattern and start again
+
+4. To make the output, you have to...only select and swap the blue square from the pattern
+
+5. To make the output, you have to...randomly change the colors of the square in the pattern, including the blue one
+

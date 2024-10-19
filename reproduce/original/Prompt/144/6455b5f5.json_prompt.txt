@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to... flood the largest white shape with dark blue and the smallest white shape with light blue. If there are several shapes with the smallest area, fill all these shapes with light blue.
+
+2. To make the output, you have to... fill the largest black shape with dark blue. Fill the smallest black shape with light blue. If there is more than one shape with the smallest number of squares, fill all of the smallest shapes with light blue.
+
+3. To make the output, you have to... coat the smallest red shape with light blue and the largest red shape with dark blue. If several shapes size up to the smallest size, apply light blue to all of them.
+
+4. To make the output, you have to... color the smallest black shape with dark green and the largest black shape with light green. If there are multiple shapes of the same small size, only color one with dark green.
+
+5. To make the output, you have to... paint the smallest black shape with yellow and the largest black shape with dark green. If there is more than one shape that fits the smallest size, fill all these shapes with yellow.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... a number of horizontal and vertical red lines which create several rectangle sections.

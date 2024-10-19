@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...Compress the pattern towards the center where the red square is not located. If a corner doesn't have a red square, compress all corners equivalently. Pattern should shift down and left uniformly.
+
+2. To make the output, you have to...Extend the pattern in the direction that the red square is located on the square. If more than one corner has a red square, extend all corners to the edge by the width of the square. Pattern should go up one and over one by a width of two.
+
+3. To make the output, you have to...Expand the pattern in the direction that the blue square is placed. If only one corner has a red square, expand that corner only. Patterns should go down two and right one with a margin of one. 
+
+4. To make the output, you have to...Constrict the pattern in the direction opposite to where the red square is located. If less than one corner has a red square, constrict all corners inversely. Pattern should go down three and left two by a width of four.
+
+5. To make the output, you have to...Maintain the pattern in the position that the green circle is found. If more than two corners have a yellow triangle, keep those corners. Pattern should go left two and up one by half the width.
+

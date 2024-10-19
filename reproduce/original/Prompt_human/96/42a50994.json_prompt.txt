@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...remove all the pixels from the input grid, isolate individual pixels, and fill the entire screen with a single color. Finished  
+
+2. To make the output, you have to...expand the input grid to twice its original size, mark out the pixels that are diagonally aligned, and change the color of every third pixel to green. Finalized 
+
+3. To make the output, you have to...flip the input grid horizontally, identify which pixels are in a straight line, and change the color of all pixels to the foreground color or blue. Ended
+
+4. To make the output, you have to...rotate the input grid by 180 degrees, locate disconnected pixels and change the colors of every other pixel to white. Completed 
+
+5. To make the output, you have to...copy the input grid, identify which pixels are connected or touching any other and change background colors of single pixels to the background color or black. Done
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...choose the square with the most colorful blocks in the pattern. Use that design to fill the blocks in the output design. The gray areas need to be replaced.
+
+2. To make the output, you have to...use a random square from the pattern and repeat it across the entire output area. The gray areas are not important.
+
+3. To make the output, you have to...pick the square that has the least color blocks and use it to fill the pattern, change the color of the gray areas as needed. 
+
+4. To make the output, you have to...create a new square from the pattern and use that to fill the output design. The gray areas should be filled with a different color.
+
+5. To make the output, you have to...find the square that has only four color blocks in the pattern. Use that design to fill the blocks in the output design. The gray areas stay the same.
+

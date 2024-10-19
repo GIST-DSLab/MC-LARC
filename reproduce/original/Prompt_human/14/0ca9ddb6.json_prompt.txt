@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...mimic the image. Where there's a yellow circle, place red circles around it (5 total). Where there's a light green rhombus, put purple triangles next to it (4 total). Ignore the beige and grey lines.
+
+2. To make the output, you have to...mirror the graphic. Where there's a blue circle, set green circles inside it (4 total). Where there's a bright yellow triangle, place dark red triangles around it (6 total). Leave alone the violet or turquoise hexagons.
+
+3. To make the output, you have to...copy image exactly. Where there's a red square, put yellow squares at it's corners (4 total). Where there's a dark blue square, put orange squares directly above and below it (4 total). Do nothing with light blue or magenta squares
+
+4. To make the output, you have to...draft the picture. Where there's a green triangle, position pink triangles at its vertices (3 total). Where there's a black rectangle, place teal rectangles to the left and right of it (2 total). Do nothing with white or magenta circles.
+
+5. To make the output, you have to...replicate the illustration. Where there's a fuschia hexagon, place lime hexagons on its sides (6 total). Where there's a taupe circle, put brown circles on its corners (8 total). Do nothing with cyan or indigo stars.
+

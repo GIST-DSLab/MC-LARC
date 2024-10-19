@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...mix the colors of the patterns until you get the color of the rectangle border. And change the orientation of the grid to match the direction of the pattern.
+
+2. To make the output, you have to...arrange the colors in the order that they appear inside of the same colored rectangle border. And adjust the brightness of the screen to match the color of the pattern.
+
+3. To make the output, you have to...copy the color and position of pattern inside of the same colored rectangle border. And resize the grid to match the size of the copied pattern.
+
+4. To make the output, you have to...move the color palette till the color matches the color of the pattern inside the rectangle border. And resize the image until it fits the dimensions of the grid.
+
+5. To make the output, you have to...spin the colored circle until the color of the pattern resembles the color of the rectangle border. And zoom in to the grid until the size of the pattern matches.
+

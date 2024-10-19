@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...remove the colored grids from the input, leaving a blank grid. There should be no color A or color B grids left.
+
+2. To make the output, you have to...copy the input grid, identify the colors of the colored grids. we will call it color A and color B. Around the grids with color A, create a 3x3 square with color B, surrounding the color A grids. Around the grids with color B, create a 3x3 square with color A, surrounding the color B grids. Now we should have four 3x3 squares, in which two squares are A color with B colored grid in their centers.
+
+3. To make the output, you have to...identify the colors of the colored grids, we will call them color A and color B. Around the grids with color A, create a 3x3 square with color A, surrounding the color B grids. Around the grids with color B, create a 3x3 square with color B, surrounding the color A grids. Now we should have two 3x3 squares, each with the same color as their centers.
+
+4. To make the output, you have to...keep the input grid as it is, without creating any new squares or changing colors. The output grid would be an exact copy of the input grid.
+
+5. To make the output, you have to...exchange the colors of the input grid, switching color A with color B and vice versa. There should be no colored squares around the original grids.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...four pixels that are aligned horizontally and vertically. Each pixel has the same color as the pixel located diagonally opposite to it.

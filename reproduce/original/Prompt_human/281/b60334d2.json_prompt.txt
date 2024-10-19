@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...place the grey block in such a manner that it lays flat in between the east and west position. The north and south position holds the blue blocks while the grey block retains its color.
+
+2. To make the output, you have to...use the grey block as the center of a square that is surrounded by alternating grey and blue blocks. Blue is at the north, east, south and west position. Change the grey center to black.
+
+3. To make the output, you have to...set the grey block not as the center, but to the side of a square that is surrounded by blue and green blocks only. The center position is blank.
+
+4. To make the output, you have to...rotate the blocks in such a way that the grey blocks align along the corners and blue blocks at the center. The grey blocks are now converted to red.
+
+5. To make the output, you have to...organize the blocks in a circular fashion with the blue blocks enclosing the grey block. Change the blue blocks surrounding the grey center to green.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to....designate an area where the red pixels dominate the most in the input grid.
+
+2. To make the output, you have to....copy the 3x3 square from the input grid that has the most blue pixels.
+
+3. To make the output, you have to....generate a new grid using the least used color on the current 3x3 square.
+
+4. To make the output, you have to....replicate every green pixel from the 3x3 square that has the most yellow pixels in the input grid.
+
+5. To make the output, you have to....spread all pixels evenly across the grid, with blue pixels prioritized.
+

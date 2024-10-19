@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... neglect the thickness of the line. Use the same color for several lines if required.
+
+2. To make the output, you have to... randomize the order of the colors used. It does not matter if you end up using the same color twice in a row.
+
+3. To make the output, you have to...color pattern set of what order the colors were used in. Even if the line is thick, use color once at one line.
+
+4. To make the output, you have to... use only a select few colors from the set. Not all colors need to be used.
+
+5. To make the output, you have to... use each color a specific number of times. The pattern or order of the colors does not matter.
+

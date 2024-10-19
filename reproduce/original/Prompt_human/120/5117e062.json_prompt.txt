@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...replace the light blue color with the color that surround it.
+
+2. To make the output, you have to...aerate the color spectrum by 75%.
+
+3. To make the output, you have to...change the shape of the image to a square.
+
+4. To make the output, you have to...reverse the primary color to the secondary color.
+
+5. To make the output, you have to...make the background shades darker by 20%.
+

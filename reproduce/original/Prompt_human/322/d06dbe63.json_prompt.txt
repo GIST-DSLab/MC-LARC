@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...place grey blocks in the center, three up and then three to the right in the red box. Below the yellow box add grey blocks, three to the left and then three down. Repeat this sequence throughout the grid.
+
+2. To make the output, you have to...use just grey blocks add blocks to the top of the blue box, add two up, and then two to the right. Below the blue box add grey blocks, two down and then two to the left. Repeat this pattern to the edge of the grid.
+
+3. To make the output, you have to...place both black and grey blocks to top left the corner of the blue box, three upwards and then one to the right. Repeat this pattern thrice and repeat till end.
+
+4. To make the output, you have to...place a grey block around the green diamond, add five to the top and then five to the left. Near blue diamond add grey blocks, five downwards and then five to the right. Keep this arrangement till the edge of the screen.
+
+5. To make the output, you have to...use just pink blocks, mix them onto the right side of the see through box, four right and then four up. Down the see through box add pink blocks, three down and then three to the right. Continue till the end.
+

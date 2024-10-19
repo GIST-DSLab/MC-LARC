@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...manipulate the square to form an outline frame. Create a zigzag path that intersects the monochrome dots.
+
+2. To make the output, you have to...transform the triangle into a pyramid shape. Construct a curvy line that meets the negative space.
+
+3. To make the output, you have to...morph the ellipse to use as a contour guide. Formulate a straight line that overlaps the grayscale pixel.
+
+4. To make the output, you have to...adjust the circle into a hexagonal boundary. Subsequently, draw the diagonal line crossing at the points of intersection.
+
+5. To make the output, you have to...replicate the rectangle to be a background grid. Then make the vertical and horizontal line that crosses at the color pixel.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a rectangle grid within a large grid. Around the rectangle, there are a lot of random colored pixels. The single colored grid will contain some other color of pixel or pixels.

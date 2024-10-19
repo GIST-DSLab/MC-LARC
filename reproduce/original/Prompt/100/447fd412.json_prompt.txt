@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to, first and foremost, discard the input grid, then replicate the pattern based on the red part of the filled object. But each red pixel's location must remain stable, and if the size has expanded, then reduce the pattern's size accordingly.
+
+2. To make the output, you have to..., firstly, copy the input grid, then copy the pattern based on the red part of the completed object. However, all the positions of the existing red pixels must remain fixed. Also, if the size has increased, increase the size of the pattern proportionally.
+
+3. To make the output, you should start by duplicating the input grid, then ignore the red part while focusing on the completed object. Also, each red pixel's position must remain identical, and if the size has expanded, decrease the pattern's size proportionally.
+
+4. To make the output, you ought to, first of all, copy the input grid, thereafter, copy the pattern without relying on the red aspect of the completed item. Although all of the red pixels' positions should remain the same, should there be an increase in size, do not adjust the pattern size proportionally.
+
+5. To make the output, you have to..., firstly, copy the input grid, then erase the pattern based on the red part of the completed object. However, all the positions of the existing red pixels must remain fixed. Also, if the size has decreased, increase the size of the pattern proportionally.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a completed object pattern consisting of red and blue colors. Additionally, there is a shape made up of only red color without blue.

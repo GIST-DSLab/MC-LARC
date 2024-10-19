@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...try to count the edges of the grid and then create a triangle within.
+
+2. To make the output, you have to...take the colored as the starting and end point of the rectangle or square assume that the grid make rectangle or square.
+
+3. To make the output, you have to...use the circles as the foundation for your pyramid and construct it accordingly.
+
+4. To make the output, you have to...focus on the intersections of the grid lines for creating a perfect sphere.
+
+5. To make the output, you have to...identify the hexagonal shapes on the grid and start creating the circle from there.
+

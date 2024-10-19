@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... transpose an individual 4x4 grid, which is similar in structure to other 4x4 grid patterns, at random positions on the output grid.
+
+2. To make the output, you have to... copy a single 1x1 grid, which is identical in shape to the other 1x1 grid patterns, in the center of the output grid.
+
+3. To make the output, you have to... move a whole 3x3 grid, which is distinct in arrangement from other 3x3 grid patterns, to the edges on the output grid.
+
+4. To make the output, you have to... replicate a single 2x2 grid, which is different in shape from the other 2x2 grid patterns, at each of the four corners onto the output grid.
+
+5. To make the output, you have to... rotate a standalone 5x5 grid, different in configuration than the rest 5x5 grid patterns, around the center of the output grid.
+

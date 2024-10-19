@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...connect all the red spots with a straight line following a north to south direction. The line will be labeled with green except for the initial area that should be light blue.
+
+2. To make the output, you have to...draw a zigzag pattern from the light blue squares going towards the red spots. The line has to be green with the exception of the first couple of spots that are light blue.
+
+3. To make the output, you have to...let the maroon line overlaps on top of the green squares, only leaving the start and end points which should be light blue.
+
+4. To make the output, you have to...create a spiral pattern starting from the light blue squares going towards the center of the grid. All other spaces apart from the center should be green.
+
+5. To make the output, you have to...continue the direction the light blue squares are going until it reaches whatever the red spot it touches. Then it bounces off that spot and goes in that direction. Think of Pong. The line will always be diagonal, reach an edge of the grid and green except for the starting two or three spaces that are light blue.
+

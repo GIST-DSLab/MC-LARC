@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...start from the bottom left and paste the input across a straight horizontal line. Make sure all the blocks of the output grid are filled.
+
+2. To make the output, you have to...copy the input. Starting from the bottom left of the output grid, paste the input. Go back to the bottom left, move up one block and to the right one block, paste the input again. Go back to the bottom left, move up two blocks and right two blocks, paste the input again. Repeat this pattern until the leftmost square of the input grid is in the top right corner of the output grid. It will look like a diagonal pattern.
+
+3. To make the output, you have to...ignore the input. Just fill the output grid randomly with blocks. There is no particular pattern.
+
+4. To make the output, you have to...start from the centre of the output grid. Paste the input outward in a circular pattern until all blocks are filled.
+
+5. To make the output, you have to...begin at the top right corner of the output grid. Move down and to the left one block, paste the input there. Continue this until you reach the bottom left corner.
+

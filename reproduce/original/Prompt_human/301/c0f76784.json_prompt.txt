@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...fill the center of the smallest square with purple, the middle square with red and the biggest square with green.
+
+2. To make the output, you have to...fill the center of the smallest square with black, the middle square with white and the biggest square with gray.
+
+3. To make the output, you have to...fill the center of the smallest square with light green, the middle square with dark blue and the biggest square with crimson red.
+
+4. To make the output, you have to...fill the center of the smallest square with orange, the middle square with burgundy and the biggest square with navy blue.
+
+5. To make the output, you have to...fill the center of the smallest square with pink, the middle square with dark yellow and the biggest square with light blue.
+

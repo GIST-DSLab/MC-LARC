@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...take the input as four 3x3 grids, change the black spaces to brown and mark the colored blocks as red.
+
+2. To make the output, you have to...consider the long input as two sections as 4x4 grids, consider that the two sections as one.. then the leave that black spaces as black then point the colored blocks as green.
+
+3. To make the output, you have to...split the input into three sections as 5x5 grids, keep the black spaces black and paint the colored blocks in yellow.
+
+4. To make the output, you have to...view the elongated input as three segments of 2x2 grids, maintain the black spaces as they are and fill the colored blocks with blue.
+
+5. To make the output, you have to...segment the long input into two parts of 4x4 grids, convert the black spaces into green and represent the colored blocks as gray.
+

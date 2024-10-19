@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...model the input pattern in a large notebook. For the border, the number of lines on the page determines how many columns. So, a page with 4 lines would have 4 columns on the top and 4 on the left. For the separate colored block divide the number of colors by 2 in order to determine its size. So, a page with 4 line colors would mean the block would be 2x2. Finally, make a line of yellow triangles from each side of the separate block and ending at either the colored border or the corner of the page.
+
+2. To make the output, you have to...write down the input pattern in the larger output grid. For the border, count the total squares on the grid regardless of their color. So, a grid with 16 squares would have 4 rows on the bottom and 4 on the right. For the separate colored block subtract the number of colors by 2 in order to determine its size. So, a grid with 4 colors would mean the block would be 2x2. Finally, build a tower of green circles extending from the center of the separate block and ending at the middle of the grid.
+
+3. To make the output, you have to...recreate the input pattern in the larger output grid. For the border, the number of colors on the grid determines how many rows. So, a grid with 4 colors would have 4 rows on the bottom and 4 on the right, For the separate colored block multiply the number of colors by 2 in order to determine its size. So, a grid with 4 colors would mean the block would be 8x8. Finally, make a row of red squares extending from each corner of the separate block and ending at either the colored border or the edge of the grid.
+
+4. To make the output, you have to...complicate the input pattern in the regular output grid. For the border, the number of patterns on the grid determines how many rows. So, a grid with 4 patterns would have 4 rows on the right and 4 on the bottom. For the separate patterned block, subtract the number of patterns by 3 in order to determine its size. So, a grid with 4 patterns would mean the block would be 1x1. Finally, construct a row of purple diamonds departing from the top of the separate block and ending at either the patterned border or the corner of the grid.
+
+5. To make the output, you have to...reverse the input pattern in the smaller output grid. For the border, the number of squares not colored on the grid determines how many columns. So, a grid without 4 colors would have 4 columns on the top and 4 on the left. For the separate colored block add the number of colors by 2 in order to determine its size. So, a grid with 4 colors would mean the block would be 6x6. Finally, create a line of blue hexagons starting from the middle of the separate block and ending at either the border or the center of the grid.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a 5x5 grid with a row of colored blocks on the bottom and on the right. There is also a group of 4 same-colored blocks separate from the colored edges.

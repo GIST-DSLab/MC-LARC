@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...first, copy the input grid and leave it as it is. Then, count the black color grid inside the shape. Next, find another area in the large grid with the same number of black grid as in the first shape, however, it will only be black grid without the shape and the black grid might also be surrounded by black squares or have additional black squares around it. After you find the black grid, replicate the first shape with the black grid you find as the center. There should be two identical shapes in the output grid.
+
+2. To make the output, you have to...first, convert all other colored grids into black. Then, pick the first black grid you see as the center of a new shape. However, the new shape will have more black grids than the original and won't be an exact replica.
+
+3. To make the output, you have to...first, remove all colors from the input grid and replace them with black. Then, select a random point in the grid and use it as the center to draw a new shape. Both shapes should have different black grid counts. 
+
+4. To make the output, you have to...first, replace the input grid with an entirely black grid. Then, anywhere in the grid, create a new shape using the count of green squares in the original shape. The end result will not have two shapes with the same black grid count.
+
+5. To make the output, you have to...first, redraw the input grid in reverse order. After flipping the grid, count the number of blue squares within the shape. Copy the shape into a different part of the grid, ensuring that the new shape has fewer black squares.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a large grid with one colored retangle border with black center. Around it, there are random pattern with two colors.

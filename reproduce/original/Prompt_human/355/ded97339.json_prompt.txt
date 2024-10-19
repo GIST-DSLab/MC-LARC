@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...reshape the yellow hexagons that are indirectly parallel to each other.
+
+2. To make the output, you have to...connect the magenta boxes that are directly vertical and horizontal to each other.
+
+3. To make the output, you have to...merge the red triangles that are directly opposite to each other.
+
+4. To make the output, you have to...disconnect the blue squares that are not adjacent to each other.
+
+5. To make the output, you have to...align the green circles that are indirectly diagonal to each other.
+

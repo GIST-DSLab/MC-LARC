@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...identify the color of the grid and locate the lower section of the colored grid-up with the equal identification.
+
+2. To make the output, you have to...measure the distance of the grey grid and position the highest point of the colored grid-down with the same measurement.
+
+3. To make the output, you have to...calculate the circumference of the grey grid and locate the intersection of the colored grid-down with the same calculation.
+
+4. To make the output, you have to...count the grey grid and place the meeting point of the colored grid-down through with the same count.
+
+5. To make the output, you have to...count the steps between grid points and place the central point of the colored grid-up through with the different count.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...place the colors in order from most to least. For example the color that has the most squares should be the top square color in the output. You then just go down from there. Second most color will go below that.
+
+2. To make the output, you have to...place the colors in inverse order, starting from the one with least squares.
+
+3. To make the output, you have to...arrange the colors alphabetically from A to Z.
+
+4. To make the output, you have to...mix all colors together and then divide by the number of squares.
+
+5. To make the output, you have to...select one color at random and fill all squares with it.
+

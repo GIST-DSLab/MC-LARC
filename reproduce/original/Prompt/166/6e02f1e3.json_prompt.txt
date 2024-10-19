@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...place varying numbers of grey rectangles based on the dominant color in the input grid.
+
+2. To make the output, you have to...put 2 grey circles on the corners of the grid depending on the shade variations in the input grid.
+
+3. To make the output, you have to...align 5 blue boxes in a vertical line if there are more than 4 colors in the input grid.
+
+4. To make the output, you have to...place 4 black boxes at random spots based on how dense the patterns are on the input grid.
+
+5. To make the output, you have to...place 3 grey boxes in various spots based on how many colors there are in the input grid. If there is one color, put 3 grey boxes on the top of the grid. If there are two colors, place a diagonal line of grey boxes form top left to bottom right. If there are 3 colors, place a diagonal line of grey boxes going from bottom left to top right.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a 3x3 grid that may have between 1 and 3 colors.

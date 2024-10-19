@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...place a orange square to the space left of any blue square, a red square in the space above any blue square, a purple square to the space on the right of any blue square and a light blue square to the space below any blue square.
+
+2. To make the output, you have to...insert a yellow hexagon to the left of any blue triangle, a red circle above any blue triangle, a purple diamond to the right of any blue triangle and a light blue pentagon below any blue triangle.
+
+3. To make the output, you have to...place an apple next to any banana, a cherry on top of any banana, a plum next to the banana and a peach under any banana.
+
+4. To make the output, you have to... place a light blue square to the right of any purple square, a red square below any orange square, a purple square above any red square and an orange square to the left of any light blue square.
+
+5. To make the output, you have to...distribute green squares on any empty spots, place pink squares randomly on the canvas, scatter black squares randomly and align yellow squares using a grid pattern.
+

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...copy the pattern from the left of the grid to the right, basing it on the number of uncolored grids on the background using a standard background.
+
+2. To make the output, you have to...make the output repeat the design horizontally from the top of the grid by the number of the colored grid on the background using the unique background explained above.
+
+3. To make the output, you have to...randomize the output according to the layout from the right of the grid by the total of the colorless grid on the background using a generic background setting.
+
+4. To make the output, you have to...restart the design vertically from the center of the grid by the density of the colored grid on the static background using the common background information.
+
+5. To make the output, you have to...run the process from the bottom of the grid upwards, counting the number of colored grids on the background. 
+

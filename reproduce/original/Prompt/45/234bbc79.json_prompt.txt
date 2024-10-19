@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...color the grey boxes a different shade from the blocks to which it is connected. Insert additional rows of black boxes. Adjust the left and bottom shapes such that the original grey squares are disconnected.
+
+2. To make the output, you have to...leave the grey boxes as they are, without changing their color to match the blocks. Add more black and white boxes randomly. Turn the shapes around so that they do not connect with the former grey squares.
+
+3. To make the output, you have to...make any grey boxes the same color as the blocks to which it is connected. Remove columns of black boxes. Align the middle and right shapes so that the former grey squares are connected.
+
+4. To make the output, you have to...make the grey boxes stand out by changing the color contrast with the blocks they are connected to. Overly increase the number of black boxes if needed. Disconnect the shapes so that the former grey boxes are not a part of them.
+
+5. To make the output, you have to...turn the grey boxes into pink shades, disregarding the color of the blocks they are connected to. Keep the columns of black boxes in the same position. Misalign the shapes such that the grey squares do not match up.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see... in 3x11, several shapes all of which have a main color with some grey boxes.

@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...create a checkerboard pattern using black and bright red-orange blocks based on the positioning of the blocks in the input grid.
+
+2. To make the output, you have to...swap the positions of the black and red-orange blocks in the input grid to create the output.
+
+3. To make the output, you have to...begin with a blank grid then randomly place the blocks of bright red-orange color around the edges of the grid.
+
+4. To make the output, you have to....make the entire output grid black. then find the block in the input grid that is the only one of that color and place it in the same position in the output grid. Then surround that block with blocks of the bright red color
+
+5. To make the output, you have to...create an inverted mirror image of the input grid using only blocks of black color.
+

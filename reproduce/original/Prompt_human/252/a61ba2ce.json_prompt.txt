@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...use the grayscale pattern and put them in random positions. Then fill in the middle 4 squares with white.
+
+2. To make the output, you have to...follow an inverted version of the colored pattern, placing it on the sides. Then color the middle square with black.
+
+3. To make the output, you have to...scatter the colors without any pattern, placing them in the center. Then color the 4 corner squares with black.
+
+4. To make the output, you have to...follow the colored pattern and put them on all the corners exactly how the pattern is placed. Then fill in the middle 4 squares with black.
+
+5. To make the output, you have to...ignore the colored pattern and put them on all the corners however you like. Then leave the middle 4 squares empty.
+

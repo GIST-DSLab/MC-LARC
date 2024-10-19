@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...arrange all the pixels within a single layer and change their color to grayscale. Discard any left over blocks not fitting in.
+
+2. To make the output, you have to...place all the groups of pixels on top of each other keeping all colors the same. Leave any left over blocks the color of the original background.
+
+3. To make the output, you have to...stack the groups of pixels neatly next to each other, altering the color with each layer. Fill any left over blocks with random color patterns.
+
+4. To make the output, you have to...redistribute the groups of pixels randomly without caring about the color. Leave any left over blocks transparent.
+
+5. To make the output, you have to...scatter all groups of pixels across the image, making sure their colors are different. Recolor any left over blocks with the brightest color available.
+

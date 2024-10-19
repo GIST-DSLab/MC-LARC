@@ -1,0 +1,24 @@
+- Environment Explanation:
+The given images consist of pairs of input and output images. The crucial aspect here is that these image pairs follow a common rule, and accurately inferring this common rule is the key.
+
+Upon closely examining the given images, each image is structured as an NxM grid. (N and M are natural numbers.) There are a total of 10 pixel colors: black, blue, red, cyan, brown, pink, gray, yellow, and green.
+
+I will provide you with several pairs of input-output images that adhere to a common rule.
+
+Here are the options:
+1. To make the output, you have to...search for a blue 9x9 grid. Write down the pattern of the input grid onto the output grid. Yet, the number of copies on the output grid is predetermined- you have to copy the pattern 2 times, no matter how many colored squares are there. The location of the copied pattern has no distinct pattern on the output grid.
+
+2. To make the output, you have to...start with a white 9x9 grid. Transpose the pattern of the input grid onto the output grid. However, the number of copies on the output grid is independent of the number of colored squares on the input grid. You always have to copy the pattern 5 times, regardless of the number of colored squares. The location of the copied pattern is randomly placed on the output grid.
+
+3. To make the output, you have to...create a black 9x9 grid. Copy the pattern of the input grid onto the output grid. However, the number of copies on the output grid is determined by the number of colored squares on the input grid. So if there are 3 colored squares on the input grid, you have to copy the pattern on the output grid 3 times. And if there are 5 colored squares on the input grid, you have to copy the pattern 5 times. The location of the copied pattern on the output grid also follows the location of each of the colored squares on the input grid.
+
+4. To make the output, you have to...use a red 9x9 grid. Implement the pattern of the input grid to the output grid. Still, the number of times you copy the pattern on the output grid relates to how many colored squares are there. If fewer than 3 colored squares are there, you have to copy the pattern 2 times and if more, copy it 6 times. The position of the copied pattern situates on the corners of the output grid.
+
+5. To make the output, you have to...draw a green 9x9 grid. Move the pattern of the input grid to the output grid. But, you should always copy the pattern on the output grid 7 times regardless of the number of colored squares. The location of the copied pattern is always in the center of the output grid.
+
+- Things you have to do:
+Your task is to choose the option among the given choices that most accurately describes the relationship between the given images.
+Please choose the most accurate option among the given choices numbered 1 through 5. Please respond with option [number]. Do not say anything else.
+
+- Hint:
+In the input, you should see...a 3x3 grid with only one color and simple pattern.

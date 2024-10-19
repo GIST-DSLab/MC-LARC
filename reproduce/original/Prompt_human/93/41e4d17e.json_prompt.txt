@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...place a yellow pixel at the top of each square and extend lines from it to the corners of the square. The lines will be yellow and are not permitted to cross outside the square.
+
+2. To make the output, you have to...find the center of each square and add a magenta pixel to its center. From that magenta pixel draw a line from each side of it (up, down, left, right) going straight to the border of the entire grid. Each magenta line must reach the border of the square. The magenta lines are allowed to cross over each other.
+
+3. To make the output, you have to...locate the corners of each square and connect them with a blue pixel. Each blue line should stay within the square and not cross over each other.
+
+4. To make the output, you have to...draw a circle from the middle of each square, then color the surrounding area of the circle orange, leaving the circle white. All circles must be contained within the squares.
+
+5. To make the output, you have to...identify the center of each square, then insert a green pixel, and extend lines from the pixel along the diagonal directions until they hit a wall. These green lines should not be allowed to intersect with each other.
+

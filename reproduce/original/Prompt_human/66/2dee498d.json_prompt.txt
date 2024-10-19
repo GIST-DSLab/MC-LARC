@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... color the identified pattern with multiple colors.
+
+2. To make the output, you have to... empty the grid completely.
+
+3. To make the output, you have to... fill the grid up with the singular identified pattern.
+
+4. To make the output, you have to... split the grid in two and work one at a time.
+
+5. To make the output, you have to... ignore the pattern and fill the grid randomly.
+

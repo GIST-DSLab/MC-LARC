@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to... enlarge the input grid. Then, you have to omit each incomplete line. Change the lines color scheme while not matching the pattern of the single complete line.
+
+2. To make the output, you have to... erase the input grid. Then, you have to alter each incomplete line. Ignore the lines color scheme while matching the pattern of the single complete line.
+
+3. To make the output, you have to... copy the input grid. Then, you have to complete each incomplete line. Maintain the lines color scheme while matching the pattern of the single complete line.
+
+4. To make the output, you have to... shrink the input grid. Then, you have to add new lines to make each line complete. Keep the lines color scheme while not matching the pattern of the single complete line.
+
+5. To make the output, you have to... rotate the input grid. Then, you have to ignore each incomplete line. Alter the lines color scheme while matching the pattern of the single complete line.
+

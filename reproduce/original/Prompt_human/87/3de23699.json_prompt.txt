@@ -1,0 +1,11 @@
+Here are the options:
+1. To make the output, you have to...delete the colored shape and replace it with the shapes in the four corners.
+
+2. To make the output, you have to...rotate the colored shape to align with the four corner squares.
+
+3. To make the output, you have to...increase transparency of the colored shape based on the intensity of the four corner squares.
+
+4. To make the output, you have to...reduce the size of the colored shape to match the size of the four corner squares. 
+
+5. To make the output, you have to...change the color of the colored shape to the color of the four corner squares.
+

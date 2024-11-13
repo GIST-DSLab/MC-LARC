@@ -21,8 +21,8 @@ MC-LARC
 
 <p align="center">
   <a href="https://mc-larc.github.io/"><strong><code>Project Page</code></strong></a>
-  <a href="https://openreview.net/forum?id=8ed7ZGhBGJ#discussion"><strong><code>Paper</code></strong></a>
-  <a href="https://github.com/GIST-DSLab/MC-LARC/tree/main/dataset"><strong><code>Dataset</code></strong></a>
+  <a href="https://aclanthology.org/2024.findings-emnlp.392/"><strong><code>Paper</code></strong></a>
+  <a href="https://mc-larc.github.io/download"><strong><code>Dataset</code></strong></a>
 </p>
 
 ---

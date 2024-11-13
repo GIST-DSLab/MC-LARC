@@ -1,3 +1,7 @@
+# Data Download
+
+We introduce various versions of MC-LARC, which is available in [here](https://mc-larc.github.io/download).
+
 # Data Description
 
 We provide the MC-LARC dataset and refined ['LARC_dataset'](refined_larc.csv).

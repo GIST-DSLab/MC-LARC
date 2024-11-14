@@ -51,7 +51,7 @@ The five options are randomly shuffled, and there is only one correct answer. Yo
 
 ---
 ### Reference
-[1] Acquaviva, Sam, et al. "Communicating natural programs to humans and machines." *Advances in Neural Information Processing Systems 35* (2022): 3731-3743.
-[2] Shin, et al. "MC-LARC Dataset for Evaluating the Reasoning Abilities of Large Language Models", *Korea Software Congress* (2023)
-[3] Shin, et al. "Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability" *IJCAI Workshop on Analogical Abstraction in Cognition, Perception, and Language* (2024)
+[1] Acquaviva, Sam, et al. "Communicating natural programs to humans and machines." *Advances in Neural Information Processing Systems 35* (2022): 3731-3743. </br>
+[2] Shin, et al. "MC-LARC Dataset for Evaluating the Reasoning Abilities of Large Language Models", *Korea Software Congress* (2023) </br>
+[3] Shin, et al. "Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability" *IJCAI Workshop on Analogical Abstraction in Cognition, Perception, and Language* (2024) </br>
 [4] Shin and Lee, et al. "From Generation to Selection: Findings of Converting Analogical Problem-Solving into Multiple-Choice Questions", *EMNLP Findings* (2024)

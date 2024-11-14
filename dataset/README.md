@@ -7,9 +7,9 @@ We introduce various versions of MC-LARC, which is available in [here](https://m
 We provide the MC-LARC dataset and refined ['LARC_dataset'](refined_larc.csv).
 
 MC-LARC has three versions:
-- ['Original'](original_mc_larc.csv): without constraints and methods.
-- ['Constraints'](constraints_mc_larc.csv): with constraints.
-- ['Self-feedback'](self-feedback_mc_larc.csv): with constraints and the self-feedback method.
+- ['Original'](original_mc_larc.csv) [2]: without constraints and methods.
+- ['Constraints'](constraints_mc_larc.csv) [3]: with constraints.
+- ['Self-feedback'](self-feedback_mc_larc.csv) [4]: with constraints and the self-feedback method.
 
 If you have any questions about our dataset, please contact us at shindong97411@gmail.com.
 
@@ -37,7 +37,7 @@ However, the LARC dataset was not directly used; Through the refinement process,
 
 ---
 ### 2. MC-LARC csv files
-This file includes five options for each *"description_output"* from the ['refined_larc.csv'](refined_larc.csv) file, serving as the correct answer. </br>
+This file includes five options for each *"description_output"* from the ['refined_larc.csv'](refined_larc.csv) [3] file, serving as the correct answer. </br>
 The five options are randomly shuffled, and there is only one correct answer. You can find what is the correct answer by checking the last *answer* field. </br>
 
 | Field                         | Description                               |
@@ -52,3 +52,6 @@ The five options are randomly shuffled, and there is only one correct answer. Yo
 ---
 ### Reference
 [1] Acquaviva, Sam, et al. "Communicating natural programs to humans and machines." *Advances in Neural Information Processing Systems 35* (2022): 3731-3743.
+[2] Shin, et al. "MC-LARC Dataset for Evaluating the Reasoning Abilities of Large Language Models", *Korea Software Congress* (2023)
+[3] Shin, et al. "Regulation Using Large Language Models to Generate Synthetic Data for Evaluating Analogical Ability" *IJCAI Workshop on Analogical Abstraction in Cognition, Perception, and Language* (2024)
+[4] Shin and Lee, et al. "From Generation to Selection: Findings of Converting Analogical Problem-Solving into Multiple-Choice Questions", *EMNLP Findings* (2024)

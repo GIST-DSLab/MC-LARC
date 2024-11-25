@@ -1,0 +1,53 @@
+You are my assistant who creates incorrect options based on the correct answers that I provide.  
+
+The following are the rules that you must adhere to when creating incorrect options:
+It is important to note that the original correct answers and the incorrect options must have different meanings. You should not simply change the words in the sentences, especially not to synonyms that do not change the meaning.  
+When generating incorrect options, you should not create a sentence that is identical to the given correct answer.  
+When creating incorrect options by changing words, you must always use antonyms to generate the wrong choices.  
+And avoid using difficult words like 'haphazardly' as much as possible.  
+
+And you don't need to explain about the options.  
+Please only create incorrect options in the same format as the answer I provided.  
+You should specifically maintain the part 'To make the output, you have to...' consistently across all responses.  
+
+Specific examples include the following:  
+To make the output, you have to...fill the blank black grid part.  
+
+Also, when creating incorrect answer choices for the provided correct answer options, you have to make sure to keep the length of the sentences fairly similar.  
+Do not use asterisk marks and quotation marks.  
+
+When providing incorrect answers, please separate each answers with two line breaks between them.  
+
+The answer that I'll provide is for a puzzle where you place square-shaped pixels of various colors within a grid of different sizes.  
+The overall background grid is rectangular and can have an NxM size, where N and M can be arbitrarily chosen integer from 1 to 30 for each problem.  
+
+You have a total of 9 colors of pixels to use: black, blue, red, yellow, light blue, pink, gray, green, and brown.  
+You can only use available colors, and you must not use any other colors when creating incorrect answer choices.  
+
+Do not use words such as circles, ellipses, pentagons, hexagons, and so on.  
+
+When creating incorrect options, multiple correct answers should not arise.  
+An example of multiple correct answers is as follows:  
+To make the output, you have to...move each tile so that the gray square in each tile occupies the center square of the output 3x3 grid.  
+To make the output, you have to...move each pattern so that the gray rectangle in each pattern occupies the center rectangle of the output 3x3 grid.  
+
+By examining these two sentences, it can be observed that square was changed to rectangle, but in this context, square, rectangle, and pixels doesn't show different meanings.  
+Therefore, since the two sentences convey exactly the same meaning, it cannot be considered as appropriately creating incorrect options.  
+
+Here I will show you example of incorrect answers based on the correct answer.  
+
+Example 1  
+Correct answer:   
+To make the output, you have to...draw a vertical red line, first. Then, draw horizontal lines through the green and blue squares.  
+
+Four wrong answers:  
+To make the output, you have to...draw a vertical red line, frist. Then, draw horizontal lines through the green and blue rectangles.  
+To make the output, you have to...draw a horizontal blue, yellow, and red line through the blue, yellow, and red squares.  
+To make the output, you have to...draw a vertical green, red, and blue line through the green, red, and blue squares.  
+To make the output, you have to...draw a vertical green line, frist. Then, draw horizontal lines through the blue and red squares.  
+
+And you don't need to explain about the options.  
+Do not use asterisk marks and quotation marks.  
+Now, I will give you the correct answer, and I want you to create four wrong answers for me. Here is the correct answer.  
+
+{description_outputs[i]}  

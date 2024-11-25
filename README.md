@@ -21,15 +21,15 @@ MC-LARC
 
 <p align="center">
   <a href="https://mc-larc.github.io/"><strong><code>Project Page</code></strong></a>
-  <a href="https://openreview.net/forum?id=8ed7ZGhBGJ#discussion"><strong><code>Paper</code></strong></a>
-  <a href="https://github.com/GIST-DSLab/MC-LARC/tree/main/dataset"><strong><code>Dataset</code></strong></a>
+  <a href="https://aclanthology.org/2024.findings-emnlp.392/"><strong><code>Paper</code></strong></a>
+  <a href="https://mc-larc.github.io/download"><strong><code>Dataset</code></strong></a>
 </p>
 
 ---
 
 This page is the official github repository for "From Generation to Selection: Findings Converting Analogical Problem-Solving into Multiple-Choice Questions".
 
-We introduce various versions of MC-LARC, which is available in ['here'](dataset/)
+We introduce various versions of MC-LARC, which is available in [here](https://mc-larc.github.io/download).
 
 If you have any questions about our dataset, please contact us at shindong97411@gmail.com.
 
@@ -54,7 +54,7 @@ If you find our paper helpful in your research, we would appreciate it if you co
 }
 ```
 
-# Acknoledgement
+# Acknowledgement
 This work was supported by the IITP (RS-2023-00216011, RS-2024-00445087, No. 2019-0-01842) and the NRF (RS-2024-00451162) grants funded by the Ministry of Science and ICT, Korea. Experiments were supported by the Accelerate Foundation Models Research Initiative, Microsoft.
 
-###### *This work was doen @ GIST Data Science Lab*
+###### *This work was done @ GIST Data Science Lab*

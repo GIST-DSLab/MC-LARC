@@ -31,9 +31,9 @@ openai_errors = []
 wrong_format_errors = []
 skip_errors = []
 
-# for i in range(0, 400):     # For all descriptions,
+for i in range(0, 400):     # For all descriptions,
 
-for i in numbers:          # For error numberes,
+# for i in numbers:          # For error numberes,
     
     # ChatGPT prompt
     messages = [
